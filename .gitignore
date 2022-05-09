@@ -35,6 +35,7 @@ locos/**
 !locos/*/results_TCGA/clinical_TCGA.csv
 !locos/*/results_TCGA/gene_id_mapping*
 !locos/*/results_TCGA/results_surv*
+!locos/*/results_TCGA/tradpws/
 !locos/*/results_TCGA/tradpws/results_surv*
 !locos/*/scripts/
 !locos/*/scripts/get-args.R
