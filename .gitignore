@@ -25,6 +25,7 @@ data/**
 data/TCGA-TGCT/
 pathways/**
 !pathways/arr_hgnc.zip
+!pathways/databases/
 !pathways/databases/databases.zip
 
 # Big and irrelevant i/o files
