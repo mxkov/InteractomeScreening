@@ -49,6 +49,7 @@ scripts_common/**/trash/
 scripts_common/**/pre2903/
 scripts_common/runs/current*
 scripts_common/GO/
+!scripts_common/tools/
 
 # Report files
 report/**
