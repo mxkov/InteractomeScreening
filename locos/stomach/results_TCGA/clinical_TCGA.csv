@@ -1,0 +1,376 @@
+case_submitter_id,project,histological_type,vital_status,days_to_death,days_to_last_follow_up,days_fwup,days_nte,days_os,days_pfs,event_os,event_pfs
+TCGA-3M-AB46,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1765,1765,NA,1765,1765,0,0
+TCGA-3M-AB47,TCGA-STAD,Adenocarcinoma NOS,Dead,NA,NA,NA,395,NA,395,1,1
+TCGA-B7-5818,TCGA-STAD,Carcinoma diffuse type,Alive,NA,356,356,NA,356,356,0,0
+TCGA-B7-A5TI,TCGA-STAD,Carcinoma diffuse type,Alive,NA,595,595,NA,595,595,0,0
+TCGA-B7-A5TJ,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,335,335,NA,335,335,0,0
+TCGA-B7-A5TK,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,288,288,NA,288,288,0,0
+TCGA-B7-A5TN,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,287,287,NA,287,287,0,0
+TCGA-BR-4187,TCGA-STAD,Adenocarcinoma NOS,Dead,141,0,0,NA,141,141,1,1
+TCGA-BR-4191,TCGA-STAD,Adenocarcinoma NOS,Dead,558,0,0,NA,558,558,1,1
+TCGA-BR-4201,TCGA-STAD,Adenocarcinoma NOS,Dead,940,0,0,NA,940,940,1,1
+TCGA-BR-4253,TCGA-STAD,Adenocarcinoma NOS,Dead,124,0,0,NA,124,124,1,1
+TCGA-BR-4256,TCGA-STAD,Adenocarcinoma NOS,Dead,284,0,0,NA,284,284,1,1
+TCGA-BR-4257,TCGA-STAD,Adenocarcinoma NOS,Dead,294,0,0,NA,294,294,1,1
+TCGA-BR-4267,TCGA-STAD,Adenocarcinoma NOS,Dead,188,0,0,NA,188,188,1,1
+TCGA-BR-4279,TCGA-STAD,Adenocarcinoma NOS,Dead,291,0,0,NA,291,291,1,1
+TCGA-BR-4280,TCGA-STAD,Adenocarcinoma NOS,Dead,201,0,0,NA,201,201,1,1
+TCGA-BR-4294,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4357,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4361,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4363,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4366,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4367,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4368,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4369,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4370,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-4371,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-6452,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1055,1055,NA,1055,1055,0,0
+TCGA-BR-6453,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,485,485,NA,485,485,0,0
+TCGA-BR-6454,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-6455,TCGA-STAD,Adenocarcinoma NOS,Dead,422,399,399,385,422,385,1,1
+TCGA-BR-6456,TCGA-STAD,Adenocarcinoma NOS,Dead,526,308,308,NA,526,526,1,1
+TCGA-BR-6457,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,416,416,NA,416,416,0,0
+TCGA-BR-6458,TCGA-STAD,Adenocarcinoma NOS,Dead,588,213,213,574,588,574,1,1
+TCGA-BR-6563,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1190,1190,148,1190,148,0,1
+TCGA-BR-6564,TCGA-STAD,Adenocarcinoma NOS,Dead,794,25,25,NA,794,794,1,1
+TCGA-BR-6565,TCGA-STAD,Adenocarcinoma NOS,Dead,279,19,19,NA,279,279,1,1
+TCGA-BR-6566,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,997,997,NA,997,997,0,0
+TCGA-BR-6705,TCGA-STAD,Adenocarcinoma NOS,Dead,779,421,421,NA,779,779,1,1
+TCGA-BR-6707,TCGA-STAD,Adenocarcinoma NOS,Dead,605,491,491,426,605,426,1,1
+TCGA-BR-6709,TCGA-STAD,Adenocarcinoma NOS,Dead,370,38,38,NA,370,370,1,1
+TCGA-BR-6710,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,273,273,NA,273,273,0,0
+TCGA-BR-6801,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1223,1223,NA,1223,1223,0,0
+TCGA-BR-6802,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,940,940,807,940,807,0,1
+TCGA-BR-6803,TCGA-STAD,Carcinoma diffuse type,Alive,NA,949,949,NA,949,949,0,0
+TCGA-BR-6852,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1367,1367,NA,1367,1367,0,0
+TCGA-BR-7196,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,666,666,348,666,348,0,1
+TCGA-BR-7197,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,280,280,NA,280,280,0,0
+TCGA-BR-7704,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1072,1072,NA,1072,1072,0,0
+TCGA-BR-7707,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1090,1090,NA,1090,1090,0,0
+TCGA-BR-7715,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1023,1023,NA,1023,1023,0,0
+TCGA-BR-7716,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1210,1210,NA,1210,1210,0,0
+TCGA-BR-7717,TCGA-STAD,Adenocarcinoma NOS,Dead,552,21,21,NA,552,552,1,1
+TCGA-BR-7722,TCGA-STAD,Adenocarcinoma NOS,Dead,466,5,5,NA,466,466,1,1
+TCGA-BR-7723,TCGA-STAD,Adenocarcinoma NOS,Dead,874,564,564,559,874,559,1,1
+TCGA-BR-7851,TCGA-STAD,Adenocarcinoma intestinal type,Dead,NA,574,574,NA,574,NA,1,1
+TCGA-BR-7901,TCGA-STAD,Adenocarcinoma NOS,Dead,105,29,29,91,105,91,1,1
+TCGA-BR-7957,TCGA-STAD,Adenocarcinoma intestinal type,Dead,276,21,21,NA,276,276,1,1
+TCGA-BR-7958,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,899,899,NA,899,899,0,0
+TCGA-BR-7959,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,1010,1010,NA,1010,1010,0,0
+TCGA-BR-8058,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1133,1133,89,1133,89,0,1
+TCGA-BR-8059,TCGA-STAD,Adenocarcinoma intestinal type,Dead,439,25,25,NA,439,439,1,1
+TCGA-BR-8060,TCGA-STAD,Adenocarcinoma NOS,Dead,348,40,40,NA,348,348,1,1
+TCGA-BR-8077,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,21,21,NA,21,21,0,0
+TCGA-BR-8080,TCGA-STAD,Mucinous adenocarcinoma,Dead,292,15,15,NA,292,292,1,1
+TCGA-BR-8081,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,981,981,NA,981,981,0,0
+TCGA-BR-8284,TCGA-STAD,Adenocarcinoma intestinal type,Dead,245,22,22,NA,245,245,1,1
+TCGA-BR-8286,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,895,895,NA,895,895,0,0
+TCGA-BR-8289,TCGA-STAD,Adenocarcinoma intestinal type,Dead,81,8,8,NA,81,81,1,1
+TCGA-BR-8291,TCGA-STAD,Carcinoma diffuse type,Dead,607,496,496,NA,607,607,1,1
+TCGA-BR-8295,TCGA-STAD,Adenocarcinoma intestinal type,Dead,67,47,47,NA,67,67,1,1
+TCGA-BR-8296,TCGA-STAD,Adenocarcinoma intestinal type,Dead,474,45,45,390,474,390,1,1
+TCGA-BR-8297,TCGA-STAD,Carcinoma diffuse type,Alive,NA,225,225,NA,225,225,0,0
+TCGA-BR-8361,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,946,946,NA,946,946,0,0
+TCGA-BR-8364,TCGA-STAD,Carcinoma diffuse type,Alive,NA,675,675,NA,675,675,0,0
+TCGA-BR-8365,TCGA-STAD,Adenocarcinoma NOS,Dead,533,90,90,NA,533,533,1,1
+TCGA-BR-8366,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,29,29,NA,29,29,0,0
+TCGA-BR-8367,TCGA-STAD,Adenocarcinoma NOS,Dead,801,418,418,580,801,580,1,1
+TCGA-BR-8368,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,131,131,NA,131,131,0,0
+TCGA-BR-8369,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,427,427,419,427,419,0,1
+TCGA-BR-8371,TCGA-STAD,Adenocarcinoma NOS,Dead,359,11,11,357,359,357,1,1
+TCGA-BR-8372,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,951,951,NA,951,951,0,0
+TCGA-BR-8373,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,450,450,NA,450,450,0,0
+TCGA-BR-8380,TCGA-STAD,Adenocarcinoma NOS,Dead,NA,21,21,467,21,467,1,1
+TCGA-BR-8381,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,224,224,NA,224,224,0,0
+TCGA-BR-8382,TCGA-STAD,Adenocarcinoma NOS,Dead,762,482,482,NA,762,762,1,1
+TCGA-BR-8384,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,113,113,NA,113,113,0,0
+TCGA-BR-8483,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,164,164,NA,164,164,0,0
+TCGA-BR-8484,TCGA-STAD,Adenocarcinoma NOS,Dead,766,22,22,NA,766,766,1,1
+TCGA-BR-8485,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,280,280,NA,280,280,0,0
+TCGA-BR-8486,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-8487,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,34,34,NA,34,34,0,0
+TCGA-BR-8588,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,389,389,NA,389,389,0,0
+TCGA-BR-8589,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,825,825,NA,825,825,0,0
+TCGA-BR-8590,TCGA-STAD,Adenocarcinoma NOS,Dead,284,65,65,223,284,223,1,1
+TCGA-BR-8591,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,856,856,NA,856,856,0,0
+TCGA-BR-8592,TCGA-STAD,Carcinoma diffuse type,Dead,191,6,6,NA,191,191,1,1
+TCGA-BR-8676,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,229,229,NA,229,229,0,0
+TCGA-BR-8677,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,813,813,NA,813,813,0,0
+TCGA-BR-8678,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,754,754,NA,754,754,0,0
+TCGA-BR-8679,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-8680,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,972,972,NA,972,972,0,0
+TCGA-BR-8682,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,991,991,NA,991,991,0,0
+TCGA-BR-8683,TCGA-STAD,Tubular adenocarcinoma,Dead,300,18,18,NA,300,300,1,1
+TCGA-BR-8686,TCGA-STAD,Tubular adenocarcinoma,Dead,635,477,477,NA,635,635,1,1
+TCGA-BR-8687,TCGA-STAD,Adenocarcinoma NOS,Dead,250,19,19,NA,250,250,1,1
+TCGA-BR-8690,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,325,325,NA,325,325,0,0
+TCGA-BR-A44T,TCGA-STAD,Carcinoma diffuse type,Alive,NA,1038,1038,682,1038,682,0,1
+TCGA-BR-A44U,TCGA-STAD,Adenocarcinoma NOS,Dead,422,35,35,NA,422,422,1,1
+TCGA-BR-A4CR,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-BR-A4CS,TCGA-STAD,Adenocarcinoma NOS,Dead,45,28,28,NA,45,45,1,1
+TCGA-BR-A4IV,TCGA-STAD,Carcinoma diffuse type,Dead,869,411,411,737,869,737,1,1
+TCGA-BR-A4J4,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,16,16,NA,16,16,0,0
+TCGA-BR-A4J5,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,862,862,NA,862,862,0,0
+TCGA-BR-A4J6,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,20,20,NA,20,20,0,0
+TCGA-BR-A4J7,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,989,989,NA,989,989,0,0
+TCGA-BR-A4J8,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,411,411,NA,411,411,0,0
+TCGA-BR-A4J9,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,14,14,NA,14,14,0,0
+TCGA-BR-A4PF,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,35,35,NA,35,35,0,0
+TCGA-BR-A4QL,TCGA-STAD,Adenocarcinoma NOS,Dead,491,352,352,NA,491,491,1,1
+TCGA-CD-5798,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,408,408,NA,408,408,0,0
+TCGA-CD-5799,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,396,396,NA,396,396,0,0
+TCGA-CD-5800,TCGA-STAD,Papillary adenocarcinoma NOS,Alive,NA,400,400,NA,400,400,0,0
+TCGA-CD-5801,TCGA-STAD,Adenocarcinoma NOS,Dead,401,15,15,NA,401,401,1,1
+TCGA-CD-5803,TCGA-STAD,Adenocarcinoma NOS,Dead,341,2,2,300,341,300,1,1
+TCGA-CD-5804,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-CD-5813,TCGA-STAD,Mucinous adenocarcinoma,Dead,377,12,12,315,377,315,1,1
+TCGA-CD-8524,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,388,388,69,388,69,0,1
+TCGA-CD-8525,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,383,383,NA,383,383,0,0
+TCGA-CD-8526,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,381,381,NA,381,381,0,0
+TCGA-CD-8527,TCGA-STAD,Adenocarcinoma intestinal type,Dead,218,2,2,159,218,159,1,1
+TCGA-CD-8528,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,375,375,NA,375,375,0,0
+TCGA-CD-8529,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,374,374,NA,374,374,0,0
+TCGA-CD-8530,TCGA-STAD,Carcinoma diffuse type,Alive,NA,377,377,NA,377,377,0,0
+TCGA-CD-8531,TCGA-STAD,Carcinoma diffuse type,Alive,NA,383,383,NA,383,383,0,0
+TCGA-CD-8532,TCGA-STAD,Adenocarcinoma NOS,Dead,354,3,3,282,354,282,1,1
+TCGA-CD-8533,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,468,468,226,468,226,0,1
+TCGA-CD-8534,TCGA-STAD,Carcinoma diffuse type,Alive,NA,367,367,201,367,201,0,1
+TCGA-CD-8535,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,390,390,NA,390,390,0,0
+TCGA-CD-A486,TCGA-STAD,Adenocarcinoma NOS,Dead,192,104,104,79,192,79,1,1
+TCGA-CD-A487,TCGA-STAD,Carcinoma diffuse type,Alive,NA,374,374,NA,374,374,0,0
+TCGA-CD-A489,TCGA-STAD,Carcinoma diffuse type,Dead,344,4,4,277,344,277,1,1
+TCGA-CD-A48A,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,378,378,NA,378,378,0,0
+TCGA-CD-A48C,TCGA-STAD,Adenocarcinoma NOS,Dead,353,4,4,230,353,230,1,1
+TCGA-CD-A4MG,TCGA-STAD,Carcinoma diffuse type,Dead,200,2,2,74,200,74,1,1
+TCGA-CD-A4MH,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,371,371,NA,371,371,0,0
+TCGA-CG-4301,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,92,92,NA,92,92,0,0
+TCGA-CG-4304,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,NA,NA,NA,NA,NA,0,0
+TCGA-CG-4305,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,485,485,457,485,457,0,1
+TCGA-CG-4306,TCGA-STAD,Adenocarcinoma NOS,Dead,1,NA,NA,NA,1,1,1,1
+TCGA-CG-4436,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,243,243,NA,243,243,0,0
+TCGA-CG-4437,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,245,245,NA,245,245,0,0
+TCGA-CG-4438,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1645,1645,NA,1645,1645,0,0
+TCGA-CG-4440,TCGA-STAD,Adenocarcinoma intestinal type,Dead,122,NA,NA,NA,122,122,1,1
+TCGA-CG-4441,TCGA-STAD,Adenocarcinoma intestinal type,Dead,426,NA,NA,NA,426,426,1,1
+TCGA-CG-4442,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,0,0,NA,0,0,0,0
+TCGA-CG-4443,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,912,912,NA,912,912,0,0
+TCGA-CG-4444,TCGA-STAD,Carcinoma diffuse type,Alive,NA,1431,1431,NA,1431,1431,0,0
+TCGA-CG-4460,TCGA-STAD,Adenocarcinoma intestinal type,Dead,669,NA,NA,487,669,487,1,1
+TCGA-CG-4462,TCGA-STAD,Carcinoma diffuse type,Dead,0,NA,NA,NA,0,0,1,1
+TCGA-CG-4465,TCGA-STAD,Carcinoma diffuse type,Dead,274,NA,NA,NA,274,274,1,1
+TCGA-CG-4466,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,577,577,NA,577,577,0,0
+TCGA-CG-4469,TCGA-STAD,Adenocarcinoma intestinal type,Dead,215,NA,NA,NA,215,215,1,1
+TCGA-CG-4475,TCGA-STAD,Adenocarcinoma with mixed subtypes,Alive,NA,699,699,NA,699,699,0,0
+TCGA-CG-4476,TCGA-STAD,Carcinoma diffuse type,Alive,NA,0,0,NA,0,0,0,0
+TCGA-CG-4477,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,942,942,365,942,365,0,1
+TCGA-CG-5716,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,0,0,NA,0,0,0,0
+TCGA-CG-5717,TCGA-STAD,Adenocarcinoma intestinal type,Dead,212,NA,NA,120,212,120,1,1
+TCGA-CG-5718,TCGA-STAD,Adenocarcinoma intestinal type,Dead,1095,31,31,NA,1095,1095,1,1
+TCGA-CG-5719,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,31,31,NA,31,31,0,0
+TCGA-CG-5720,TCGA-STAD,Adenocarcinoma NOS,Dead,30,NA,NA,NA,30,30,1,1
+TCGA-CG-5721,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,183,183,NA,183,183,0,0
+TCGA-CG-5722,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,30,30,NA,30,30,0,0
+TCGA-CG-5723,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,2496,2496,NA,2496,2496,0,0
+TCGA-CG-5724,TCGA-STAD,Carcinoma diffuse type,Dead,366,NA,NA,122,366,122,1,1
+TCGA-CG-5725,TCGA-STAD,Adenocarcinoma NOS,Dead,457,NA,NA,153,457,153,1,1
+TCGA-CG-5726,TCGA-STAD,Adenocarcinoma intestinal type,Dead,881,NA,NA,NA,881,881,1,1
+TCGA-CG-5732,TCGA-STAD,Adenocarcinoma intestinal type,Dead,2100,1674,1674,1949,2100,1949,1,1
+TCGA-CG-5734,TCGA-STAD,Adenocarcinoma intestinal type,Dead,243,NA,NA,NA,243,243,1,1
+TCGA-D7-5577,TCGA-STAD,Tubular adenocarcinoma,Dead,782,376,376,376,782,376,1,1
+TCGA-D7-5578,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,385,385,NA,385,385,0,0
+TCGA-D7-6519,TCGA-STAD,Carcinoma diffuse type,Alive,NA,625,625,429,625,429,0,1
+TCGA-D7-6520,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,573,573,46,573,46,0,1
+TCGA-D7-6521,TCGA-STAD,Carcinoma diffuse type,Alive,NA,564,564,192,564,192,0,1
+TCGA-D7-6522,TCGA-STAD,Carcinoma diffuse type,Alive,NA,566,566,NA,566,566,0,0
+TCGA-D7-6524,TCGA-STAD,Carcinoma diffuse type,Alive,NA,543,543,543,543,543,0,1
+TCGA-D7-6525,TCGA-STAD,Carcinoma diffuse type,Dead,406,181,181,171,406,171,1,1
+TCGA-D7-6526,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,523,523,NA,523,523,0,0
+TCGA-D7-6527,TCGA-STAD,Papillary adenocarcinoma NOS,Dead,312,126,126,75,312,75,1,1
+TCGA-D7-6528,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,463,463,NA,463,463,0,0
+TCGA-D7-6815,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,486,486,NA,486,486,0,0
+TCGA-D7-6818,TCGA-STAD,Carcinoma diffuse type,Dead,376,376,376,247,376,247,1,1
+TCGA-D7-6822,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,375,375,NA,375,375,0,0
+TCGA-D7-8570,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,752,752,NA,752,752,0,0
+TCGA-D7-8572,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,511,511,NA,511,511,0,0
+TCGA-D7-8573,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,593,593,NA,593,593,0,0
+TCGA-D7-8574,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,523,523,NA,523,523,0,0
+TCGA-D7-8575,TCGA-STAD,Tubular adenocarcinoma,Dead,554,7,7,427,554,427,1,1
+TCGA-D7-8576,TCGA-STAD,Tubular adenocarcinoma,Dead,446,212,212,204,446,204,1,1
+TCGA-D7-8578,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,643,643,451,643,451,0,1
+TCGA-D7-8579,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,636,636,NA,636,636,0,0
+TCGA-D7-A4YU,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,500,500,NA,500,500,0,0
+TCGA-D7-A4YX,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1108,1108,NA,1108,1108,0,0
+TCGA-D7-A4Z0,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,449,449,NA,449,449,0,0
+TCGA-D7-A6EV,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,342,342,NA,342,342,0,0
+TCGA-D7-A6EX,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,344,344,NA,344,344,0,0
+TCGA-D7-A6EY,TCGA-STAD,Tubular adenocarcinoma,Dead,348,NA,NA,NA,348,348,1,1
+TCGA-D7-A6EZ,TCGA-STAD,Adenocarcinoma intestinal type,Dead,618,618,618,NA,618,618,1,1
+TCGA-D7-A6F0,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,678,678,NA,678,678,0,0
+TCGA-D7-A6F2,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,476,476,NA,476,476,0,0
+TCGA-D7-A747,TCGA-STAD,Carcinoma diffuse type,Dead,255,NA,NA,NA,255,255,1,1
+TCGA-D7-A748,TCGA-STAD,Carcinoma diffuse type,Dead,132,NA,NA,99,132,99,1,1
+TCGA-D7-A74A,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,607,607,NA,607,607,0,0
+TCGA-EQ-8122,TCGA-STAD,Adenocarcinoma intestinal type,Dead,243,237,237,NA,243,243,1,1
+TCGA-F1-6177,TCGA-STAD,Adenocarcinoma NOS,Dead,NA,0,0,NA,0,NA,1,1
+TCGA-F1-6874,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,440,440,NA,440,440,0,0
+TCGA-F1-6875,TCGA-STAD,Adenocarcinoma NOS,Dead,2197,NA,NA,NA,2197,2197,1,1
+TCGA-F1-A448,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,647,647,NA,647,647,0,0
+TCGA-F1-A72C,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,346,346,343,346,343,0,1
+TCGA-FP-7735,TCGA-STAD,Adenocarcinoma NOS,Dead,106,12,12,NA,106,106,1,1
+TCGA-FP-7829,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,594,594,NA,594,594,0,0
+TCGA-FP-7916,TCGA-STAD,Carcinoma diffuse type,Dead,428,92,92,NA,428,428,1,1
+TCGA-FP-7998,TCGA-STAD,Carcinoma diffuse type,Alive,NA,678,678,NA,678,678,0,0
+TCGA-FP-8099,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,519,519,NA,519,519,0,0
+TCGA-FP-8209,TCGA-STAD,Carcinoma diffuse type,Dead,1811,NA,NA,1676,1811,1676,1,1
+TCGA-FP-8210,TCGA-STAD,Carcinoma diffuse type,Dead,153,NA,NA,NA,153,153,1,1
+TCGA-FP-8211,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,413,413,NA,413,413,0,0
+TCGA-FP-8631,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,17,17,NA,17,17,0,0
+TCGA-FP-A4BF,TCGA-STAD,Signet ring cell carcinoma,Dead,168,47,47,159,168,159,1,1
+TCGA-FP-A8CX,TCGA-STAD,Signet ring cell carcinoma,Alive,NA,7,7,NA,7,7,0,0
+TCGA-FP-A9TM,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,189,189,NA,189,189,0,0
+TCGA-HF-7131,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,NA,NA,NA,NA,NA,0,0
+TCGA-HF-7132,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,2351,2351,NA,2351,2351,0,0
+TCGA-HF-7133,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,1918,1918,NA,1918,1918,0,0
+TCGA-HF-7134,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1588,1588,NA,1588,1588,0,0
+TCGA-HF-A5NB,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,928,928,NA,928,928,0,0
+TCGA-HJ-7597,TCGA-STAD,Signet ring cell carcinoma,Dead,805,NA,NA,231,805,231,1,1
+TCGA-HU-8238,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,46,46,NA,46,46,0,0
+TCGA-HU-8244,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,742,742,NA,742,742,0,0
+TCGA-HU-8249,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,881,881,NA,881,881,0,0
+TCGA-HU-8602,TCGA-STAD,Carcinoma diffuse type,Alive,NA,679,679,NA,679,679,0,0
+TCGA-HU-8604,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,694,694,NA,694,694,0,0
+TCGA-HU-8608,TCGA-STAD,Carcinoma diffuse type,Alive,NA,641,641,277,641,277,0,1
+TCGA-HU-8610,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,23,23,NA,23,23,0,0
+TCGA-HU-A4G2,TCGA-STAD,Carcinoma diffuse type,Alive,NA,739,739,NA,739,739,0,0
+TCGA-HU-A4G3,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,170,170,NA,170,170,0,0
+TCGA-HU-A4G8,TCGA-STAD,Carcinoma diffuse type,Alive,NA,690,690,NA,690,690,0,0
+TCGA-HU-A4G9,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,736,736,NA,736,736,0,0
+TCGA-HU-A4GC,TCGA-STAD,Carcinoma diffuse type,Alive,NA,99,99,NA,99,99,0,0
+TCGA-HU-A4GD,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,692,692,399,692,399,0,1
+TCGA-HU-A4GF,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,785,785,NA,785,785,0,0
+TCGA-HU-A4GH,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,358,358,NA,358,358,0,0
+TCGA-HU-A4GJ,TCGA-STAD,Carcinoma diffuse type,Alive,NA,650,650,547,650,547,0,1
+TCGA-HU-A4GP,TCGA-STAD,Carcinoma diffuse type,Alive,NA,273,273,NA,273,273,0,0
+TCGA-HU-A4GQ,TCGA-STAD,Tubular adenocarcinoma,Dead,3,NA,NA,NA,3,3,1,1
+TCGA-HU-A4GT,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,198,198,NA,198,198,0,0
+TCGA-HU-A4GU,TCGA-STAD,Carcinoma diffuse type,Alive,NA,200,200,NA,200,200,0,0
+TCGA-HU-A4GX,TCGA-STAD,Carcinoma diffuse type,Alive,NA,616,616,NA,616,616,0,0
+TCGA-HU-A4GY,TCGA-STAD,Carcinoma diffuse type,Alive,NA,8,8,NA,8,8,0,0
+TCGA-HU-A4H0,TCGA-STAD,Carcinoma diffuse type,Alive,NA,64,64,NA,64,64,0,0
+TCGA-HU-A4H2,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,394,394,NA,394,394,0,0
+TCGA-HU-A4H3,TCGA-STAD,Carcinoma diffuse type,Alive,NA,882,882,410,882,410,0,1
+TCGA-HU-A4H4,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,725,725,NA,725,725,0,0
+TCGA-HU-A4H5,TCGA-STAD,Papillary adenocarcinoma NOS,Alive,NA,724,724,NA,724,724,0,0
+TCGA-HU-A4H6,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,644,644,NA,644,644,0,0
+TCGA-HU-A4H8,TCGA-STAD,Tubular adenocarcinoma,Not Reported,NA,428,428,354,428,354,0,1
+TCGA-HU-A4HB,TCGA-STAD,Carcinoma diffuse type,Dead,477,268,268,390,477,390,1,1
+TCGA-HU-A4HD,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1016,1016,NA,1016,1016,0,0
+TCGA-IN-7806,TCGA-STAD,Carcinoma diffuse type,Alive,NA,1106,1106,NA,1106,1106,0,0
+TCGA-IN-7808,TCGA-STAD,Carcinoma diffuse type,Dead,105,NA,NA,NA,105,105,1,1
+TCGA-IN-8462,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,572,572,270,572,270,0,1
+TCGA-IN-8663,TCGA-STAD,Adenocarcinoma NOS,Dead,103,NA,NA,NA,103,103,1,1
+TCGA-IN-A6RI,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,559,559,NA,559,559,0,0
+TCGA-IN-A6RJ,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,379,379,NA,379,379,0,0
+TCGA-IN-A6RL,TCGA-STAD,Adenocarcinoma NOS,Dead,406,158,158,307,406,307,1,1
+TCGA-IN-A6RN,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,594,594,NA,594,594,0,0
+TCGA-IN-A6RO,TCGA-STAD,Adenocarcinoma NOS,Dead,NA,NA,NA,154,NA,154,1,1
+TCGA-IN-A6RR,TCGA-STAD,Adenocarcinoma NOS,Dead,205,NA,NA,NA,205,205,1,1
+TCGA-IN-A6RS,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,383,383,NA,383,383,0,0
+TCGA-IN-A7NR,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,198,198,NA,198,198,0,0
+TCGA-IN-A7NT,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,323,323,NA,323,323,0,0
+TCGA-IN-A7NU,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,356,356,337,356,337,0,1
+TCGA-IN-AB1V,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,479,479,NA,479,479,0,0
+TCGA-IN-AB1X,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,411,411,NA,411,411,0,0
+TCGA-IP-7968,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,77,77,NA,77,77,0,0
+TCGA-KB-A6F7,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1935,1935,NA,1935,1935,0,0
+TCGA-KB-A93G,TCGA-STAD,Signet ring cell carcinoma,Alive,NA,613,613,NA,613,613,0,0
+TCGA-KB-A93H,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1145,1145,NA,1145,1145,0,0
+TCGA-KB-A93J,TCGA-STAD,Carcinoma diffuse type,Alive,NA,1124,1124,NA,1124,1124,0,0
+TCGA-MX-A5UG,TCGA-STAD,Carcinoma diffuse type,Dead,113,NA,NA,NA,113,113,1,1
+TCGA-MX-A5UJ,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,600,600,NA,600,600,0,0
+TCGA-MX-A663,TCGA-STAD,Adenocarcinoma NOS,Dead,300,131,131,218,300,218,1,1
+TCGA-MX-A666,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,427,427,NA,427,427,0,0
+TCGA-R5-A7O7,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1389,1389,NA,1389,1389,0,0
+TCGA-R5-A7ZE,TCGA-STAD,Tubular adenocarcinoma,Dead,554,NA,NA,NA,554,554,1,1
+TCGA-R5-A7ZF,TCGA-STAD,Adenocarcinoma intestinal type,Dead,259,NA,NA,NA,259,259,1,1
+TCGA-R5-A7ZI,TCGA-STAD,Carcinoma diffuse type,Alive,NA,2267,2267,NA,2267,2267,0,0
+TCGA-R5-A7ZR,TCGA-STAD,Tubular adenocarcinoma,Dead,185,NA,NA,NA,185,185,1,1
+TCGA-R5-A805,TCGA-STAD,Adenocarcinoma intestinal type,Dead,281,NA,NA,NA,281,281,1,1
+TCGA-RD-A7BS,TCGA-STAD,Carcinoma diffuse type,Dead,336,NA,NA,244,336,244,1,1
+TCGA-RD-A7BT,TCGA-STAD,Adenocarcinoma intestinal type,Dead,262,NA,NA,123,262,123,1,1
+TCGA-RD-A7BW,TCGA-STAD,Carcinoma diffuse type,Dead,156,NA,NA,NA,156,156,1,1
+TCGA-RD-A7C1,TCGA-STAD,Carcinoma diffuse type,Dead,507,NA,NA,438,507,438,1,1
+TCGA-RD-A8MV,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,3720,3720,NA,3720,3720,0,0
+TCGA-RD-A8MW,TCGA-STAD,Adenocarcinoma intestinal type,Dead,1153,1153,1153,98,1153,98,1,1
+TCGA-RD-A8N0,TCGA-STAD,Carcinoma diffuse type,Alive,NA,1236,1236,NA,1236,1236,0,0
+TCGA-RD-A8N1,TCGA-STAD,Carcinoma diffuse type,Alive,NA,3519,3519,NA,3519,3519,0,0
+TCGA-RD-A8N2,TCGA-STAD,Carcinoma diffuse type,Alive,NA,3540,3540,NA,3540,3540,0,0
+TCGA-RD-A8N4,TCGA-STAD,Carcinoma diffuse type,Alive,NA,2171,2171,NA,2171,2171,0,0
+TCGA-RD-A8N5,TCGA-STAD,Mucinous adenocarcinoma,Dead,1747,NA,NA,NA,1747,1747,1,1
+TCGA-RD-A8N6,TCGA-STAD,Adenocarcinoma intestinal type,Dead,272,NA,NA,163,272,163,1,1
+TCGA-RD-A8N9,TCGA-STAD,Carcinoma diffuse type,Alive,NA,1083,1083,NA,1083,1083,0,0
+TCGA-RD-A8NB,TCGA-STAD,Carcinoma diffuse type,Dead,513,NA,NA,230,513,230,1,1
+TCGA-SW-A7EA,TCGA-STAD,Signet ring cell carcinoma,Alive,NA,579,579,NA,579,579,0,0
+TCGA-SW-A7EB,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,176,176,NA,176,176,0,0
+TCGA-VQ-A8DT,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1484,1484,1376,1484,1376,0,1
+TCGA-VQ-A8DU,TCGA-STAD,Tubular adenocarcinoma,Dead,166,NA,NA,158,166,158,1,1
+TCGA-VQ-A8DV,TCGA-STAD,Adenocarcinoma intestinal type,Dead,403,NA,NA,288,403,288,1,1
+TCGA-VQ-A8DZ,TCGA-STAD,Signet ring cell carcinoma,Dead,396,NA,NA,NA,396,396,1,1
+TCGA-VQ-A8E0,TCGA-STAD,Adenocarcinoma intestinal type,Dead,562,NA,NA,531,562,531,1,1
+TCGA-VQ-A8E2,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1319,1319,NA,1319,1319,0,0
+TCGA-VQ-A8E3,TCGA-STAD,Adenocarcinoma NOS,Dead,661,NA,NA,538,661,538,1,1
+TCGA-VQ-A8E7,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1138,1138,1048,1138,1048,0,1
+TCGA-VQ-A8P2,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,1160,1160,NA,1160,1160,0,0
+TCGA-VQ-A8P3,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1132,1132,NA,1132,1132,0,0
+TCGA-VQ-A8P5,TCGA-STAD,Adenocarcinoma intestinal type,Dead,235,NA,NA,NA,235,235,1,1
+TCGA-VQ-A8P8,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,942,942,NA,942,942,0,0
+TCGA-VQ-A8PB,TCGA-STAD,Papillary adenocarcinoma NOS,Dead,1043,1023,1023,NA,1043,1043,1,1
+TCGA-VQ-A8PC,TCGA-STAD,Signet ring cell carcinoma,Dead,1407,NA,NA,1287,1407,1287,1,1
+TCGA-VQ-A8PD,TCGA-STAD,Adenocarcinoma NOS,Dead,496,NA,NA,134,496,134,1,1
+TCGA-VQ-A8PE,TCGA-STAD,Tubular adenocarcinoma,Dead,675,422,422,265,675,265,1,1
+TCGA-VQ-A8PF,TCGA-STAD,Tubular adenocarcinoma,Dead,76,NA,NA,NA,76,76,1,1
+TCGA-VQ-A8PH,TCGA-STAD,Tubular adenocarcinoma,Dead,389,NA,NA,377,389,377,1,1
+TCGA-VQ-A8PJ,TCGA-STAD,Tubular adenocarcinoma,Dead,82,NA,NA,NA,82,82,1,1
+TCGA-VQ-A8PK,TCGA-STAD,Adenocarcinoma intestinal type,Dead,543,NA,NA,263,543,263,1,1
+TCGA-VQ-A8PM,TCGA-STAD,Signet ring cell carcinoma,Dead,57,NA,NA,NA,57,57,1,1
+TCGA-VQ-A8PO,TCGA-STAD,Signet ring cell carcinoma,Dead,282,NA,NA,256,282,256,1,1
+TCGA-VQ-A8PP,TCGA-STAD,Tubular adenocarcinoma,Dead,712,NA,NA,502,712,502,1,1
+TCGA-VQ-A8PQ,TCGA-STAD,Tubular adenocarcinoma,Dead,476,NA,NA,91,476,91,1,1
+TCGA-VQ-A8PU,TCGA-STAD,Tubular adenocarcinoma,Dead,832,820,820,NA,832,832,1,1
+TCGA-VQ-A8PX,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1964,1964,NA,1964,1964,0,0
+TCGA-VQ-A91A,TCGA-STAD,Mucinous adenocarcinoma,Alive,NA,1200,1200,129,1200,129,0,1
+TCGA-VQ-A91D,TCGA-STAD,Adenocarcinoma intestinal type,Dead,356,NA,NA,351,356,351,1,1
+TCGA-VQ-A91E,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,664,664,NA,664,664,0,0
+TCGA-VQ-A91K,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1862,1862,NA,1862,1862,0,0
+TCGA-VQ-A91N,TCGA-STAD,Tubular adenocarcinoma,Dead,570,NA,NA,438,570,438,1,1
+TCGA-VQ-A91Q,TCGA-STAD,Tubular adenocarcinoma,Dead,633,NA,NA,551,633,551,1,1
+TCGA-VQ-A91S,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1000,1000,NA,1000,1000,0,0
+TCGA-VQ-A91U,TCGA-STAD,Adenocarcinoma intestinal type,Dead,52,NA,NA,NA,52,52,1,1
+TCGA-VQ-A91V,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1297,1297,504,1297,504,0,1
+TCGA-VQ-A91X,TCGA-STAD,Adenocarcinoma intestinal type,Dead,289,NA,NA,NA,289,289,1,1
+TCGA-VQ-A91Y,TCGA-STAD,Tubular adenocarcinoma,Dead,296,NA,NA,258,296,258,1,1
+TCGA-VQ-A91Z,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1690,1690,1310,1690,1310,0,1
+TCGA-VQ-A922,TCGA-STAD,Tubular adenocarcinoma,Dead,275,262,262,252,275,252,1,1
+TCGA-VQ-A923,TCGA-STAD,Tubular adenocarcinoma,Dead,0,NA,NA,NA,0,0,1,1
+TCGA-VQ-A924,TCGA-STAD,Tubular adenocarcinoma,Dead,1686,NA,NA,NA,1686,1686,1,1
+TCGA-VQ-A925,TCGA-STAD,Tubular adenocarcinoma,Dead,138,NA,NA,NA,138,138,1,1
+TCGA-VQ-A927,TCGA-STAD,Carcinoma diffuse type,Dead,200,NA,NA,NA,200,200,1,1
+TCGA-VQ-A928,TCGA-STAD,Papillary adenocarcinoma NOS,Dead,174,NA,NA,148,174,148,1,1
+TCGA-VQ-A92D,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,2032,2032,NA,2032,2032,0,0
+TCGA-VQ-A94O,TCGA-STAD,Adenocarcinoma intestinal type,Dead,640,NA,NA,185,640,185,1,1
+TCGA-VQ-A94P,TCGA-STAD,Signet ring cell carcinoma,Dead,81,NA,NA,NA,81,81,1,1
+TCGA-VQ-A94R,TCGA-STAD,Adenocarcinoma intestinal type,Dead,1294,NA,NA,1018,1294,1018,1,1
+TCGA-VQ-A94T,TCGA-STAD,Carcinoma diffuse type,Dead,342,NA,NA,296,342,296,1,1
+TCGA-VQ-A94U,TCGA-STAD,Signet ring cell carcinoma,Alive,NA,819,819,NA,819,819,0,0
+TCGA-VQ-AA64,TCGA-STAD,Adenocarcinoma intestinal type,Dead,560,NA,NA,NA,560,560,1,1
+TCGA-VQ-AA68,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,1328,1328,NA,1328,1328,0,0
+TCGA-VQ-AA69,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,864,864,NA,864,864,0,0
+TCGA-VQ-AA6A,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,1184,1184,NA,1184,1184,0,0
+TCGA-VQ-AA6D,TCGA-STAD,Tubular adenocarcinoma,Alive,NA,521,521,NA,521,521,0,0
+TCGA-VQ-AA6F,TCGA-STAD,Adenocarcinoma NOS,Alive,NA,1646,1646,546,1646,546,0,1
+TCGA-VQ-AA6G,TCGA-STAD,Adenocarcinoma intestinal type,Dead,792,NA,NA,469,792,469,1,1
+TCGA-VQ-AA6J,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,838,838,NA,838,838,0,0
+TCGA-VQ-AA6K,TCGA-STAD,Signet ring cell carcinoma,Dead,378,NA,NA,332,378,332,1,1
+TCGA-ZA-A8F6,TCGA-STAD,Adenocarcinoma intestinal type,Alive,NA,525,525,NA,525,525,0,0
+TCGA-ZQ-A9CR,TCGA-STAD,Tubular adenocarcinoma,Dead,24,NA,NA,NA,24,24,1,1

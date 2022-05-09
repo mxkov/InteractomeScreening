@@ -1,0 +1,7 @@
+id	filename	md5	size	state
+27bafc9d-b95c-4b49-b3e3-1c90bb1c15dd	nationwidechildrens.org_clinical_radiation_luad.txt	83ca41b35f2e4e983a23e11b33f086f6	33176	validated
+42bf5eb2-bc49-45be-b18a-290f712b006c	nationwidechildrens.org_clinical_patient_luad.txt	4a21048ad826b65c80252b4f4dd2f995	857079	validated
+59015dfd-045b-4a80-9b4a-3cc3a41707f0	nationwidechildrens.org_clinical_drug_luad.txt	788d81f9481e42ea6571a253d3fa3cf6	191001	validated
+75a6bfbc-2ca3-4115-9fe2-f9dd8a50d68b	nationwidechildrens.org_clinical_omf_v4.0_luad.txt	69b0522eaf594abc5b6a8bc72e12a1dd	53243	validated
+a327a35d-246c-4df6-9213-7f01353f4669	nationwidechildrens.org_clinical_nte_luad.txt	53fffd524d83b9c48983b7d1ee4401ec	7895	validated
+c0cb0e6a-b19e-46a5-b750-91ff91385071	nationwidechildrens.org_clinical_follow_up_v1.0_luad.txt	d8d26e69bdee6401f69493d1f757c70b	260225	validated

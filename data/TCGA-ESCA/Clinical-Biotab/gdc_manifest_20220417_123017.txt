@@ -1,0 +1,8 @@
+id	filename	md5	size	state
+0a7ce5fc-756e-4b86-8ce9-b6005261170a	nationwidechildrens.org_clinical_omf_v4.0_esca.txt	8f3df6cf39cc6ab3b3f727973e25bf87	8755	validated
+16e4c1bf-981c-483f-8cbb-46050a8fdc74	nationwidechildrens.org_clinical_follow_up_v4.0_esca.txt	0fe37b0e4dc671e5df118d2852eb634d	34033	validated
+7837b720-9757-45cb-ad0c-5f89ca22bf69	nationwidechildrens.org_clinical_follow_up_v4.0_nte_esca.txt	a91a65a6780d61dc7cedbe00d664b616	8629	validated
+916e5115-af71-427d-82de-231ac023ce41	nationwidechildrens.org_clinical_patient_esca.txt	f43ecb0abec84a7e3193649a05aa9948	149361	validated
+b7f651bd-a017-4cc5-a553-dc51e801d065	nationwidechildrens.org_clinical_drug_esca.txt	c2fbc8b53f10ef570fd6464261b63af4	37212	validated
+b8aba6f2-806c-40d6-93fc-62cd746adcc3	nationwidechildrens.org_clinical_nte_esca.txt	4cc54e06c8dcde8c36ffdc42a126a407	10596	validated
+cc474002-5342-45a0-8a80-3059f303c782	nationwidechildrens.org_clinical_radiation_esca.txt	6f0daa064490344b2ece92dd59c37901	13717	validated

@@ -1,0 +1,503 @@
+case_submitter_id,project,histological_type,vital_status,days_to_death,days_to_last_follow_up,days_fwup,days_nte,days_os,days_pfs,event_os,event_pfs
+TCGA-4P-AA8J,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,102,102,NA,102,102,0,0
+TCGA-BA-4074,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,462,NA,NA,396,462,396,1,1
+TCGA-BA-4075,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,283,NA,NA,236,283,236,1,1
+TCGA-BA-4076,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,415,NA,NA,286,415,286,1,1
+TCGA-BA-4077,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1134,NA,NA,NA,1134,1134,1,1
+TCGA-BA-4078,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,276,NA,NA,NA,276,276,1,1
+TCGA-BA-5151,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,722,722,517,722,517,0,1
+TCGA-BA-5152,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1288,1288,NA,1288,1288,0,0
+TCGA-BA-5153,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1762,NA,NA,1522,1762,1522,1,1
+TCGA-BA-5555,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,520,520,248,520,248,0,1
+TCGA-BA-5556,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,725,725,NA,725,725,0,0
+TCGA-BA-5557,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,623,623,NA,623,623,0,0
+TCGA-BA-5558,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1995,1995,NA,1995,1995,0,0
+TCGA-BA-5559,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2083,1747,1747,1614,2083,1614,1,1
+TCGA-BA-6868,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,472,190,190,344,472,344,1,1
+TCGA-BA-6869,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,644,644,NA,644,644,0,0
+TCGA-BA-6870,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,451,NA,NA,NA,451,451,1,1
+TCGA-BA-6871,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,108,63,63,NA,108,108,1,1
+TCGA-BA-6872,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,384,NA,NA,NA,384,384,1,1
+TCGA-BA-6873,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,122,122,66,122,66,0,1
+TCGA-BA-7269,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1273,1273,NA,1273,1273,0,0
+TCGA-BA-A4IF,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,895,895,463,895,463,0,1
+TCGA-BA-A4IG,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,855,855,NA,855,855,0,0
+TCGA-BA-A4IH,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,622,622,NA,622,622,0,0
+TCGA-BA-A4II,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,918,918,197,918,197,0,1
+TCGA-BA-A6D8,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,850,850,849,850,849,0,1
+TCGA-BA-A6DA,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,351,351,NA,351,351,0,0
+TCGA-BA-A6DB,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,216,216,208,216,208,0,1
+TCGA-BA-A6DD,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,173,NA,NA,96,173,96,1,1
+TCGA-BA-A6DE,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,440,440,NA,440,440,0,0
+TCGA-BA-A6DG,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,69,NA,NA,NA,69,69,1,1
+TCGA-BA-A6DI,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,336,NA,NA,266,336,266,1,1
+TCGA-BA-A6DJ,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,407,314,314,240,407,240,1,1
+TCGA-BA-A6DL,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,623,623,NA,623,623,0,0
+TCGA-BA-A8YP,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,499,499,NA,499,499,0,0
+TCGA-BB-4217,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,187,187,NA,187,187,0,0
+TCGA-BB-4223,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,3221,3221,NA,3221,3221,0,0
+TCGA-BB-4224,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,278,278,175,278,175,0,1
+TCGA-BB-4225,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,146,146,NA,146,146,0,0
+TCGA-BB-4227,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,134,134,85,134,85,0,1
+TCGA-BB-4228,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,559,559,NA,559,559,0,0
+TCGA-BB-8596,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2161,2161,NA,2161,2161,0,0
+TCGA-BB-8601,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,624,624,440,624,440,0,1
+TCGA-BB-A5HU,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,782,782,NA,782,782,0,0
+TCGA-BB-A5HY,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,321,308,308,230,321,230,1,1
+TCGA-BB-A5HZ,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,827,827,438,827,438,0,1
+TCGA-BB-A6UM,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,393,393,NA,393,393,0,0
+TCGA-BB-A6UO,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,268,NA,NA,212,268,212,1,1
+TCGA-C9-A47Z,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,191,5,5,NA,191,191,1,1
+TCGA-C9-A480,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,386,386,NA,386,386,0,0
+TCGA-CN-4722,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1483,1483,NA,1483,1483,0,0
+TCGA-CN-4723,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1699,1699,NA,1699,1699,0,0
+TCGA-CN-4725,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1157,1157,NA,1157,1157,0,0
+TCGA-CN-4726,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,142,NA,NA,79,142,79,1,1
+TCGA-CN-4727,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1560,1560,NA,1560,1560,0,0
+TCGA-CN-4728,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1724,1724,NA,1724,1724,0,0
+TCGA-CN-4729,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,392,392,NA,392,392,0,0
+TCGA-CN-4730,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,817,817,NA,817,817,0,0
+TCGA-CN-4731,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,998,993,993,243,998,243,1,1
+TCGA-CN-4733,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1586,1586,NA,1586,1586,0,0
+TCGA-CN-4734,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1690,1690,NA,1690,1690,0,0
+TCGA-CN-4735,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1737,1737,NA,1737,1737,0,0
+TCGA-CN-4736,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,395,NA,NA,209,395,209,1,1
+TCGA-CN-4737,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,625,625,NA,625,625,0,0
+TCGA-CN-4738,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,436,NA,NA,NA,436,436,1,1
+TCGA-CN-4739,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1394,1330,1330,1302,1394,1302,1,1
+TCGA-CN-4740,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,839,811,811,224,839,224,1,1
+TCGA-CN-4741,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2239,2239,1716,2239,1716,0,1
+TCGA-CN-4742,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,397,NA,NA,NA,397,397,1,1
+TCGA-CN-5355,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1278,1278,NA,1278,1278,0,0
+TCGA-CN-5356,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1409,1409,NA,1409,1409,0,0
+TCGA-CN-5358,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,261,173,173,145,261,145,1,1
+TCGA-CN-5359,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,377,NA,NA,356,377,356,1,1
+TCGA-CN-5360,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2169,2169,NA,2169,2169,0,0
+TCGA-CN-5361,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2120,1681,1681,2062,2120,2062,1,1
+TCGA-CN-5363,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,253,NA,NA,53,253,53,1,1
+TCGA-CN-5364,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,493,NA,NA,NA,493,493,1,1
+TCGA-CN-5365,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,351,NA,NA,NA,351,351,1,1
+TCGA-CN-5366,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,360,NA,NA,276,360,276,1,1
+TCGA-CN-5367,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,352,NA,NA,NA,352,352,1,1
+TCGA-CN-5369,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1,NA,NA,NA,1,1,1,1
+TCGA-CN-5370,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,259,NA,NA,123,259,123,1,1
+TCGA-CN-5373,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1584,1584,NA,1584,1584,0,0
+TCGA-CN-5374,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1732,290,290,1369,1732,1369,1,1
+TCGA-CN-6010,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1523,1523,540,1523,540,0,1
+TCGA-CN-6011,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,933,933,NA,933,933,0,0
+TCGA-CN-6012,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1460,1460,NA,1460,1460,0,0
+TCGA-CN-6013,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,727,628,628,323,727,323,1,1
+TCGA-CN-6016,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1443,1443,NA,1443,1443,0,0
+TCGA-CN-6017,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,853,629,629,NA,853,853,1,1
+TCGA-CN-6018,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,580,45,45,NA,580,580,1,1
+TCGA-CN-6019,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1038,1038,NA,1038,1038,0,0
+TCGA-CN-6020,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,205,98,98,NA,205,205,1,1
+TCGA-CN-6021,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,276,NA,NA,NA,276,276,1,1
+TCGA-CN-6022,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,281,202,202,101,281,101,1,1
+TCGA-CN-6023,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1584,1584,NA,1584,1584,0,0
+TCGA-CN-6024,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,337,224,224,156,337,156,1,1
+TCGA-CN-6988,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,318,318,NA,318,318,0,0
+TCGA-CN-6989,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,980,611,611,436,980,436,1,1
+TCGA-CN-6992,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1066,1066,NA,1066,1066,0,0
+TCGA-CN-6994,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1183,1183,NA,1183,1183,0,0
+TCGA-CN-6995,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,112,NA,NA,NA,112,112,1,1
+TCGA-CN-6996,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,530,432,432,350,530,350,1,1
+TCGA-CN-6997,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,988,429,429,279,988,279,1,1
+TCGA-CN-6998,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,357,46,46,244,357,244,1,1
+TCGA-CN-A497,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,1065,1065,NA,1065,1065,0,0
+TCGA-CN-A498,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,773,443,443,186,773,186,1,1
+TCGA-CN-A499,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,717,717,NA,717,717,0,0
+TCGA-CN-A49A,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,526,391,391,344,526,344,1,1
+TCGA-CN-A49B,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,904,904,NA,904,904,0,0
+TCGA-CN-A49C,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,645,645,NA,645,645,0,0
+TCGA-CN-A63T,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,225,225,NA,225,225,0,0
+TCGA-CN-A63U,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,964,964,NA,964,964,0,0
+TCGA-CN-A63V,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,679,679,NA,679,679,0,0
+TCGA-CN-A63W,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,377,348,348,NA,377,377,1,1
+TCGA-CN-A641,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,367,367,NA,367,367,0,0
+TCGA-CN-A642,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,82,NA,NA,NA,82,82,1,1
+TCGA-CN-A6UY,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,713,713,NA,713,713,0,0
+TCGA-CN-A6V1,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,603,603,NA,603,603,0,0
+TCGA-CN-A6V3,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,742,742,NA,742,742,0,0
+TCGA-CN-A6V6,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,635,635,NA,635,635,0,0
+TCGA-CN-A6V7,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,594,594,NA,594,594,0,0
+TCGA-CQ-5323,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1466,1466,NA,1466,1466,0,0
+TCGA-CQ-5324,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1593,1593,NA,1593,1593,0,0
+TCGA-CQ-5325,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,654,NA,NA,204,654,204,1,1
+TCGA-CQ-5326,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,89,NA,NA,NA,89,89,1,1
+TCGA-CQ-5327,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1660,1660,NA,1660,1660,0,0
+TCGA-CQ-5329,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2143,2143,NA,2143,2143,0,0
+TCGA-CQ-5330,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1897,1897,NA,1897,1897,0,0
+TCGA-CQ-5331,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1399,1399,NA,1399,1399,0,0
+TCGA-CQ-5332,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,317,317,317,NA,317,317,1,1
+TCGA-CQ-5333,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,341,NA,NA,176,341,176,1,1
+TCGA-CQ-5334,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,129,NA,NA,50,129,50,1,1
+TCGA-CQ-6218,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1253,1253,NA,1253,1253,0,0
+TCGA-CQ-6219,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,479,NA,NA,195,479,195,1,1
+TCGA-CQ-6220,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,985,NA,NA,NA,985,985,1,1
+TCGA-CQ-6221,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1000,1000,NA,1000,1000,0,0
+TCGA-CQ-6222,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2016,2016,NA,2016,2016,0,0
+TCGA-CQ-6223,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1428,1428,NA,1428,1428,0,0
+TCGA-CQ-6224,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1721,1721,NA,1721,1721,0,0
+TCGA-CQ-6225,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,403,NA,NA,180,403,180,1,1
+TCGA-CQ-6227,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,129,NA,NA,NA,129,129,1,1
+TCGA-CQ-6228,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,456,NA,NA,273,456,273,1,1
+TCGA-CQ-6229,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1179,1179,NA,1179,1179,0,0
+TCGA-CQ-7063,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2133,2133,1160,2133,1160,0,1
+TCGA-CQ-7065,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1628,1628,230,1628,230,0,1
+TCGA-CQ-7068,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1309,1309,1148,1309,1148,0,1
+TCGA-CQ-7069,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1274,1274,NA,1274,1274,0,0
+TCGA-CQ-7071,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1311,1311,NA,1311,1311,0,0
+TCGA-CQ-7072,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2359,2359,NA,2359,2359,0,0
+TCGA-CQ-A4C6,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1353,1353,NA,1353,1353,0,0
+TCGA-CQ-A4C7,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,353,NA,NA,207,353,207,1,1
+TCGA-CQ-A4C9,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,707,707,287,707,287,0,1
+TCGA-CQ-A4CA,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,NA,NA,NA,NA,NA,0,0
+TCGA-CQ-A4CB,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,893,893,NA,893,893,0,0
+TCGA-CQ-A4CD,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1022,1022,NA,1022,1022,0,0
+TCGA-CQ-A4CE,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,897,897,NA,897,897,0,0
+TCGA-CQ-A4CG,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,430,391,391,350,430,350,1,1
+TCGA-CQ-A4CH,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,379,371,371,210,379,210,1,1
+TCGA-CQ-A4CI,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,950,950,517,950,517,0,1
+TCGA-CR-5243,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2562,2562,NA,2562,2562,0,0
+TCGA-CR-5247,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,358,358,NA,358,358,0,0
+TCGA-CR-5248,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1663,1663,936,1663,936,0,1
+TCGA-CR-5249,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1152,1152,NA,1152,1152,0,0
+TCGA-CR-5250,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,799,799,NA,799,799,0,0
+TCGA-CR-6467,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1777,1777,NA,1777,1777,0,0
+TCGA-CR-6470,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1521,1521,NA,1521,1521,0,0
+TCGA-CR-6471,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1202,NA,NA,498,1202,498,1,1
+TCGA-CR-6472,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1050,1050,NA,1050,1050,0,0
+TCGA-CR-6473,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1125,1125,NA,1125,1125,0,0
+TCGA-CR-6474,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,564,NA,NA,220,564,220,1,1
+TCGA-CR-6477,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,514,514,NA,514,514,0,0
+TCGA-CR-6478,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,183,NA,NA,NA,183,183,1,1
+TCGA-CR-6480,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,362,362,NA,362,362,0,0
+TCGA-CR-6481,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,311,311,NA,311,311,0,0
+TCGA-CR-6482,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,345,345,NA,345,345,0,0
+TCGA-CR-6484,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,354,354,NA,354,354,0,0
+TCGA-CR-6487,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,234,234,NA,234,234,0,0
+TCGA-CR-6488,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,379,379,NA,379,379,0,0
+TCGA-CR-6491,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,693,693,499,693,499,0,1
+TCGA-CR-6492,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,479,479,NA,479,479,0,0
+TCGA-CR-6493,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,282,NA,NA,247,282,247,1,1
+TCGA-CR-7364,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1435,1435,NA,1435,1435,0,0
+TCGA-CR-7365,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1191,1191,NA,1191,1191,0,0
+TCGA-CR-7367,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1440,1440,NA,1440,1440,0,0
+TCGA-CR-7368,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1245,1245,NA,1245,1245,0,0
+TCGA-CR-7369,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1090,NA,NA,NA,1090,1090,1,1
+TCGA-CR-7370,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,105,105,NA,105,105,0,0
+TCGA-CR-7371,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,94,NA,NA,NA,94,94,1,1
+TCGA-CR-7372,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,759,759,NA,759,759,0,0
+TCGA-CR-7373,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,889,889,NA,889,889,0,0
+TCGA-CR-7374,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,30,30,NA,30,30,0,0
+TCGA-CR-7376,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,972,972,NA,972,972,0,0
+TCGA-CR-7377,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,279,NA,NA,NA,279,279,1,1
+TCGA-CR-7379,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1036,1036,NA,1036,1036,0,0
+TCGA-CR-7380,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,606,NA,NA,561,606,561,1,1
+TCGA-CR-7382,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,796,796,614,796,614,0,1
+TCGA-CR-7383,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,521,NA,NA,454,521,454,1,1
+TCGA-CR-7385,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,997,997,NA,997,997,0,0
+TCGA-CR-7386,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1430,1430,1028,1430,1028,0,1
+TCGA-CR-7388,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,823,NA,NA,334,823,334,1,1
+TCGA-CR-7389,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,392,392,NA,392,392,0,0
+TCGA-CR-7390,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1508,1508,NA,1508,1508,0,0
+TCGA-CR-7391,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,913,913,NA,913,913,0,0
+TCGA-CR-7392,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1425,1425,NA,1425,1425,0,0
+TCGA-CR-7393,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,993,993,NA,993,993,0,0
+TCGA-CR-7394,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1346,1346,NA,1346,1346,0,0
+TCGA-CR-7395,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,930,930,NA,930,930,0,0
+TCGA-CR-7397,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,754,754,NA,754,754,0,0
+TCGA-CR-7398,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,156,156,NA,156,156,0,0
+TCGA-CR-7399,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,181,181,NA,181,181,0,0
+TCGA-CR-7401,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1077,1077,NA,1077,1077,0,0
+TCGA-CR-7402,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,911,911,NA,911,911,0,0
+TCGA-CR-7404,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1472,1472,234,1472,234,0,1
+TCGA-CV-5430,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,4241,4241,783,4241,783,0,1
+TCGA-CV-5431,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,522,522,522,NA,522,522,1,1
+TCGA-CV-5432,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,3930,3930,NA,3930,3930,0,0
+TCGA-CV-5434,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,3314,NA,NA,1859,3314,1859,1,1
+TCGA-CV-5435,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2319,1438,1438,284,2319,284,1,1
+TCGA-CV-5436,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,584,584,584,NA,584,584,1,1
+TCGA-CV-5439,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,546,546,546,211,546,211,1,1
+TCGA-CV-5440,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,3270,3270,NA,3270,3270,0,0
+TCGA-CV-5441,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2886,2886,NA,2886,2886,0,0
+TCGA-CV-5442,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2327,2327,NA,2327,2327,0,0
+TCGA-CV-5443,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2784,2784,NA,2784,2784,0,0
+TCGA-CV-5444,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2437,2437,NA,2437,2437,0,0
+TCGA-CV-5966,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,545,NA,NA,NA,545,545,1,1
+TCGA-CV-5970,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,406,406,406,NA,406,406,1,1
+TCGA-CV-5971,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,701,701,NA,701,701,0,0
+TCGA-CV-5973,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2641,2641,NA,2641,2641,0,0
+TCGA-CV-5976,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1478,1478,NA,1478,1478,0,0
+TCGA-CV-5977,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1840,1840,NA,1840,1840,0,0
+TCGA-CV-5978,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,215,215,215,NA,215,215,1,1
+TCGA-CV-5979,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1315,1315,NA,1315,1315,0,0
+TCGA-CV-6003,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1665,1665,NA,1665,1665,0,0
+TCGA-CV-6433,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,641,641,NA,641,641,0,0
+TCGA-CV-6436,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1899,1899,NA,1899,1899,0,0
+TCGA-CV-6441,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,292,NA,NA,95,292,95,1,1
+TCGA-CV-6933,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2741,NA,NA,NA,2741,2741,1,1
+TCGA-CV-6934,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,65,NA,NA,NA,65,65,1,1
+TCGA-CV-6935,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,295,NA,NA,NA,295,295,1,1
+TCGA-CV-6936,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,166,NA,NA,157,166,157,1,1
+TCGA-CV-6937,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,624,NA,NA,NA,624,624,1,1
+TCGA-CV-6938,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,144,NA,NA,NA,144,144,1,1
+TCGA-CV-6939,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,666,NA,NA,NA,666,666,1,1
+TCGA-CV-6940,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,804,NA,NA,NA,804,804,1,1
+TCGA-CV-6941,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,342,NA,NA,NA,342,342,1,1
+TCGA-CV-6942,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,4282,4282,NA,4282,4282,0,0
+TCGA-CV-6943,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,602,NA,NA,NA,602,602,1,1
+TCGA-CV-6945,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,366,NA,NA,NA,366,366,1,1
+TCGA-CV-6948,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1289,NA,NA,NA,1289,1289,1,1
+TCGA-CV-6950,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,459,NA,NA,258,459,258,1,1
+TCGA-CV-6951,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,915,NA,NA,NA,915,915,1,1
+TCGA-CV-6952,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,185,NA,NA,NA,185,185,1,1
+TCGA-CV-6953,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1641,NA,NA,1521,1641,1521,1,1
+TCGA-CV-6954,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2002,NA,NA,NA,2002,2002,1,1
+TCGA-CV-6955,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,334,NA,NA,NA,334,334,1,1
+TCGA-CV-6956,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,217,NA,NA,NA,217,217,1,1
+TCGA-CV-6959,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,256,NA,NA,103,256,103,1,1
+TCGA-CV-6960,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,862,NA,NA,NA,862,862,1,1
+TCGA-CV-6961,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,76,NA,NA,NA,76,76,1,1
+TCGA-CV-6962,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,126,NA,NA,NA,126,126,1,1
+TCGA-CV-7089,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1972,NA,NA,NA,1972,1972,1,1
+TCGA-CV-7090,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,5252,5252,NA,5252,5252,0,0
+TCGA-CV-7091,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,3381,3381,NA,3381,3381,0,0
+TCGA-CV-7095,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,572,NA,NA,NA,572,572,1,1
+TCGA-CV-7097,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,385,NA,NA,NA,385,385,1,1
+TCGA-CV-7099,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,243,NA,NA,NA,243,243,1,1
+TCGA-CV-7100,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,274,NA,NA,NA,274,274,1,1
+TCGA-CV-7101,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,160,NA,NA,NA,160,160,1,1
+TCGA-CV-7102,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,56,NA,NA,NA,56,56,1,1
+TCGA-CV-7103,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1591,NA,NA,NA,1591,1591,1,1
+TCGA-CV-7104,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,393,NA,NA,NA,393,393,1,1
+TCGA-CV-7177,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,663,NA,NA,NA,663,663,1,1
+TCGA-CV-7178,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2166,NA,NA,NA,2166,2166,1,1
+TCGA-CV-7180,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,327,NA,NA,NA,327,327,1,1
+TCGA-CV-7183,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,3981,3981,NA,3981,3981,0,0
+TCGA-CV-7235,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2347,2347,NA,2347,2347,0,0
+TCGA-CV-7236,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,144,NA,NA,NA,144,144,1,1
+TCGA-CV-7238,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2727,2727,NA,2727,2727,0,0
+TCGA-CV-7242,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1095,1095,NA,1095,1095,0,0
+TCGA-CV-7243,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,954,954,NA,954,954,0,0
+TCGA-CV-7245,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,797,797,NA,797,797,0,0
+TCGA-CV-7247,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,577,NA,NA,NA,577,577,1,1
+TCGA-CV-7248,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,521,NA,NA,NA,521,521,1,1
+TCGA-CV-7250,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2900,NA,NA,111,2900,111,1,1
+TCGA-CV-7252,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,151,NA,NA,NA,151,151,1,1
+TCGA-CV-7253,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,361,NA,NA,NA,361,361,1,1
+TCGA-CV-7254,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1459,NA,NA,NA,1459,1459,1,1
+TCGA-CV-7255,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,64,NA,NA,NA,64,64,1,1
+TCGA-CV-7261,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1512,1512,NA,1512,1512,0,0
+TCGA-CV-7263,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,560,NA,NA,NA,560,560,1,1
+TCGA-CV-7406,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1748,NA,NA,NA,1748,1748,1,1
+TCGA-CV-7407,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1081,NA,NA,NA,1081,1081,1,1
+TCGA-CV-7410,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,6417,NA,NA,NA,6417,6417,1,1
+TCGA-CV-7411,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2717,NA,NA,NA,2717,2717,1,1
+TCGA-CV-7413,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,294,NA,NA,NA,294,294,1,1
+TCGA-CV-7414,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,14,NA,NA,NA,14,14,1,1
+TCGA-CV-7415,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,695,NA,NA,NA,695,695,1,1
+TCGA-CV-7416,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,763,NA,NA,NA,763,763,1,1
+TCGA-CV-7418,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,789,NA,NA,494,789,494,1,1
+TCGA-CV-7421,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2,NA,NA,NA,2,2,1,1
+TCGA-CV-7422,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1037,NA,NA,733,1037,733,1,1
+TCGA-CV-7423,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,3059,NA,NA,NA,3059,3059,1,1
+TCGA-CV-7424,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,453,NA,NA,NA,453,453,1,1
+TCGA-CV-7425,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1718,NA,NA,NA,1718,1718,1,1
+TCGA-CV-7427,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,4760,NA,NA,3282,4760,3282,1,1
+TCGA-CV-7428,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1671,NA,NA,NA,1671,1671,1,1
+TCGA-CV-7429,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,107,NA,NA,NA,107,107,1,1
+TCGA-CV-7430,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,495,NA,NA,NA,495,495,1,1
+TCGA-CV-7432,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2570,NA,NA,NA,2570,2570,1,1
+TCGA-CV-7433,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,601,NA,NA,445,601,445,1,1
+TCGA-CV-7434,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,218,NA,NA,NA,218,218,1,1
+TCGA-CV-7435,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,4680,4335,4335,NA,4680,4680,1,1
+TCGA-CV-7437,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,506,NA,NA,NA,506,506,1,1
+TCGA-CV-7438,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,194,NA,NA,NA,194,194,1,1
+TCGA-CV-7440,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,675,NA,NA,NA,675,675,1,1
+TCGA-CV-7446,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1093,NA,NA,NA,1093,1093,1,1
+TCGA-CV-7568,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,927,NA,NA,NA,927,927,1,1
+TCGA-CV-A45O,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,851,851,NA,851,851,0,0
+TCGA-CV-A45P,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,639,639,639,639,639,0,1
+TCGA-CV-A45Q,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,5152,NA,NA,NA,5152,5152,1,1
+TCGA-CV-A45R,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,5480,5480,NA,5480,5480,0,0
+TCGA-CV-A45T,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,4856,NA,NA,NA,4856,4856,1,1
+TCGA-CV-A45U,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1079,NA,NA,1064,1079,1064,1,1
+TCGA-CV-A45V,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,32,NA,NA,NA,32,32,1,1
+TCGA-CV-A45W,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1398,NA,NA,NA,1398,1398,1,1
+TCGA-CV-A45X,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,198,NA,NA,NA,198,198,1,1
+TCGA-CV-A45Y,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2703,NA,NA,2318,2703,2318,1,1
+TCGA-CV-A45Z,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1466,NA,NA,NA,1466,1466,1,1
+TCGA-CV-A460,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1838,NA,NA,1425,1838,1425,1,1
+TCGA-CV-A461,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,2064,NA,NA,NA,2064,2064,1,1
+TCGA-CV-A463,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,23,NA,NA,NA,23,23,1,1
+TCGA-CV-A464,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1722,1722,28,1722,28,0,1
+TCGA-CV-A465,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,215,NA,NA,NA,215,215,1,1
+TCGA-CV-A468,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,464,NA,NA,NA,464,464,1,1
+TCGA-CV-A6JD,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,182,NA,NA,NA,182,182,1,1
+TCGA-CV-A6JE,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1075,1075,NA,1075,1075,0,0
+TCGA-CV-A6JM,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,194,NA,NA,107,194,107,1,1
+TCGA-CV-A6JN,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,906,906,NA,906,906,0,0
+TCGA-CV-A6JO,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,197,NA,NA,127,197,127,1,1
+TCGA-CV-A6JT,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,852,852,NA,852,852,0,0
+TCGA-CV-A6JU,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,110,110,NA,110,110,0,0
+TCGA-CV-A6JY,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,646,646,NA,646,646,0,0
+TCGA-CV-A6JZ,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,714,714,393,714,393,0,1
+TCGA-CV-A6K0,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,606,606,146,606,146,0,1
+TCGA-CV-A6K1,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,685,685,401,685,401,0,1
+TCGA-CV-A6K2,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,317,NA,NA,134,317,134,1,1
+TCGA-CX-7082,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,11,NA,NA,NA,11,11,1,1
+TCGA-CX-7085,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,321,321,92,321,92,0,1
+TCGA-CX-7086,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,573,573,NA,573,573,0,0
+TCGA-CX-7219,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1045,1045,NA,1045,1045,0,0
+TCGA-CX-A4AQ,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1555,1555,NA,1555,1555,0,0
+TCGA-D6-6515,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,403,NA,NA,195,403,195,1,1
+TCGA-D6-6516,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,773,773,NA,773,773,0,0
+TCGA-D6-6517,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,292,292,161,292,161,0,1
+TCGA-D6-6823,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,701,701,NA,701,701,0,0
+TCGA-D6-6824,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,77,77,NA,77,77,0,0
+TCGA-D6-6825,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,491,491,NA,491,491,0,0
+TCGA-D6-6826,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,348,154,154,NA,348,348,1,1
+TCGA-D6-6827,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,568,568,NA,568,568,0,0
+TCGA-D6-8568,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,759,759,NA,759,759,0,0
+TCGA-D6-8569,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,770,770,NA,770,770,0,0
+TCGA-D6-A4Z9,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,539,539,NA,539,539,0,0
+TCGA-D6-A4ZB,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,376,376,NA,376,376,0,0
+TCGA-D6-A6EK,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,875,875,NA,875,875,0,0
+TCGA-D6-A6EM,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,232,232,232,232,232,0,1
+TCGA-D6-A6EN,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,687,687,NA,687,687,0,0
+TCGA-D6-A6EO,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,759,759,NA,759,759,0,0
+TCGA-D6-A6EP,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,424,424,NA,424,424,0,0
+TCGA-D6-A6EQ,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,368,368,NA,368,368,0,0
+TCGA-D6-A6ES,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,389,389,NA,389,389,0,0
+TCGA-D6-A74Q,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,710,710,NA,710,710,0,0
+TCGA-DQ-5624,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1778,1778,NA,1778,1778,0,0
+TCGA-DQ-5625,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1133,1081,1081,1058,1133,1058,1,1
+TCGA-DQ-5629,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,941,516,516,NA,941,941,1,1
+TCGA-DQ-5630,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1030,1030,NA,1030,1030,0,0
+TCGA-DQ-5631,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,548,548,548,447,548,447,1,1
+TCGA-DQ-7588,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,427,NA,NA,79,427,79,1,1
+TCGA-DQ-7591,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,622,622,NA,622,622,0,0
+TCGA-DQ-7592,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1143,1143,NA,1143,1143,0,0
+TCGA-F7-7848,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1131,1131,NA,1131,1131,0,0
+TCGA-F7-8298,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,995,995,NA,995,995,0,0
+TCGA-F7-8489,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,658,658,NA,658,658,0,0
+TCGA-F7-A50G,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,616,616,NA,616,616,0,0
+TCGA-F7-A50I,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,92,92,NA,92,92,0,0
+TCGA-F7-A50J,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,947,947,NA,947,947,0,0
+TCGA-F7-A61S,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,576,576,213,576,213,0,1
+TCGA-F7-A61V,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,759,759,NA,759,759,0,0
+TCGA-F7-A61W,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,14,14,NA,14,14,0,0
+TCGA-F7-A620,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,543,543,NA,543,543,0,0
+TCGA-F7-A622,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,359,13,13,NA,359,359,1,1
+TCGA-F7-A623,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,616,616,NA,616,616,0,0
+TCGA-F7-A624,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,378,378,NA,378,378,0,0
+TCGA-H7-7774,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,407,407,252,407,252,0,1
+TCGA-H7-8501,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,461,461,NA,461,461,0,0
+TCGA-H7-8502,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,458,458,NA,458,458,0,0
+TCGA-H7-A6C4,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,NA,414,414,235,414,235,1,1
+TCGA-H7-A76A,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,637,637,NA,637,637,0,0
+TCGA-HD-7229,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1027,1027,162,1027,162,0,1
+TCGA-HD-7753,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,866,866,NA,866,866,0,0
+TCGA-HD-7754,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,783,783,NA,783,783,0,0
+TCGA-HD-7831,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,667,667,667,667,667,0,1
+TCGA-HD-7832,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,836,836,NA,836,836,0,0
+TCGA-HD-8224,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,446,55,55,171,446,171,1,1
+TCGA-HD-8314,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,670,670,NA,670,670,0,0
+TCGA-HD-8634,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,385,24,24,NA,385,385,1,1
+TCGA-HD-8635,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,695,695,NA,695,695,0,0
+TCGA-HD-A4C1,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,11,11,NA,11,11,0,0
+TCGA-HD-A633,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,421,421,419,421,419,0,1
+TCGA-HD-A634,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,130,10,10,NA,130,130,1,1
+TCGA-HD-A6HZ,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,111,111,NA,111,111,0,0
+TCGA-HD-A6I0,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,210,210,NA,210,210,0,0
+TCGA-HL-7533,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1057,1057,NA,1057,1057,0,0
+TCGA-IQ-7630,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,485,485,NA,485,485,0,0
+TCGA-IQ-7631,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1172,1172,NA,1172,1172,0,0
+TCGA-IQ-7632,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,441,441,NA,441,441,0,0
+TCGA-IQ-A61E,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1147,1147,NA,1147,1147,0,0
+TCGA-IQ-A61G,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,360,360,249,360,249,0,1
+TCGA-IQ-A61H,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,1138,1138,NA,1138,1138,0,0
+TCGA-IQ-A61I,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Dead,2,NA,NA,NA,2,2,1,1
+TCGA-IQ-A61J,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,1021,1021,NA,1021,1021,0,0
+TCGA-IQ-A61O,TCGA-HNSC,Squamous cell carcinoma spindle cell,Dead,421,360,360,NA,421,421,1,1
+TCGA-IQ-A6SG,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,579,579,NA,579,579,0,0
+TCGA-IQ-A6SH,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,471,471,NA,471,471,0,0
+TCGA-KU-A66S,TCGA-HNSC,Basaloid squamous cell carcinoma,Dead,406,224,224,389,406,389,1,1
+TCGA-KU-A66T,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,552,552,552,552,552,0,1
+TCGA-KU-A6H7,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,586,586,NA,586,586,0,0
+TCGA-KU-A6H8,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,327,168,168,110,327,110,1,1
+TCGA-MT-A51W,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,437,437,NA,437,437,0,0
+TCGA-MT-A51X,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,242,242,NA,242,242,0,0
+TCGA-MT-A67A,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,914,914,NA,914,914,0,0
+TCGA-MT-A67D,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,56,56,NA,56,56,0,0
+TCGA-MT-A67F,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,384,384,NA,384,384,0,0
+TCGA-MT-A7BN,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,469,469,179,469,179,0,1
+TCGA-MZ-A5BI,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,217,NA,NA,NA,217,217,1,1
+TCGA-MZ-A6I9,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,489,254,254,246,489,246,1,1
+TCGA-MZ-A7D7,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,547,547,339,547,339,0,1
+TCGA-P3-A5Q5,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,910,910,NA,910,910,0,0
+TCGA-P3-A5Q6,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,480,NA,NA,280,480,280,1,1
+TCGA-P3-A5QA,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2182,2182,1601,2182,1601,0,1
+TCGA-P3-A5QE,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,1559,1559,NA,1559,1559,0,0
+TCGA-P3-A5QF,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,330,NA,NA,140,330,140,1,1
+TCGA-P3-A6SW,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,1120,1120,NA,1120,1120,0,0
+TCGA-P3-A6SX,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,1430,NA,NA,NA,1430,1430,1,1
+TCGA-P3-A6T0,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,578,578,365,578,365,0,1
+TCGA-P3-A6T2,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2298,2298,NA,2298,2298,0,0
+TCGA-P3-A6T3,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,577,NA,NA,242,577,242,1,1
+TCGA-P3-A6T4,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,62,NA,NA,NA,62,62,1,1
+TCGA-P3-A6T5,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,882,NA,NA,335,882,335,1,1
+TCGA-P3-A6T6,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,395,NA,NA,273,395,273,1,1
+TCGA-P3-A6T7,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,487,NA,NA,NA,487,487,1,1
+TCGA-P3-A6T8,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,400,400,NA,400,400,0,0
+TCGA-QK-A64Z,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,641,553,553,553,641,553,1,1
+TCGA-QK-A652,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,645,645,NA,645,645,0,0
+TCGA-QK-A6IF,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,704,704,502,704,502,0,1
+TCGA-QK-A6IG,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,222,218,218,142,222,142,1,1
+TCGA-QK-A6IH,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,653,653,228,653,228,0,1
+TCGA-QK-A6II,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,284,225,225,176,284,176,1,1
+TCGA-QK-A6IJ,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,387,387,NA,387,387,0,0
+TCGA-QK-A6V9,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,833,833,NA,833,833,0,0
+TCGA-QK-A6VB,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,641,641,613,641,613,0,1
+TCGA-QK-A6VC,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,600,600,NA,600,600,0,0
+TCGA-QK-A8Z7,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,392,392,NA,392,392,0,0
+TCGA-QK-A8Z8,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,171,NA,NA,NA,171,171,1,1
+TCGA-QK-A8Z9,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,449,352,352,205,449,205,1,1
+TCGA-QK-A8ZA,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,371,368,368,NA,371,371,1,1
+TCGA-QK-A8ZB,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,542,542,NA,542,542,0,0
+TCGA-QK-AA3J,TCGA-HNSC,Basaloid squamous cell carcinoma,Alive,NA,466,466,NA,466,466,0,0
+TCGA-QK-AA3K,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,253,253,NA,253,253,0,0
+TCGA-RS-A6TO,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,387,272,272,338,387,338,1,1
+TCGA-RS-A6TP,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,516,516,NA,516,516,0,0
+TCGA-T2-A6WX,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,209,NA,NA,NA,209,209,1,1
+TCGA-T2-A6WZ,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,484,NA,NA,229,484,229,1,1
+TCGA-T2-A6X0,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,216,216,NA,216,216,0,0
+TCGA-T2-A6X2,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,987,987,NA,987,987,0,0
+TCGA-T3-A92M,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,417,417,417,417,417,0,1
+TCGA-T3-A92N,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,95,-2,-2,46,95,46,1,1
+TCGA-TN-A7HI,TCGA-HNSC,Squamous cell carcinoma large cell nonkeratinizing NOS,Alive,NA,412,412,NA,412,412,0,0
+TCGA-TN-A7HJ,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,403,403,NA,403,403,0,0
+TCGA-TN-A7HL,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,619,619,NA,619,619,0,0
+TCGA-UF-A718,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1971,1971,NA,1971,1971,0,0
+TCGA-UF-A719,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1663,1663,NA,1663,1663,0,0
+TCGA-UF-A71A,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,86,NA,NA,NA,86,86,1,1
+TCGA-UF-A71B,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1506,1506,NA,1506,1506,0,0
+TCGA-UF-A71D,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1461,1461,NA,1461,1461,0,0
+TCGA-UF-A71E,TCGA-HNSC,Basaloid squamous cell carcinoma,Dead,1504,1278,1278,NA,1504,1504,1,1
+TCGA-UF-A7J9,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1358,1358,NA,1358,1358,0,0
+TCGA-UF-A7JA,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,2265,2265,NA,2265,2265,0,0
+TCGA-UF-A7JC,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,546,484,484,229,546,229,1,1
+TCGA-UF-A7JD,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,739,735,735,NA,739,739,1,1
+TCGA-UF-A7JF,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,1686,1686,NA,1686,1686,0,0
+TCGA-UF-A7JH,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,896,896,NA,896,896,0,0
+TCGA-UF-A7JJ,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,549,549,NA,549,549,0,0
+TCGA-UF-A7JK,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,424,NA,NA,341,424,341,1,1
+TCGA-UF-A7JO,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,631,NA,NA,525,631,525,1,1
+TCGA-UF-A7JS,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,680,413,413,519,680,519,1,1
+TCGA-UF-A7JT,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,993,NA,NA,718,993,718,1,1
+TCGA-UF-A7JV,TCGA-HNSC,Squamous cell carcinoma NOS,Dead,90,NA,NA,55,90,55,1,1
+TCGA-UP-A6WW,TCGA-HNSC,Squamous cell carcinoma NOS,Alive,NA,518,518,NA,518,518,0,0
+TCGA-WA-A7GZ,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Dead,625,335,335,NA,625,625,1,1
+TCGA-WA-A7H4,TCGA-HNSC,Squamous cell carcinoma keratinizing NOS,Alive,NA,443,443,NA,443,443,0,0

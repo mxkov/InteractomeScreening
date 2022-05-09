@@ -1,0 +1,7 @@
+id	filename	md5	size	state
+0282d980-c0ad-4662-b8ba-f55fb4af8fde	nationwidechildrens.org_clinical_nte_skcm.txt	c6a2f8457cd5158b8827c8cef5bc0768	158320	validated
+34f4d7e4-17a8-4e70-b0d0-9db0ed56c49f	nationwidechildrens.org_clinical_omf_v4.0_skcm.txt	d4c6e3308e6036bea4e09b06d4099993	16039	validated
+58cbbc07-5ec4-47c7-9295-11ccbf7693f4	nationwidechildrens.org_clinical_patient_skcm.txt	b93abd848f9401fe26c9930c1fda2ad0	304102	validated
+8da29d73-2299-49f0-9740-d04b3793fd8d	nationwidechildrens.org_clinical_drug_skcm.txt	e79253b28f0cebe8640cb9e96760cee5	117252	validated
+9d8b5ae9-c735-45c4-b409-db0e2407b6ec	nationwidechildrens.org_clinical_radiation_skcm.txt	73ba7903ccefacdefd9b1167a35f28db	37755	validated
+c23a0f90-d56f-45b3-8b3d-2983339a6019	nationwidechildrens.org_clinical_follow_up_v2.0_skcm.txt	a1d70004cf0d18855394a5f98035e64c	177637	validated

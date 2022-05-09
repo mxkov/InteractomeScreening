@@ -1,0 +1,3419 @@
+[{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WV", 
+      "entity_type": "case", 
+      "case_id": "222cc45f-bebf-41b0-ab56-0953d53f2bfa", 
+      "entity_id": "222cc45f-bebf-41b0-ab56-0953d53f2bfa"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WV.xml", 
+  "md5sum": "29d25f752ea9e3af80eac200288ee147", 
+  "file_id": "567f6281-2c45-480e-b4cc-8deff4c3b62d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WV.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21275
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A685", 
+      "entity_type": "case", 
+      "case_id": "2efa48c7-c6a5-4d86-86e1-6f338b2b1ad1", 
+      "entity_id": "2efa48c7-c6a5-4d86-86e1-6f338b2b1ad1"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A685.xml", 
+  "md5sum": "be9615b60a51f93effa69d0eb52a4aa5", 
+  "file_id": "b8119241-35fc-49e8-885c-69c0a66c6c1f", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A685.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14915
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7X1", 
+      "entity_type": "case", 
+      "case_id": "272589d0-8994-44e4-b434-b03cd036fb32", 
+      "entity_id": "272589d0-8994-44e4-b434-b03cd036fb32"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7X1.xml", 
+  "md5sum": "922df6f0856789ef196806cee3a83502", 
+  "file_id": "9551683b-77fd-4427-af9e-9924a2c18d41", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7X1.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21272
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-P8-A6RY", 
+      "entity_type": "case", 
+      "case_id": "2ad0c1dd-d7d3-4349-8c3d-1faa871fc2d2", 
+      "entity_id": "2ad0c1dd-d7d3-4349-8c3d-1faa871fc2d2"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-P8-A6RY.xml", 
+  "md5sum": "3c4b074ed6b79146d6e1d0ca0968ad6b", 
+  "file_id": "1ce99fbf-e2a4-4a25-af5e-99c68e6c7961", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-P8-A6RY.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 20897
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81A", 
+      "entity_type": "case", 
+      "case_id": "39260192-e115-4806-a28d-adc520d77935", 
+      "entity_id": "39260192-e115-4806-a28d-adc520d77935"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81A.xml", 
+  "md5sum": "18cc466f43aa6f2a5bd2ca562d4a5b00", 
+  "file_id": "ca802d9c-6980-4ffb-8c92-87e6ad020a5a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81A.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21149
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80M", 
+      "entity_type": "case", 
+      "case_id": "0fd41168-9c85-4c11-bc2c-3a100b7a16c6", 
+      "entity_id": "0fd41168-9c85-4c11-bc2c-3a100b7a16c6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80M.xml", 
+  "md5sum": "0184628af04d74b54cd83f260088600d", 
+  "file_id": "f02e5722-a4da-412e-82d3-d46e661a64eb", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80M.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21101
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70M", 
+      "entity_type": "case", 
+      "case_id": "39c2e892-10b3-4369-922b-9491f5112af0", 
+      "entity_id": "39c2e892-10b3-4369-922b-9491f5112af0"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70M.xml", 
+  "md5sum": "e5d828534b6b89b0c2e7247b50f6b8ae", 
+  "file_id": "f3e8b750-cd0d-4fb0-9c96-feb795b6886a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70M.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14819
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A684", 
+      "entity_type": "case", 
+      "case_id": "3a0e73ce-ba5b-4f6c-ba56-7dcc28d7c1e1", 
+      "entity_id": "3a0e73ce-ba5b-4f6c-ba56-7dcc28d7c1e1"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A684.xml", 
+  "md5sum": "abeda5d12151e7ddc4df2d11d4ebc4db", 
+  "file_id": "c5bd582f-2549-4a98-8385-61b8c8f49c6a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A684.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14915
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A68G", 
+      "entity_type": "case", 
+      "case_id": "3e69514f-78ea-4d70-97e6-12a9016e9bca", 
+      "entity_id": "3e69514f-78ea-4d70-97e6-12a9016e9bca"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A68G.xml", 
+  "md5sum": "333b6fb420b46eaf7e13051d61331107", 
+  "file_id": "bc20e5d4-e0d9-4862-acb9-c0f194a5b94b", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A68G.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21108
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A68D", 
+      "entity_type": "case", 
+      "case_id": "3f7bcf11-6fe3-43df-baae-e87821526ccd", 
+      "entity_id": "3f7bcf11-6fe3-43df-baae-e87821526ccd"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A68D.xml", 
+  "md5sum": "2731d4db33d1874c47f4883f0a3cb190", 
+  "file_id": "5ad8cbdd-427a-4a7f-a762-e645e9da1d22", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A68D.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14916
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81R", 
+      "entity_type": "case", 
+      "case_id": "40ff83f1-2255-47b8-ae2d-8bfd4df4dc29", 
+      "entity_id": "40ff83f1-2255-47b8-ae2d-8bfd4df4dc29"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81R.xml", 
+  "md5sum": "d0b6fd1023c7274501d96aaa94b1e948", 
+  "file_id": "a77a9306-a0fb-4403-ae02-dffdeea46ead", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81R.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21146
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6N0", 
+      "entity_type": "case", 
+      "case_id": "4142a680-00d2-4f49-91b8-1e5c25f1713e", 
+      "entity_id": "4142a680-00d2-4f49-91b8-1e5c25f1713e"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6N0.xml", 
+  "md5sum": "39417562d2d1a77360270db5a5001736", 
+  "file_id": "e316d4a5-9667-4a29-9a08-d19cc2b5eac3", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6N0.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21218
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70H", 
+      "entity_type": "case", 
+      "case_id": "13b41b15-a785-4ab7-b864-ffff6d35dd45", 
+      "entity_id": "13b41b15-a785-4ab7-b864-ffff6d35dd45"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70H.xml", 
+  "md5sum": "da0e555ce0196a1b62a1b1866b4254fc", 
+  "file_id": "8cd69377-95f7-4087-82c1-dc29e8d5fd09", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70H.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14859
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WR", 
+      "entity_type": "case", 
+      "case_id": "14576f4d-deea-4111-9047-513bbc69a802", 
+      "entity_id": "14576f4d-deea-4111-9047-513bbc69a802"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WR.xml", 
+  "md5sum": "faa082c5f8e2697ba8181b057a4d03b5", 
+  "file_id": "f5f94900-2554-47ed-8aee-4af45fdede77", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WR.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21277
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A707", 
+      "entity_type": "case", 
+      "case_id": "168b0d62-ee55-4911-b462-d7902824298d", 
+      "entity_id": "168b0d62-ee55-4911-b462-d7902824298d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A707.xml", 
+  "md5sum": "c4aa37e70ccaf5c04d36e54e4a5c91d3", 
+  "file_id": "95cd0c53-517d-415f-bf1b-0027c8e36ca2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A707.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14915
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WN", 
+      "entity_type": "case", 
+      "case_id": "0024ab57-4036-4b0f-b7a1-040f97787022", 
+      "entity_id": "0024ab57-4036-4b0f-b7a1-040f97787022"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WN.xml", 
+  "md5sum": "87f3c2ca18719eb0d7334d716bafc0ba", 
+  "file_id": "38b6f3a5-bebd-48b8-aed6-1fb852783110", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WN.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21275
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80L", 
+      "entity_type": "case", 
+      "case_id": "1a05a84d-e475-43b8-8494-3cf8c2a64d2c", 
+      "entity_id": "1a05a84d-e475-43b8-8494-3cf8c2a64d2c"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80L.xml", 
+  "md5sum": "f8e5c8bdfc0c79f80250e31e0663ca9b", 
+  "file_id": "74c4b5af-26ab-4305-9cac-41be45e14209", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80L.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27322
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H6", 
+      "entity_type": "case", 
+      "case_id": "13400e89-950f-437a-9c90-636def39318c", 
+      "entity_id": "13400e89-950f-437a-9c90-636def39318c"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H6.xml", 
+  "md5sum": "1c6ab09f4d4a7bf7e12b445c62018301", 
+  "file_id": "72c0f7d7-cdb7-4be9-9036-94d089c9debc", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H6.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14899
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QI", 
+      "entity_type": "case", 
+      "case_id": "1586cc02-8405-4a9b-8a89-ac4c706ce3b8", 
+      "entity_id": "1586cc02-8405-4a9b-8a89-ac4c706ce3b8"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QI.xml", 
+  "md5sum": "af76db8cb7c8f656ca0823e869f7fbd6", 
+  "file_id": "2a9edd97-0e0a-45f0-8ac5-96f8720e484e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QI.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21291
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RM-A68W", 
+      "entity_type": "case", 
+      "case_id": "1a1cf490-8bd4-4a99-bf3a-34f06435de86", 
+      "entity_id": "1a1cf490-8bd4-4a99-bf3a-34f06435de86"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RM-A68W.xml", 
+  "md5sum": "457314c13a93e86eca7b87d90d3be022", 
+  "file_id": "be6f1026-d007-480a-adcd-5c8c3b9a9afe", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RM-A68W.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21043
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-P8-A5KD", 
+      "entity_type": "case", 
+      "case_id": "1a2e36dd-3e3b-493c-a075-4ca3acfe2207", 
+      "entity_id": "1a2e36dd-3e3b-493c-a075-4ca3acfe2207"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-P8-A5KD.xml", 
+  "md5sum": "35dadb1b9bbc5d64305e194cbcc7b24f", 
+  "file_id": "e5647369-11de-48af-ab53-49df840d45a0", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-P8-A5KD.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 20892
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WL", 
+      "entity_type": "case", 
+      "case_id": "01450144-fb40-44bb-9909-7bd46f3c4d8c", 
+      "entity_id": "01450144-fb40-44bb-9909-7bd46f3c4d8c"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WL.xml", 
+  "md5sum": "e5a07e2df172a078ef193ad50668f9d7", 
+  "file_id": "701955a3-a4cc-4fee-9726-4acbf204cbe8", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WL.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21274
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70X", 
+      "entity_type": "case", 
+      "case_id": "1c1b02c5-0c95-4638-a5cd-e569e8ca41b6", 
+      "entity_id": "1c1b02c5-0c95-4638-a5cd-e569e8ca41b6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70X.xml", 
+  "md5sum": "f38ba3f46657c8a69acf97dbb0173931", 
+  "file_id": "de45c81f-7c0e-4d2d-abc4-ad6f4606ec4c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70X.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14881
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80K", 
+      "entity_type": "case", 
+      "case_id": "054b81ac-963f-4f49-950c-ae03144af348", 
+      "entity_id": "054b81ac-963f-4f49-950c-ae03144af348"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80K.xml", 
+  "md5sum": "c0236959cd7e08c2554e5019ab72cb76", 
+  "file_id": "c08ecc58-43c8-44c0-8aaa-2a5fe8d2d0f0", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80K.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 34156
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A680", 
+      "entity_type": "case", 
+      "case_id": "1e9545a5-2bfa-41c1-b4c9-ac74608376ed", 
+      "entity_id": "1e9545a5-2bfa-41c1-b4c9-ac74608376ed"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A680.xml", 
+  "md5sum": "490c5f9f9ee363d20f74866707904600", 
+  "file_id": "b9b4dea2-b2f4-49c6-9161-d5f906d50d84", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A680.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21299
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HH", 
+      "entity_type": "case", 
+      "case_id": "20c31348-e871-4abb-8ec6-5124f8d0170e", 
+      "entity_id": "20c31348-e871-4abb-8ec6-5124f8d0170e"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HH.xml", 
+  "md5sum": "4289c3fb26cc8bf0116c93da5f9bf37d", 
+  "file_id": "95668572-b9f7-43a0-9bf1-269001010a6e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HH.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21260
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WO", 
+      "entity_type": "case", 
+      "case_id": "1f9df922-91be-41b6-8dbe-ac2d27c8b836", 
+      "entity_id": "1f9df922-91be-41b6-8dbe-ac2d27c8b836"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WO.xml", 
+  "md5sum": "798fee0ddbfe23fbee3e53460ef92536", 
+  "file_id": "7755a752-ccd0-44b9-b9f9-6a3705a24500", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WO.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21277
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MU", 
+      "entity_type": "case", 
+      "case_id": "20e793c4-4e13-47f5-8f41-33cb1bac4c6b", 
+      "entity_id": "20e793c4-4e13-47f5-8f41-33cb1bac4c6b"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MU.xml", 
+  "md5sum": "97c131865d88b9dea30ef24cb149d939", 
+  "file_id": "506ca31f-8fed-4794-b855-57cadeb94610", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MU.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21082
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81T", 
+      "entity_type": "case", 
+      "case_id": "41ce2937-0bee-46d4-b08c-3fe74e262f93", 
+      "entity_id": "41ce2937-0bee-46d4-b08c-3fe74e262f93"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81T.xml", 
+  "md5sum": "63de9568a469cb351fa00e4ed26fef0f", 
+  "file_id": "5aa014d6-c49d-4a67-aea3-3c35429b8fa8", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81T.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 33527
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GO", 
+      "entity_type": "case", 
+      "case_id": "42604f3f-c416-428a-9859-b3734b2a9576", 
+      "entity_id": "42604f3f-c416-428a-9859-b3734b2a9576"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GO.xml", 
+  "md5sum": "e4e6935f2ad18b30edec51efecee3960", 
+  "file_id": "cee1be2d-2826-4f4d-972d-326c17e37d6e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GO.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14903
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H5", 
+      "entity_type": "case", 
+      "case_id": "4588181a-318c-431f-84d3-6688870e08ad", 
+      "entity_id": "4588181a-318c-431f-84d3-6688870e08ad"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H5.xml", 
+  "md5sum": "1d01b6aa835f35ae4730caa8abd57754", 
+  "file_id": "5c958a67-619e-4cc3-8387-7faf7666e665", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H5.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14923
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80Q", 
+      "entity_type": "case", 
+      "case_id": "46e207c8-bdeb-468e-a34e-01cb54085f6b", 
+      "entity_id": "46e207c8-bdeb-468e-a34e-01cb54085f6b"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80Q.xml", 
+  "md5sum": "4d9590d5651e7eb72a2a4a4f4d2b1e3e", 
+  "file_id": "8db15063-3ae0-499a-b302-8013177e7735", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80Q.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21358
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70A", 
+      "entity_type": "case", 
+      "case_id": "6e419c1d-1aea-438e-98a4-8bf048bb9a1c", 
+      "entity_id": "6e419c1d-1aea-438e-98a4-8bf048bb9a1c"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70A.xml", 
+  "md5sum": "64897173e143274be542229726a221ad", 
+  "file_id": "61cd793a-f8b1-4ae2-87b2-74fbe6ab0809", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70A.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14800
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A69Q", 
+      "entity_type": "case", 
+      "case_id": "9bfabde9-cad4-4b34-bfff-397b1c5636b0", 
+      "entity_id": "9bfabde9-cad4-4b34-bfff-397b1c5636b0"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A69Q.xml", 
+  "md5sum": "54ecd2dfd709298e6a79cda7dd9a19be", 
+  "file_id": "ecce0965-8a54-47e9-9524-ef9eb92f1d4f", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A69Q.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21131
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WX", 
+      "entity_type": "case", 
+      "case_id": "b0b8c01a-f1fc-4651-8767-49e560278dda", 
+      "entity_id": "b0b8c01a-f1fc-4651-8767-49e560278dda"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WX.xml", 
+  "md5sum": "8b3270312bcd76cec0aad07d630799fc", 
+  "file_id": "21339bd6-ee3a-4a4f-be4a-70165a992153", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WX.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21274
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81Q", 
+      "entity_type": "case", 
+      "case_id": "b5b31686-995b-433a-afab-6eee027817ba", 
+      "entity_id": "b5b31686-995b-433a-afab-6eee027817ba"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81Q.xml", 
+  "md5sum": "0fbb9cc180d48d69daf69656f36c0a6a", 
+  "file_id": "5b4b105d-ff62-457e-97ca-a0c482b80764", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81Q.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 43086
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MT", 
+      "entity_type": "case", 
+      "case_id": "bcc5dd5c-b979-4b45-aae5-b2c9871766e6", 
+      "entity_id": "bcc5dd5c-b979-4b45-aae5-b2c9871766e6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MT.xml", 
+  "md5sum": "d2eebd6fde8f2e310973900b38e3a676", 
+  "file_id": "9dfe7628-7762-40cc-98b7-ec0395209a77", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MT.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21141
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GX", 
+      "entity_type": "case", 
+      "case_id": "bec136a3-87c4-442c-8edb-18048311ac7a", 
+      "entity_id": "bec136a3-87c4-442c-8edb-18048311ac7a"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GX.xml", 
+  "md5sum": "c267432c0179bb98396392b686ff0d77", 
+  "file_id": "02eaee07-78f5-4fa1-a507-923290717ddb", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GX.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14882
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RT-A6Y9", 
+      "entity_type": "case", 
+      "case_id": "215f8eb1-bb6d-4f80-9681-3e9f2064a4d9", 
+      "entity_id": "215f8eb1-bb6d-4f80-9681-3e9f2064a4d9"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RT-A6Y9.xml", 
+  "md5sum": "0d4eb1c747ecfcb5b100a6a98f571481", 
+  "file_id": "45190b82-5b42-4ff8-a6e4-e5d59a84865e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RT-A6Y9.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 23205
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XM", 
+      "entity_type": "case", 
+      "case_id": "2bfe97f0-6590-4be0-b82f-00c20998fb4f", 
+      "entity_id": "2bfe97f0-6590-4be0-b82f-00c20998fb4f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XM.xml", 
+  "md5sum": "75e4e425132dc14e7e14c04cb678271e", 
+  "file_id": "17faa196-a5b7-4ff7-9864-a9d8e121169d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XM.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21056
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XO", 
+      "entity_type": "case", 
+      "case_id": "2d2281a1-d7a9-499f-91b5-cc08013645e4", 
+      "entity_id": "2d2281a1-d7a9-499f-91b5-cc08013645e4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XO.xml", 
+  "md5sum": "50485ba6f5c8ba1012ed014442aed71f", 
+  "file_id": "4d351f3f-0a34-4298-b7aa-818438777b3e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XO.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21119
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A817", 
+      "entity_type": "case", 
+      "case_id": "2337ed44-c455-4df7-91a3-b30da0e54da4", 
+      "entity_id": "2337ed44-c455-4df7-91a3-b30da0e54da4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A817.xml", 
+  "md5sum": "1a3683efc34c5291da9621af7a964ab3", 
+  "file_id": "66b158ee-8082-488e-aa89-5b3cb5056443", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A817.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 33464
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MX", 
+      "entity_type": "case", 
+      "case_id": "065f7b7a-05ee-4728-bcfc-6095357512a6", 
+      "entity_id": "065f7b7a-05ee-4728-bcfc-6095357512a6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MX.xml", 
+  "md5sum": "96018bb520c6d0ceebf22c9dc5dbf1df", 
+  "file_id": "bf35d9eb-faf9-412e-a832-3047f2782551", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MX.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14948
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RM-A68T", 
+      "entity_type": "case", 
+      "case_id": "0779af6b-7908-440a-9dcb-283bd95f3305", 
+      "entity_id": "0779af6b-7908-440a-9dcb-283bd95f3305"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RM-A68T.xml", 
+  "md5sum": "e7deff83f3b973a7cc5d1769aeb1ab12", 
+  "file_id": "497273ec-ddec-4c14-869c-0927cca5b868", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RM-A68T.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21067
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A67W", 
+      "entity_type": "case", 
+      "case_id": "297e13c1-8c36-4729-bac9-142fa718dd04", 
+      "entity_id": "297e13c1-8c36-4729-bac9-142fa718dd04"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A67W.xml", 
+  "md5sum": "b28645b3ce0e888e039502df23ef939d", 
+  "file_id": "5cd24814-bb0e-42b8-932f-d06ab26c2b7a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A67W.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14917
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MY", 
+      "entity_type": "case", 
+      "case_id": "0f5a4f7f-e2c1-44b9-8421-37090b43c97e", 
+      "entity_id": "0f5a4f7f-e2c1-44b9-8421-37090b43c97e"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MY.xml", 
+  "md5sum": "521dcbe89d18d7016496bca99b22e5f8", 
+  "file_id": "d1578005-7f97-4358-a3aa-8dfbadb0f9e2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MY.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21217
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81J", 
+      "entity_type": "case", 
+      "case_id": "3cd6e040-2cdd-401f-8678-d79dafc602f3", 
+      "entity_id": "3cd6e040-2cdd-401f-8678-d79dafc602f3"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81J.xml", 
+  "md5sum": "c23554142113d8b3e143c75cd1e3fd65", 
+  "file_id": "b2d53603-b89a-4213-ba57-b425869001c4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81J.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21226
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80P", 
+      "entity_type": "case", 
+      "case_id": "3b6b1088-662a-4a66-8134-97d385eb5ae9", 
+      "entity_id": "3b6b1088-662a-4a66-8134-97d385eb5ae9"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80P.xml", 
+  "md5sum": "19fc2a5a6a4f668d8346b243daeb2eed", 
+  "file_id": "b9b0a2a4-93b1-4ad5-a0c4-7fd0ad7deb2f", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80P.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 26616
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70J", 
+      "entity_type": "case", 
+      "case_id": "7a35d8c4-569f-477f-b985-8f46079419cf", 
+      "entity_id": "7a35d8c4-569f-477f-b985-8f46079419cf"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70J.xml", 
+  "md5sum": "0006cee27e64af7baf7ad029d1e2e3be", 
+  "file_id": "61e3560d-15dc-4934-a979-2abc75fef5e5", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70J.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14862
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A7IP", 
+      "entity_type": "case", 
+      "case_id": "7a540d69-e0c5-4b6c-ad1e-6300ecda26c4", 
+      "entity_id": "7a540d69-e0c5-4b6c-ad1e-6300ecda26c4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A7IP.xml", 
+  "md5sum": "43ba401c80ffe30590f772ebec5d1d96", 
+  "file_id": "5adb5e99-4801-4626-9fc6-3deb42a5180a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A7IP.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14907
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XK", 
+      "entity_type": "case", 
+      "case_id": "7cd44e72-55e4-4af9-b3d9-9a5d0266859a", 
+      "entity_id": "7cd44e72-55e4-4af9-b3d9-9a5d0266859a"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XK.xml", 
+  "md5sum": "ec1ac5e7f5e4f4fa53d4c239ef5a3651", 
+  "file_id": "5153e026-e46d-432a-bae1-e252c9062b95", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XK.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21081
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A820", 
+      "entity_type": "case", 
+      "case_id": "766c325b-404a-48c3-ba6b-5e17daff83be", 
+      "entity_id": "766c325b-404a-48c3-ba6b-5e17daff83be"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A820.xml", 
+  "md5sum": "9dcdb7179a99003e36f771731e58a76c", 
+  "file_id": "69fdce23-202f-4c6b-a4a1-c081a806d879", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A820.xml", 
+  "data_category": "Clinical", 
+  "annotations": [
+    {
+      "entity_submitter_id": "TCGA-WB-A820", 
+      "notes": "systemic treatment given to the prior/other malignancy", 
+      "submitter_id": "20775", 
+      "classification": "Notification", 
+      "entity_id": "766c325b-404a-48c3-ba6b-5e17daff83be", 
+      "created_datetime": "2014-06-16T00:00:00", 
+      "annotation_id": "92516853-52bb-5341-98da-66298936c063", 
+      "entity_type": "case", 
+      "updated_datetime": "2018-08-23T16:36:27.780612-05:00", 
+      "case_id": "766c325b-404a-48c3-ba6b-5e17daff83be", 
+      "state": "released", 
+      "category": "History of unacceptable prior treatment related to a prior/other malignancy", 
+      "status": "Approved"
+    }
+  ], 
+  "state": "released", 
+  "file_size": 14981
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QK", 
+      "entity_type": "case", 
+      "case_id": "8bbfad51-08e8-443e-8a08-e714d264f7b8", 
+      "entity_id": "8bbfad51-08e8-443e-8a08-e714d264f7b8"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QK.xml", 
+  "md5sum": "3ec2562e752a4b8b0d50f8ed91ca2e84", 
+  "file_id": "3e5ca5f3-4aa1-4b47-a9f7-39179de77861", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QK.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21292
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81H", 
+      "entity_type": "case", 
+      "case_id": "831da39b-2b1c-4b9d-b101-e71ddf2e83a6", 
+      "entity_id": "831da39b-2b1c-4b9d-b101-e71ddf2e83a6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81H.xml", 
+  "md5sum": "244da8be436cfe0b041f6a00fbecc3fa", 
+  "file_id": "64b8e759-b03f-4180-b065-aa844ffca322", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81H.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 33614
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SA-A6C2", 
+      "entity_type": "case", 
+      "case_id": "8850ef47-bd16-459b-8aa6-d37f81d9b202", 
+      "entity_id": "8850ef47-bd16-459b-8aa6-d37f81d9b202"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SA-A6C2.xml", 
+  "md5sum": "8e2af1b12de3c21627384ee273b85adc", 
+  "file_id": "bdb6c375-a3bf-4d7c-8d8a-4a54b537bb8d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SA-A6C2.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21279
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70N", 
+      "entity_type": "case", 
+      "case_id": "70b8a84e-47e3-47f9-b36c-646338695005", 
+      "entity_id": "70b8a84e-47e3-47f9-b36c-646338695005"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70N.xml", 
+  "md5sum": "fb88fc8a88c3cb057f7b24363623d7fc", 
+  "file_id": "119a784a-04f5-433d-9a15-0e9f6556b205", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70N.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14878
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70W", 
+      "entity_type": "case", 
+      "case_id": "7d073a9e-2a26-4cc7-8b3c-120c551b9a0c", 
+      "entity_id": "7d073a9e-2a26-4cc7-8b3c-120c551b9a0c"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70W.xml", 
+  "md5sum": "47505260e0758c6aa011949d7c4e67c2", 
+  "file_id": "673b697e-bb42-476f-b5b9-31662410d845", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70W.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14861
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GW", 
+      "entity_type": "case", 
+      "case_id": "885b069f-858e-4ecc-a2a5-e62d949c73aa", 
+      "entity_id": "885b069f-858e-4ecc-a2a5-e62d949c73aa"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GW.xml", 
+  "md5sum": "b7af92cabb2d0c7d00c9f565f7bc5791", 
+  "file_id": "8c40dc51-1734-4a41-9cb9-c09de4069847", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GW.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14862
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H0", 
+      "entity_type": "case", 
+      "case_id": "800e4387-3012-4673-87b3-a88b14234a4e", 
+      "entity_id": "800e4387-3012-4673-87b3-a88b14234a4e"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H0.xml", 
+  "md5sum": "ff74a35b0ba7e75b05c47849d778ca18", 
+  "file_id": "ed0d21ac-7578-4f33-a28c-10057980b5f5", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H0.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14982
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QC", 
+      "entity_type": "case", 
+      "case_id": "74fdffa2-d0a8-4fe3-b996-0e8d81436516", 
+      "entity_id": "74fdffa2-d0a8-4fe3-b996-0e8d81436516"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QC.xml", 
+  "md5sum": "9f2d5fe8262b1f994029a9d86733dc02", 
+  "file_id": "f0238939-e3f4-41fc-8213-b2c678e71972", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QC.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21292
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A7U0", 
+      "entity_type": "case", 
+      "case_id": "764fe189-5b13-4c2a-a1ec-587d462052c6", 
+      "entity_id": "764fe189-5b13-4c2a-a1ec-587d462052c6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A7U0.xml", 
+  "md5sum": "1db78462c2aa383089d49725aa71aa87", 
+  "file_id": "935600ac-90fe-488f-bbab-0e42dbfb44cb", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A7U0.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21253
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A822", 
+      "entity_type": "case", 
+      "case_id": "826ec350-7096-40b8-93f7-6c9205acf7f6", 
+      "entity_id": "826ec350-7096-40b8-93f7-6c9205acf7f6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A822.xml", 
+  "md5sum": "14d01ecc8274ba5fe975d4fd165fd097", 
+  "file_id": "669f273a-0623-45fa-becb-9fdc778e4f62", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A822.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27509
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-P8-A6RX", 
+      "entity_type": "case", 
+      "case_id": "78bb46f4-060d-45f3-b877-754a9d695798", 
+      "entity_id": "78bb46f4-060d-45f3-b877-754a9d695798"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-P8-A6RX.xml", 
+  "md5sum": "d80d9f2d60a4206248f09ab4d8dca523", 
+  "file_id": "1319e8d8-3d91-4a09-9616-29bb7f7c1de3", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-P8-A6RX.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 20928
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A708", 
+      "entity_type": "case", 
+      "case_id": "82d46f15-8e1b-4782-bd3a-6cfcda116431", 
+      "entity_id": "82d46f15-8e1b-4782-bd3a-6cfcda116431"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A708.xml", 
+  "md5sum": "d6d563de0cd54d6791c4ec4768618e00", 
+  "file_id": "ac62df88-bf9d-40bf-8b04-e427b0e4cdce", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A708.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14861
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80V", 
+      "entity_type": "case", 
+      "case_id": "79c6f3cd-f299-4283-b5ce-54ab41e0aeb5", 
+      "entity_id": "79c6f3cd-f299-4283-b5ce-54ab41e0aeb5"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80V.xml", 
+  "md5sum": "515128eb5681389bcecf8938d54a7b75", 
+  "file_id": "e49ee9db-1610-4254-9735-612f0e2fe72e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80V.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21149
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HD", 
+      "entity_type": "case", 
+      "case_id": "951a3ce0-fd36-44d8-9456-72d0d4c258a5", 
+      "entity_id": "951a3ce0-fd36-44d8-9456-72d0d4c258a5"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HD.xml", 
+  "md5sum": "2f489c56b467a3e53a64fed594f995ed", 
+  "file_id": "e251657d-9962-4f4f-9f63-56fc0c553c5e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HD.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27236
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-TT-A6YN", 
+      "entity_type": "case", 
+      "case_id": "91e37435-16a1-4077-b342-83826480fdc9", 
+      "entity_id": "91e37435-16a1-4077-b342-83826480fdc9"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-TT-A6YN.xml", 
+  "md5sum": "69b1e62e1643bfcaa108f195e651c10d", 
+  "file_id": "4bbb69b5-ade6-48d9-ba85-a35f1943d1a4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-TT-A6YN.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21274
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80O", 
+      "entity_type": "case", 
+      "case_id": "48a17555-a9e5-4943-bd09-5293bff707e3", 
+      "entity_id": "48a17555-a9e5-4943-bd09-5293bff707e3"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80O.xml", 
+  "md5sum": "5ea0b1843389fb5f4fe566480abe9ae6", 
+  "file_id": "f160e636-6870-4761-a39b-3ba6bd241f99", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80O.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27185
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GY", 
+      "entity_type": "case", 
+      "case_id": "5e1dbef9-c226-4464-9c08-bcf9e75e364f", 
+      "entity_id": "5e1dbef9-c226-4464-9c08-bcf9e75e364f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GY.xml", 
+  "md5sum": "87e6afeaab9fbb42048d2757bbe8c8a2", 
+  "file_id": "ec638c93-1248-4eaa-ba18-74e9442922dc", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GY.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14911
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QH", 
+      "entity_type": "case", 
+      "case_id": "4afdc661-7127-4c2e-9b66-4b0313772280", 
+      "entity_id": "4afdc661-7127-4c2e-9b66-4b0313772280"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QH.xml", 
+  "md5sum": "80d121c0e9880dc9dd93c8065f645b78", 
+  "file_id": "a0eee69a-b65e-446c-b75d-0bd75951838a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QH.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21318
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A68C", 
+      "entity_type": "case", 
+      "case_id": "5f7855e5-6170-4047-a441-ed6c9a4b3f13", 
+      "entity_id": "5f7855e5-6170-4047-a441-ed6c9a4b3f13"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A68C.xml", 
+  "md5sum": "a4a9b2e2c02ec6a1a8898d155020907a", 
+  "file_id": "bf37caee-2762-4117-8c22-1867c91191e2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A68C.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21107
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GS", 
+      "entity_type": "case", 
+      "case_id": "4d961a73-1086-493a-84e8-44e443a5effb", 
+      "entity_id": "4d961a73-1086-493a-84e8-44e443a5effb"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GS.xml", 
+  "md5sum": "ec6917d09aa6dc7624cdf454d5c9b1b4", 
+  "file_id": "a293262e-5b08-4b30-9997-f9a465906f6c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GS.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14867
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A67X", 
+      "entity_type": "case", 
+      "case_id": "613c3096-7d23-4404-b236-b053485541f3", 
+      "entity_id": "613c3096-7d23-4404-b236-b053485541f3"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A67X.xml", 
+  "md5sum": "02af3512cf5eacddf4e7f6670da94005", 
+  "file_id": "222eeeaa-88e0-48ad-b0df-a823ebdb7776", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A67X.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14914
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7UY", 
+      "entity_type": "case", 
+      "case_id": "4dc21807-d51c-47ac-8eb5-0cedd010fa97", 
+      "entity_id": "4dc21807-d51c-47ac-8eb5-0cedd010fa97"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7UY.xml", 
+  "md5sum": "ae065336e0fbe52747d178e1b14bde61", 
+  "file_id": "6c47fb75-41ef-409f-ad04-f13a8dbfa7a9", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7UY.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27107
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-PR-A5PG", 
+      "entity_type": "case", 
+      "case_id": "4ee51f8b-ca57-404d-80b3-ccd66735260b", 
+      "entity_id": "4ee51f8b-ca57-404d-80b3-ccd66735260b"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-PR-A5PG.xml", 
+  "md5sum": "82c93634d5a4c60ee9e8d65b663a1d04", 
+  "file_id": "0dc26125-cea7-4808-803e-55981f1cbf72", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-PR-A5PG.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 24961
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SQ-A6I4", 
+      "entity_type": "case", 
+      "case_id": "634c7876-21c1-43ea-aa2e-83e9f627409f", 
+      "entity_id": "634c7876-21c1-43ea-aa2e-83e9f627409f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SQ-A6I4.xml", 
+  "md5sum": "deacbda9e33fdd47b5798e3458c1b79f", 
+  "file_id": "b4d9cfea-8fe4-4658-bf26-36cba92db526", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SQ-A6I4.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14737
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-TT-A6YP", 
+      "entity_type": "case", 
+      "case_id": "5047e5dc-6b4c-4708-bf25-984b27a87882", 
+      "entity_id": "5047e5dc-6b4c-4708-bf25-984b27a87882"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-TT-A6YP.xml", 
+  "md5sum": "9d3efd1d7e90fac4ddb02e0baa94d4c5", 
+  "file_id": "23e6141d-078a-4c42-82e8-d2dd41945bb2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-TT-A6YP.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27472
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MV", 
+      "entity_type": "case", 
+      "case_id": "66af140d-deab-440f-bb58-b8c3da2c3ca5", 
+      "entity_id": "66af140d-deab-440f-bb58-b8c3da2c3ca5"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MV.xml", 
+  "md5sum": "4cc51ba346108d318b11fd17d312f88a", 
+  "file_id": "f9715cd9-bc6e-4c32-92e0-60757038488e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MV.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 26033
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80N", 
+      "entity_type": "case", 
+      "case_id": "5512194a-c2f1-4d67-8570-dd6b10d4a348", 
+      "entity_id": "5512194a-c2f1-4d67-8570-dd6b10d4a348"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80N.xml", 
+  "md5sum": "a3128780b2c32bd9f8a686fdd71beec2", 
+  "file_id": "0137ae41-417c-4b1c-abbd-c42087e6955f", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80N.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21098
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81G", 
+      "entity_type": "case", 
+      "case_id": "686ff2ea-e95b-4a08-a3d8-fdfa67fa9b92", 
+      "entity_id": "686ff2ea-e95b-4a08-a3d8-fdfa67fa9b92"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81G.xml", 
+  "md5sum": "f3c4acb5d6fe4abb5c9eedd1ecf4273a", 
+  "file_id": "604fd4d9-febb-4874-a375-31cc4741430e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81G.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27313
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81N", 
+      "entity_type": "case", 
+      "case_id": "6acc035f-e85e-4ede-b630-c225996cea2d", 
+      "entity_id": "6acc035f-e85e-4ede-b630-c225996cea2d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81N.xml", 
+  "md5sum": "53bd40ab8c304fe6b63957f6822eec8f", 
+  "file_id": "376e2136-3929-4f2e-a89f-1a1885c09133", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81N.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 33578
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MS", 
+      "entity_type": "case", 
+      "case_id": "57d62b10-0d96-4c72-a108-d877f412842f", 
+      "entity_id": "57d62b10-0d96-4c72-a108-d877f412842f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MS.xml", 
+  "md5sum": "8cfdc144d2a6103083f9780a08230478", 
+  "file_id": "05ee2a83-5691-4b31-acde-a5a021639a73", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MS.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21238
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70I", 
+      "entity_type": "case", 
+      "case_id": "5822a2fd-708c-4180-abed-a8053edc0429", 
+      "entity_id": "5822a2fd-708c-4180-abed-a8053edc0429"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70I.xml", 
+  "md5sum": "daada31c5be9e890165200a0eec0b23a", 
+  "file_id": "0d915aba-db93-4bbc-8cc3-c502b0da7e9c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70I.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14868
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XJ", 
+      "entity_type": "case", 
+      "case_id": "59f305d2-dca8-4ec7-8708-27b4b105fc72", 
+      "entity_id": "59f305d2-dca8-4ec7-8708-27b4b105fc72"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XJ.xml", 
+  "md5sum": "1a43182be69b6fc13bca1b2eb6dec7c8", 
+  "file_id": "ef0730d6-6a71-4fee-ac61-fda6d89104af", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XJ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 40217
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QG", 
+      "entity_type": "case", 
+      "case_id": "6f8df65f-326e-441e-91ac-61e5b32ac16f", 
+      "entity_id": "6f8df65f-326e-441e-91ac-61e5b32ac16f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QG.xml", 
+  "md5sum": "43011578a6002644d9811a2e55b2c6d2", 
+  "file_id": "0e755a45-c5f8-4a54-954b-f59fbf2f2cc3", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QG.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27726
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A815", 
+      "entity_type": "case", 
+      "case_id": "7395b02f-c0db-449d-a51a-64e80b619ad7", 
+      "entity_id": "7395b02f-c0db-449d-a51a-64e80b619ad7"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A815.xml", 
+  "md5sum": "7e1f6138f2ef9eee9a527569499a2a25", 
+  "file_id": "b4f00586-440e-403d-aae1-d01faefcdd89", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A815.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27311
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XL", 
+      "entity_type": "case", 
+      "case_id": "74d1a38b-0ed6-482a-a9d8-bb9e8cd2253d", 
+      "entity_id": "74d1a38b-0ed6-482a-a9d8-bb9e8cd2253d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XL.xml", 
+  "md5sum": "fd0bb843296797419faaf0c9d17542ae", 
+  "file_id": "d2724797-1a1a-4c6a-bf87-1df4e4f7c9d4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XL.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21098
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XP", 
+      "entity_type": "case", 
+      "case_id": "7d42ff05-1de0-43d3-8a6c-6bbabb582209", 
+      "entity_id": "7d42ff05-1de0-43d3-8a6c-6bbabb582209"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XP.xml", 
+  "md5sum": "a3e4c7f9c3411015144b1e4d59cd256b", 
+  "file_id": "5ac79a4a-2be8-4ea6-a8cf-d354c8af25b7", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XP.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21155
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A814", 
+      "entity_type": "case", 
+      "case_id": "5a92887a-c367-4fa7-a696-23e70de033c7", 
+      "entity_id": "5a92887a-c367-4fa7-a696-23e70de033c7"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A814.xml", 
+  "md5sum": "d7a63a7144d2683a72d29d54a9a32e18", 
+  "file_id": "51935add-b617-4d7c-8f83-9b291a3ff540", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A814.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21351
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H1", 
+      "entity_type": "case", 
+      "case_id": "7f4af1ae-da2d-4ecc-8f7a-6255e5c77e91", 
+      "entity_id": "7f4af1ae-da2d-4ecc-8f7a-6255e5c77e91"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H1.xml", 
+  "md5sum": "5f0783c3d918648e3071366ef48efba5", 
+  "file_id": "2c8d2b58-0944-49fa-ba60-0d7865ff8225", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H1.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14949
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WM", 
+      "entity_type": "case", 
+      "case_id": "888ae611-a0de-4248-85e8-05f92e6ee2c4", 
+      "entity_id": "888ae611-a0de-4248-85e8-05f92e6ee2c4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WM.xml", 
+  "md5sum": "357fdafe3e5e770e5e95618d5c0c9588", 
+  "file_id": "9f277a14-77be-4998-b051-67b1bc58b8ce", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WM.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27489
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A68F", 
+      "entity_type": "case", 
+      "case_id": "813375ef-b895-4c7c-9e98-55a00f98da95", 
+      "entity_id": "813375ef-b895-4c7c-9e98-55a00f98da95"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A68F.xml", 
+  "md5sum": "0c80f670b66c321e0f439821ffbff436", 
+  "file_id": "0d86ffb6-d29a-487f-bace-ab099b56e574", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A68F.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21153
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A686", 
+      "entity_type": "case", 
+      "case_id": "8b8dadd8-781a-42bd-a59d-4ff5c301b1df", 
+      "entity_id": "8b8dadd8-781a-42bd-a59d-4ff5c301b1df"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A686.xml", 
+  "md5sum": "c2ccad9bfb4032cb62e475e8b3708b95", 
+  "file_id": "8d2e4975-8d83-4c0f-8989-04f5ebbe2b14", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A686.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21188
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70R", 
+      "entity_type": "case", 
+      "case_id": "8e3a6536-befb-42fe-be61-6d2428ed7df6", 
+      "entity_id": "8e3a6536-befb-42fe-be61-6d2428ed7df6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70R.xml", 
+  "md5sum": "fea999cae4157c4a46afefb3606d9125", 
+  "file_id": "e8948e3e-d797-4f53-8e2d-ca2a8824c9a2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70R.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14819
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A80Y", 
+      "entity_type": "case", 
+      "case_id": "909d5bf5-2ae1-4801-b717-f379a7e26e1d", 
+      "entity_id": "909d5bf5-2ae1-4801-b717-f379a7e26e1d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A80Y.xml", 
+  "md5sum": "fd2b628a211dc5cb4bdddf05e1872eac", 
+  "file_id": "06ab0870-b46f-45ab-a506-214b92a5fbb3", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A80Y.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15030
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6ZZ", 
+      "entity_type": "case", 
+      "case_id": "5ce3a0b8-a05c-4a71-86e0-ff9a34517cea", 
+      "entity_id": "5ce3a0b8-a05c-4a71-86e0-ff9a34517cea"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6ZZ.xml", 
+  "md5sum": "b28bcc7303aaafe88055aa6a14d5dd00", 
+  "file_id": "1f1a4a78-08ea-4f2d-a611-11b22b6ebf62", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6ZZ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14901
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81V", 
+      "entity_type": "case", 
+      "case_id": "47016ea9-afd6-4ad4-97f5-4b40b8a6f075", 
+      "entity_id": "47016ea9-afd6-4ad4-97f5-4b40b8a6f075"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81V.xml", 
+  "md5sum": "bb67bed0f7f7907fc3e885e295efbb97", 
+  "file_id": "2041b044-e155-4e2a-ba78-0f4cd4d09984", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81V.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21112
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WU", 
+      "entity_type": "case", 
+      "case_id": "6b8ea229-a96d-4632-add9-18996f59db81", 
+      "entity_id": "6b8ea229-a96d-4632-add9-18996f59db81"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WU.xml", 
+  "md5sum": "8d6f8d02e4ed8c650522758e26279c7b", 
+  "file_id": "068b2504-dce5-47c4-9756-b89880958d21", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WU.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21276
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-P8-A5KC", 
+      "entity_type": "case", 
+      "case_id": "6ad83e51-2703-474c-83db-ee86bf13ac36", 
+      "entity_id": "6ad83e51-2703-474c-83db-ee86bf13ac36"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-P8-A5KC.xml", 
+  "md5sum": "823fcdb41ed68ad018167b992a8dbd23", 
+  "file_id": "e2fb441c-ade7-4326-9683-fefeb7a3aea3", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-P8-A5KC.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21019
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MR", 
+      "entity_type": "case", 
+      "case_id": "5a36b7af-70c6-4a08-84ac-01ef15739337", 
+      "entity_id": "5a36b7af-70c6-4a08-84ac-01ef15739337"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MR.xml", 
+  "md5sum": "75d708ceafc77f78e65563d7772ed7c4", 
+  "file_id": "4ad8ae8d-ce84-43d1-a672-ee0c60a095e4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MR.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21678
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MP", 
+      "entity_type": "case", 
+      "case_id": "323e134e-caa8-42b7-9114-78812e1196ea", 
+      "entity_id": "323e134e-caa8-42b7-9114-78812e1196ea"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MP.xml", 
+  "md5sum": "b9794629a72b91c5fe1f36a13a8800d9", 
+  "file_id": "9c637333-d683-45ca-b7ae-6ec358aacec6", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MP.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21141
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HB", 
+      "entity_type": "case", 
+      "case_id": "3354dc26-9ad9-47b6-8d8a-c3bc28eaac15", 
+      "entity_id": "3354dc26-9ad9-47b6-8d8a-c3bc28eaac15"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HB.xml", 
+  "md5sum": "073b1c951de308b671dc27fcc733a7cf", 
+  "file_id": "4146c186-681e-4572-8913-c0d320929ac1", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HB.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21189
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-TT-A6YO", 
+      "entity_type": "case", 
+      "case_id": "06b763de-68f6-42fd-9aac-4cc4f96e901e", 
+      "entity_id": "06b763de-68f6-42fd-9aac-4cc4f96e901e"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-TT-A6YO.xml", 
+  "md5sum": "37058ba5be276d04f8eefd3c3e32f567", 
+  "file_id": "fbd42d4e-d399-4e55-a3a1-f0739c4e9172", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-TT-A6YO.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 33232
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A8AZ", 
+      "entity_type": "case", 
+      "case_id": "36905596-8480-4bcb-841b-520f48a936f9", 
+      "entity_id": "36905596-8480-4bcb-841b-520f48a936f9"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A8AZ.xml", 
+  "md5sum": "9eee74c70b29c37385fb085a49b2938b", 
+  "file_id": "b0b93ca5-9d8c-4ec4-93c3-8e1862c82ff9", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A8AZ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14911
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-P7-A5NY", 
+      "entity_type": "case", 
+      "case_id": "28fffbe3-2b11-42cd-89fc-d06a546cf9a0", 
+      "entity_id": "28fffbe3-2b11-42cd-89fc-d06a546cf9a0"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-P7-A5NY.xml", 
+  "md5sum": "c3a2a544cf22ba3725c453bf7c77b5a2", 
+  "file_id": "00276b45-e3fb-478c-81e0-3420edd557a4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-P7-A5NY.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21264
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H2", 
+      "entity_type": "case", 
+      "case_id": "36b0f5a0-42d9-4301-97b9-51b2471c82ee", 
+      "entity_id": "36b0f5a0-42d9-4301-97b9-51b2471c82ee"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H2.xml", 
+  "md5sum": "48dd50093b0f814d57e14e4d55e94a78", 
+  "file_id": "c298668a-df19-466e-9f8f-bb7aa272e667", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H2.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14861
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GT", 
+      "entity_type": "case", 
+      "case_id": "08dd606a-1982-4cb9-bcd6-09d4bc158f6d", 
+      "entity_id": "08dd606a-1982-4cb9-bcd6-09d4bc158f6d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GT.xml", 
+  "md5sum": "5f2be051bb5bf7c58f0a2cfb56d03f50", 
+  "file_id": "8f6867c4-2121-48ca-9a84-a321eed4221a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GT.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 29076
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H4", 
+      "entity_type": "case", 
+      "case_id": "38d7c7a6-c907-4f9b-ad34-47776e5babdd", 
+      "entity_id": "38d7c7a6-c907-4f9b-ad34-47776e5babdd"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H4.xml", 
+  "md5sum": "0827eed62dc7040275840ef346819133", 
+  "file_id": "e1949e03-31d0-460b-a688-1afe7e5f1246", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H4.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14905
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WP", 
+      "entity_type": "case", 
+      "case_id": "93188b85-4361-4908-9db5-889c94c02c73", 
+      "entity_id": "93188b85-4361-4908-9db5-889c94c02c73"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WP.xml", 
+  "md5sum": "9a1c4307cbbd9e0aa9183801a39a82b9", 
+  "file_id": "2814a98c-b816-4709-8098-0ee67a8c66d7", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WP.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21273
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70V", 
+      "entity_type": "case", 
+      "case_id": "9d6e8692-ab14-414f-a5fd-556b9d62fe34", 
+      "entity_id": "9d6e8692-ab14-414f-a5fd-556b9d62fe34"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70V.xml", 
+  "md5sum": "3ec2df266fa274d7d8b6cab515e6054f", 
+  "file_id": "a114a699-fa94-4570-9832-694d0b1642a9", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70V.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14831
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81S", 
+      "entity_type": "case", 
+      "case_id": "b4be9e07-e65c-4ef7-9c52-90141f9964fe", 
+      "entity_id": "b4be9e07-e65c-4ef7-9c52-90141f9964fe"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81S.xml", 
+  "md5sum": "1bb878ceda06a4de533995d8c40fc758", 
+  "file_id": "71eafdea-3a25-4e6c-85d9-e8cf7a112818", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81S.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27362
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81F", 
+      "entity_type": "case", 
+      "case_id": "9dfb14b5-d045-4047-8a09-0a8a9d79114c", 
+      "entity_id": "9dfb14b5-d045-4047-8a09-0a8a9d79114c"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81F.xml", 
+  "md5sum": "f0e98fc514372efb7f38b1a1ef2cbd7c", 
+  "file_id": "0cf0993d-0647-4409-b5a9-2bf0292f474d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81F.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21226
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7H7", 
+      "entity_type": "case", 
+      "case_id": "b64c48bb-ebec-4c03-921e-a859cf893bb3", 
+      "entity_id": "b64c48bb-ebec-4c03-921e-a859cf893bb3"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7H7.xml", 
+  "md5sum": "b83eb2f021be9ecfae5edd7fc5401ba7", 
+  "file_id": "172d6fa5-c9d1-4948-a276-81c74168faf2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7H7.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21091
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70G", 
+      "entity_type": "case", 
+      "case_id": "9ea29c7c-7e10-433d-a5b4-60ce9a48beac", 
+      "entity_id": "9ea29c7c-7e10-433d-a5b4-60ce9a48beac"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70G.xml", 
+  "md5sum": "60d3822874b8a6e4c61dea924521760e", 
+  "file_id": "1ce14d0e-be49-4031-a55a-f2f2477ed81d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70G.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14879
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81E", 
+      "entity_type": "case", 
+      "case_id": "ba65b478-65d0-4c9a-a2c2-d32b29a1a9c4", 
+      "entity_id": "ba65b478-65d0-4c9a-a2c2-d32b29a1a9c4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81E.xml", 
+  "md5sum": "923eb136cacc5b3c4380a163a0bc30aa", 
+  "file_id": "0a3f1c85-a3d9-4d6f-afb8-46e394186d54", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81E.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 32601
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70P", 
+      "entity_type": "case", 
+      "case_id": "a39ac229-60d2-42c2-9721-7e0894c0ae38", 
+      "entity_id": "a39ac229-60d2-42c2-9721-7e0894c0ae38"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70P.xml", 
+  "md5sum": "70f76b605a37ca7565492c1dce04469c", 
+  "file_id": "10376291-c90f-4c90-96b5-98430e75239e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70P.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 30592
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A703", 
+      "entity_type": "case", 
+      "case_id": "a3b165e0-bec1-4dbc-b2d8-08fa21874cfa", 
+      "entity_id": "a3b165e0-bec1-4dbc-b2d8-08fa21874cfa"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A703.xml", 
+  "md5sum": "ecc78fb98ab6e41f0e5c953a5118e97e", 
+  "file_id": "67d6f313-5910-4a37-beaf-b47b8869f86f", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A703.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 16871
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WQ", 
+      "entity_type": "case", 
+      "case_id": "be08b718-93ce-476a-99f6-4239c7f0bbfa", 
+      "entity_id": "be08b718-93ce-476a-99f6-4239c7f0bbfa"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WQ.xml", 
+  "md5sum": "c14b413245af68763c1ec575788f3173", 
+  "file_id": "642cf377-3dbf-4d83-a13a-c6cdf98fde95", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WQ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21315
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A67Y", 
+      "entity_type": "case", 
+      "case_id": "c0a56781-436e-48d6-8fe4-37a2f87679f2", 
+      "entity_id": "c0a56781-436e-48d6-8fe4-37a2f87679f2"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A67Y.xml", 
+  "md5sum": "078a71e58c1ad9bffcd88274a2148543", 
+  "file_id": "fe8c071d-4a9d-4265-b002-e3511ee1fe35", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A67Y.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14917
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HF", 
+      "entity_type": "case", 
+      "case_id": "be51b087-0861-4555-974d-457108608c36", 
+      "entity_id": "be51b087-0861-4555-974d-457108608c36"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HF.xml", 
+  "md5sum": "a3ae71319c13352b61699aadc2c20f29", 
+  "file_id": "de0aa175-87c0-4e67-8524-1868b30f42aa", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HF.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21154
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GU", 
+      "entity_type": "case", 
+      "case_id": "be7d999b-9725-4bf0-b337-cdc3ed55f05f", 
+      "entity_id": "be7d999b-9725-4bf0-b337-cdc3ed55f05f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GU.xml", 
+  "md5sum": "ee9d7d7ff58eb57239028eef9646ebfb", 
+  "file_id": "278dca4a-c46a-4bd6-914b-1670e99baace", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GU.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14941
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QF", 
+      "entity_type": "case", 
+      "case_id": "c6f5ec07-84bb-4868-be01-8fe8c7ce6999", 
+      "entity_id": "c6f5ec07-84bb-4868-be01-8fe8c7ce6999"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QF.xml", 
+  "md5sum": "38a1b0535c11578994cd19a67958b90f", 
+  "file_id": "0584a0bb-615e-44f2-b488-fa84b2165566", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QF.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21764
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A702", 
+      "entity_type": "case", 
+      "case_id": "c7522bed-b672-4f54-bbb7-31698f73f14d", 
+      "entity_id": "c7522bed-b672-4f54-bbb7-31698f73f14d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A702.xml", 
+  "md5sum": "186ef871a1ba7a9c9744ac03f65735d4", 
+  "file_id": "ab0d971e-d74e-44c1-a719-ca461902e0ab", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A702.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15006
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RT-A6YC", 
+      "entity_type": "case", 
+      "case_id": "d189a52d-b65b-47f8-9f5d-35451829e78b", 
+      "entity_id": "d189a52d-b65b-47f8-9f5d-35451829e78b"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RT-A6YC.xml", 
+  "md5sum": "19f82a7e4805c884606df5c0eca60090", 
+  "file_id": "246fc9ba-b060-453f-bb84-1d225321abf9", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RT-A6YC.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21181
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WT", 
+      "entity_type": "case", 
+      "case_id": "cc95f915-33e7-4c57-9e6b-4c0e2ba598b2", 
+      "entity_id": "cc95f915-33e7-4c57-9e6b-4c0e2ba598b2"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WT.xml", 
+  "md5sum": "2e930fcebadb2bb609a3fcd76bdf9eef", 
+  "file_id": "f1892e4e-1bcc-426b-9347-e5bef033961a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WT.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27435
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A7CZ", 
+      "entity_type": "case", 
+      "case_id": "d1eea093-f349-435f-b8d4-1b40b35503d7", 
+      "entity_id": "d1eea093-f349-435f-b8d4-1b40b35503d7"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A7CZ.xml", 
+  "md5sum": "3a73d98636df103e29b114b7b305a804", 
+  "file_id": "ee4ee545-0718-498f-ab5e-f0682d102c38", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A7CZ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21216
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GR", 
+      "entity_type": "case", 
+      "case_id": "d206a75d-c939-4d82-a3fd-8a8edf6288ab", 
+      "entity_id": "d206a75d-c939-4d82-a3fd-8a8edf6288ab"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GR.xml", 
+  "md5sum": "e582363ed673e38dd825e10d17c97823", 
+  "file_id": "b8bd1dd1-eaaa-4568-98d2-8c0860051680", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GR.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14869
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A7IN", 
+      "entity_type": "case", 
+      "case_id": "dc5c8c56-e3be-4649-8df5-622d497955ce", 
+      "entity_id": "dc5c8c56-e3be-4649-8df5-622d497955ce"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A7IN.xml", 
+  "md5sum": "8cd23a566635059d70170ece79ed4855", 
+  "file_id": "a92c05ed-55ca-462f-9b22-13d98af5426e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A7IN.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14882
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HE", 
+      "entity_type": "case", 
+      "case_id": "d695e03c-4cf2-4abc-b0f3-ba3067bd03ad", 
+      "entity_id": "d695e03c-4cf2-4abc-b0f3-ba3067bd03ad"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HE.xml", 
+  "md5sum": "1e711db0376a8fd4618a5b4bb4f49cab", 
+  "file_id": "bf330e7f-a0b6-457e-9e86-eeeb8d21d748", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HE.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21148
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-PR-A5PH", 
+      "entity_type": "case", 
+      "case_id": "dde27a84-1583-438e-b0bb-1df61829cc54", 
+      "entity_id": "dde27a84-1583-438e-b0bb-1df61829cc54"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-PR-A5PH.xml", 
+  "md5sum": "71a054bab97edb786249729409a8294b", 
+  "file_id": "91764778-1f32-482f-b7cc-c91fe60818cd", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-PR-A5PH.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21355
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81D", 
+      "entity_type": "case", 
+      "case_id": "df992f6c-27a8-440b-a0ec-bbc40b931d36", 
+      "entity_id": "df992f6c-27a8-440b-a0ec-bbc40b931d36"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81D.xml", 
+  "md5sum": "a8c1c10293fe172eca85a32d8340d8e6", 
+  "file_id": "0305eff5-65bb-4900-9994-b73758479a51", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81D.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21227
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A706", 
+      "entity_type": "case", 
+      "case_id": "e4d27efb-a05b-4903-8133-62ca12c7e4ed", 
+      "entity_id": "e4d27efb-a05b-4903-8133-62ca12c7e4ed"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A706.xml", 
+  "md5sum": "fb08d4b86dadb862ff23127ac95e9d09", 
+  "file_id": "62943e06-0234-4a3c-9d00-290888659c0b", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A706.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14841
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7H5", 
+      "entity_type": "case", 
+      "case_id": "ec00f97b-0a0c-49f0-905d-e7ed30183e5a", 
+      "entity_id": "ec00f97b-0a0c-49f0-905d-e7ed30183e5a"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7H5.xml", 
+  "md5sum": "799e38d49695fe586eaa08b35139a1dc", 
+  "file_id": "70b543f7-818c-4a63-aad9-315a3445f114", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7H5.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27234
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70C", 
+      "entity_type": "case", 
+      "case_id": "ecd41483-3c0d-4181-a6bf-14769f7f7394", 
+      "entity_id": "ecd41483-3c0d-4181-a6bf-14769f7f7394"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70C.xml", 
+  "md5sum": "6833066ceaa26ec95750267f71c12bd9", 
+  "file_id": "95064ec1-700f-4b90-9a50-b9f016458514", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70C.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14883
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A818", 
+      "entity_type": "case", 
+      "case_id": "eda639d8-befb-44c8-97c0-4a5d2eeb152f", 
+      "entity_id": "eda639d8-befb-44c8-97c0-4a5d2eeb152f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A818.xml", 
+  "md5sum": "647bd9798674788e4643c3d594301635", 
+  "file_id": "e711813c-e4f7-480a-80a3-a325dc6c4a61", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A818.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 33485
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MZ", 
+      "entity_type": "case", 
+      "case_id": "ee01b7b0-db62-48bf-804f-617735d234e1", 
+      "entity_id": "ee01b7b0-db62-48bf-804f-617735d234e1"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MZ.xml", 
+  "md5sum": "dbcd0586e3bb5c13d3ce8364f3a8aaf1", 
+  "file_id": "f40154cc-ad61-4552-a673-3980d105e397", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MZ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27448
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A681", 
+      "entity_type": "case", 
+      "case_id": "f76d85c2-e1f8-4759-a1fa-f8ed273ddb49", 
+      "entity_id": "f76d85c2-e1f8-4759-a1fa-f8ed273ddb49"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A681.xml", 
+  "md5sum": "55b2b4973e8944bf3e7f91fd8592f55e", 
+  "file_id": "4a353d53-ca3f-44b3-a0f1-f92aac0b3a0e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A681.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21108
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70U", 
+      "entity_type": "case", 
+      "case_id": "ef1e58d9-2f85-49a7-b50b-df312e544319", 
+      "entity_id": "ef1e58d9-2f85-49a7-b50b-df312e544319"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70U.xml", 
+  "md5sum": "fe35a94f135f314919f30db03e6b030b", 
+  "file_id": "8dc814d2-870b-419d-ac88-bb2a43006301", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70U.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14863
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6H3", 
+      "entity_type": "case", 
+      "case_id": "f027a6b4-4007-4ba1-a2e8-3567b266bcf4", 
+      "entity_id": "f027a6b4-4007-4ba1-a2e8-3567b266bcf4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6H3.xml", 
+  "md5sum": "4d46c6df14e091c010db4fe5f6b2d5ec", 
+  "file_id": "f725e18c-fdfb-47f4-ac8e-562d7d462b90", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6H3.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14941
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81W", 
+      "entity_type": "case", 
+      "case_id": "f83ee2a0-001d-4575-9c43-6ff5a0c3f5c7", 
+      "entity_id": "f83ee2a0-001d-4575-9c43-6ff5a0c3f5c7"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81W.xml", 
+  "md5sum": "065df5650be3ac437028d35d11708a37", 
+  "file_id": "b779ca45-79f3-47ad-8d51-512a770c8b67", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81W.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21231
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A68B", 
+      "entity_type": "case", 
+      "case_id": "f94f3c0e-19a5-4a31-870c-e04bb0f3efcf", 
+      "entity_id": "f94f3c0e-19a5-4a31-870c-e04bb0f3efcf"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A68B.xml", 
+  "md5sum": "3b085667a23c6676ed642f1a5bc885b6", 
+  "file_id": "9d0f4262-2294-4f40-953d-1863b2884b13", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A68B.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21088
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-PR-A5PF", 
+      "entity_type": "case", 
+      "case_id": "f36583af-cc6b-4985-8d11-307970d11008", 
+      "entity_id": "f36583af-cc6b-4985-8d11-307970d11008"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-PR-A5PF.xml", 
+  "md5sum": "da90bb023b49b9d92781c5ec58263cc8", 
+  "file_id": "e10278f4-f460-4a50-bfff-9d11b7e7df2a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-PR-A5PF.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21280
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81M", 
+      "entity_type": "case", 
+      "case_id": "f59d5e25-1b13-436f-9630-6c550337a349", 
+      "entity_id": "f59d5e25-1b13-436f-9630-6c550337a349"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81M.xml", 
+  "md5sum": "f54d44453d1784d487a1812989e6a078", 
+  "file_id": "481b7991-6a26-48f5-9c96-b4a9ffe0f836", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81M.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21189
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70Q", 
+      "entity_type": "case", 
+      "case_id": "b19c825e-33b2-4ff5-86bf-ad352e53a710", 
+      "entity_id": "b19c825e-33b2-4ff5-86bf-ad352e53a710"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70Q.xml", 
+  "md5sum": "c8b4ef1de6daacd207a9291591460bab", 
+  "file_id": "68bfef72-999b-4c16-bb47-41c5f54d4a60", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70Q.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14855
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70D", 
+      "entity_type": "case", 
+      "case_id": "9cb0dea2-8c02-48c1-8217-0529cc57addc", 
+      "entity_id": "9cb0dea2-8c02-48c1-8217-0529cc57addc"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70D.xml", 
+  "md5sum": "3fc4136ae820844ee37d50653ad6c654", 
+  "file_id": "f9da3e3b-fc6e-416e-9b65-2f3ab31c024e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70D.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15122
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QT-A5XN", 
+      "entity_type": "case", 
+      "case_id": "939734bc-257b-42f0-9928-b8c4f283fb18", 
+      "entity_id": "939734bc-257b-42f0-9928-b8c4f283fb18"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QT-A5XN.xml", 
+  "md5sum": "0fb4078872d6dd4e2cad54e20db26396", 
+  "file_id": "9231d123-c933-488b-b41f-1b6aa5f7cd6d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QT-A5XN.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21121
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-XG-A823", 
+      "entity_type": "case", 
+      "case_id": "93fffb9e-e065-40dc-8eaa-62c9f35560c4", 
+      "entity_id": "93fffb9e-e065-40dc-8eaa-62c9f35560c4"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-XG-A823.xml", 
+  "md5sum": "69245a49314ee50502ff34bf68934260", 
+  "file_id": "0069a306-77c3-4a42-8eb4-31ad40fd90b3", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-XG-A823.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21672
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A688", 
+      "entity_type": "case", 
+      "case_id": "a7809d38-985d-4d0e-9bec-3fdb6536be45", 
+      "entity_id": "a7809d38-985d-4d0e-9bec-3fdb6536be45"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A688.xml", 
+  "md5sum": "24a704f7b10113c556c4a80eb31fb356", 
+  "file_id": "2442dd46-4695-4b23-b308-d859275d9b10", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A688.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15113
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A816", 
+      "entity_type": "case", 
+      "case_id": "a9593c31-72d2-4d70-a64f-d2776bcb0367", 
+      "entity_id": "a9593c31-72d2-4d70-a64f-d2776bcb0367"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A816.xml", 
+  "md5sum": "b48c6cbf3aef5937e2d73b107ea24238", 
+  "file_id": "5d6df2f2-c484-497d-a807-22c616e5d82a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A816.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21146
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A7D0", 
+      "entity_type": "case", 
+      "case_id": "c0b5e10f-e3cc-443d-aca4-ea2928463001", 
+      "entity_id": "c0b5e10f-e3cc-443d-aca4-ea2928463001"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A7D0.xml", 
+  "md5sum": "8f8ab978584b682dcac0e41de1a4269f", 
+  "file_id": "97237f04-9d52-4b5a-afdd-4132e0c8b01e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A7D0.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21107
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RT-A6YA", 
+      "entity_type": "case", 
+      "case_id": "ac5d4a1c-ee54-4f0e-8289-a546eead2750", 
+      "entity_id": "ac5d4a1c-ee54-4f0e-8289-a546eead2750"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RT-A6YA.xml", 
+  "md5sum": "7deec929e1b17acb9d01183e6489e143", 
+  "file_id": "7193517b-2e46-4ca3-a82f-185233e04174", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RT-A6YA.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21252
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RX-A8JQ", 
+      "entity_type": "case", 
+      "case_id": "c4ed3216-6db9-424c-94f5-26c2fc0e95ee", 
+      "entity_id": "c4ed3216-6db9-424c-94f5-26c2fc0e95ee"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RX-A8JQ.xml", 
+  "md5sum": "bcd53d3087db3fd2faf00a836a3d6a00", 
+  "file_id": "1db85032-c61d-4a8f-bdf2-5e7479e3a2b4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RX-A8JQ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21360
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A6GZ", 
+      "entity_type": "case", 
+      "case_id": "c7c3dec8-0251-4396-9d79-9dd28d70ab3d", 
+      "entity_id": "c7c3dec8-0251-4396-9d79-9dd28d70ab3d"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A6GZ.xml", 
+  "md5sum": "0ea1669f6ea2331b2547b62e12be790b", 
+  "file_id": "147e4752-6563-447b-9608-c5fe754fba6c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A6GZ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14969
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7X0", 
+      "entity_type": "case", 
+      "case_id": "cd24b9f2-f550-4b83-aa7a-d16c9d130cb2", 
+      "entity_id": "cd24b9f2-f550-4b83-aa7a-d16c9d130cb2"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7X0.xml", 
+  "md5sum": "0dccf9a6aa26f3c1ef38f17c73eb9062", 
+  "file_id": "9dc97efb-3825-4811-9066-6665901aef1e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7X0.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27527
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A821", 
+      "entity_type": "case", 
+      "case_id": "cec25604-3e90-4d2b-83aa-cda3f4b442b9", 
+      "entity_id": "cec25604-3e90-4d2b-83aa-cda3f4b442b9"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A821.xml", 
+  "md5sum": "fce07e9296568c8ffc55ff8eb1bf1909", 
+  "file_id": "c0464065-f8d8-48dd-831e-c19e861ac0c6", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A821.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27316
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-P7-A5NX", 
+      "entity_type": "case", 
+      "case_id": "cae03180-01e5-41aa-88c2-da9c233778d8", 
+      "entity_id": "cae03180-01e5-41aa-88c2-da9c233778d8"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-P7-A5NX.xml", 
+  "md5sum": "4701d5cb6e916858d68fab0400eaa39e", 
+  "file_id": "803928af-9e3c-4007-9c87-e825e7ffb1c4", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-P7-A5NX.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21276
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70T", 
+      "entity_type": "case", 
+      "case_id": "d0ac8d96-9d78-4f4b-9fbe-1202631c70a5", 
+      "entity_id": "d0ac8d96-9d78-4f4b-9fbe-1202631c70a5"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70T.xml", 
+  "md5sum": "cfd61e4114968823993afdd31d32e3c9", 
+  "file_id": "1ce1d778-1c4b-4143-9b41-95e30290e45d", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70T.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15029
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SR-A6MQ", 
+      "entity_type": "case", 
+      "case_id": "cb96fd6f-322e-4bb1-9d20-aae21d124308", 
+      "entity_id": "cb96fd6f-322e-4bb1-9d20-aae21d124308"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SR-A6MQ.xml", 
+  "md5sum": "065e64ee71dd91c679a95f201da78e15", 
+  "file_id": "721a697d-119a-4a2b-a7a1-794c170cb42c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SR-A6MQ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21369
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7X2", 
+      "entity_type": "case", 
+      "case_id": "cc9f570c-0bde-4485-afd7-eaeed41254fc", 
+      "entity_id": "cc9f570c-0bde-4485-afd7-eaeed41254fc"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7X2.xml", 
+  "md5sum": "932daa42c994b5ae4c513aa26a5cf7b0", 
+  "file_id": "18e24725-16c9-4550-850b-835c122f7268", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7X2.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27489
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81K", 
+      "entity_type": "case", 
+      "case_id": "d932b05b-a832-491b-a376-7fa5f7354b74", 
+      "entity_id": "d932b05b-a832-491b-a376-7fa5f7354b74"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81K.xml", 
+  "md5sum": "b796632bd886e2dc12e651155029e511", 
+  "file_id": "9c4cc93f-24a2-4987-9c4c-a22ed02dddad", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81K.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21200
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70K", 
+      "entity_type": "case", 
+      "case_id": "d9a3a037-9a96-45a2-8801-f9f408d74523", 
+      "entity_id": "d9a3a037-9a96-45a2-8801-f9f408d74523"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70K.xml", 
+  "md5sum": "edf4d8bb1ed157847fa463264318846d", 
+  "file_id": "560c585d-e41d-45cf-846d-3d6e62773e47", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70K.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14860
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81P", 
+      "entity_type": "case", 
+      "case_id": "dea71f6d-cad5-4d4e-aa62-ac5f4c547135", 
+      "entity_id": "dea71f6d-cad5-4d4e-aa62-ac5f4c547135"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81P.xml", 
+  "md5sum": "a13807a118206bd3d0175ce03975f13b", 
+  "file_id": "4b66fcbd-dd05-410b-8473-6dd7521751b2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81P.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21099
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HC", 
+      "entity_type": "case", 
+      "case_id": "da094e20-df07-4efa-892c-33f4ac5c3056", 
+      "entity_id": "da094e20-df07-4efa-892c-33f4ac5c3056"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HC.xml", 
+  "md5sum": "ff3e891ef61449bbe4013cf7d4eb1209", 
+  "file_id": "6493bc06-3356-488b-9bbf-6a9e0f44d212", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HC.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27233
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70E", 
+      "entity_type": "case", 
+      "case_id": "e858545a-cdd4-4fca-b04d-485b274208bd", 
+      "entity_id": "e858545a-cdd4-4fca-b04d-485b274208bd"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70E.xml", 
+  "md5sum": "b7a660c324e59b4ed7d2840af72a9f80", 
+  "file_id": "82c23179-88aa-478e-9c44-af2b4e3abe1c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70E.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14862
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-S7-A7WW", 
+      "entity_type": "case", 
+      "case_id": "e9016544-de18-4df8-82ee-bc0a88f935c6", 
+      "entity_id": "e9016544-de18-4df8-82ee-bc0a88f935c6"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-S7-A7WW.xml", 
+  "md5sum": "ba40a86780e7ef278a400d218d64152c", 
+  "file_id": "544e820e-a3da-4de3-98ac-f28bfdb5f861", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-S7-A7WW.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27484
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A67V", 
+      "entity_type": "case", 
+      "case_id": "e90e83ef-6b0d-439b-a1c2-8d8dd3ebd090", 
+      "entity_id": "e90e83ef-6b0d-439b-a1c2-8d8dd3ebd090"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A67V.xml", 
+  "md5sum": "3050a559bd20ba3914c1a5846deded74", 
+  "file_id": "e6721c9a-539d-4342-8e7d-7db10d35312a", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A67V.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15162
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SQ-A6I6", 
+      "entity_type": "case", 
+      "case_id": "ea590361-7868-40d7-aa91-1dbd2ea6ad57", 
+      "entity_id": "ea590361-7868-40d7-aa91-1dbd2ea6ad57"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SQ-A6I6.xml", 
+  "md5sum": "65deb01ba1c1d22d6b922cf6657a1697", 
+  "file_id": "10e6ef74-e740-4a08-9ab1-a0fda32b8e50", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SQ-A6I6.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14736
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A81I", 
+      "entity_type": "case", 
+      "case_id": "eb7ef915-3b28-4ffb-b996-d7c89a6210ac", 
+      "entity_id": "eb7ef915-3b28-4ffb-b996-d7c89a6210ac"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A81I.xml", 
+  "md5sum": "8eefefde644b2e741ad496da4e29d1bf", 
+  "file_id": "aadbe5ac-dc84-4acd-8cc1-012467519139", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A81I.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21225
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A705", 
+      "entity_type": "case", 
+      "case_id": "ebef1483-e3fd-497c-b694-8c3a4e96102f", 
+      "entity_id": "ebef1483-e3fd-497c-b694-8c3a4e96102f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A705.xml", 
+  "md5sum": "61845b2196d0a3dabbd0fb01ad02deb7", 
+  "file_id": "86d9aad2-d3af-4dcc-8b9a-9ba6a595de3f", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A705.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 15065
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A700", 
+      "entity_type": "case", 
+      "case_id": "ec54924b-2463-4364-a8fc-6d5a7df0b444", 
+      "entity_id": "ec54924b-2463-4364-a8fc-6d5a7df0b444"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A700.xml", 
+  "md5sum": "df735fff71b67fbf9e860806efd8f83e", 
+  "file_id": "29b47410-e7e3-4c58-bd7e-5c6c0e6446e2", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A700.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 34213
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-TT-A6YK", 
+      "entity_type": "case", 
+      "case_id": "f06855ed-b99f-4431-9009-9de6d83b64e1", 
+      "entity_id": "f06855ed-b99f-4431-9009-9de6d83b64e1"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-TT-A6YK.xml", 
+  "md5sum": "cf7f93d6a1ce037170ac187f044fca99", 
+  "file_id": "19b62695-06ab-4227-b2f5-3bbeca6157a5", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-TT-A6YK.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 27610
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-QR-A70O", 
+      "entity_type": "case", 
+      "case_id": "f8d78495-c000-461f-a311-3467fb1178aa", 
+      "entity_id": "f8d78495-c000-461f-a311-3467fb1178aa"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-QR-A70O.xml", 
+  "md5sum": "6643e16c942b3691eb47527ad9517ea2", 
+  "file_id": "ff0cf312-082c-4dbb-a529-2c8efd57082e", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-QR-A70O.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 14857
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QD", 
+      "entity_type": "case", 
+      "case_id": "f1c22412-f25e-4859-8821-efc674a9c967", 
+      "entity_id": "f1c22412-f25e-4859-8821-efc674a9c967"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QD.xml", 
+  "md5sum": "e932bcbd10925a92058a94719d4da6f9", 
+  "file_id": "d53abe21-2125-42b5-a17d-7344143f75b5", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QD.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21262
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-WB-A819", 
+      "entity_type": "case", 
+      "case_id": "faf91ee3-3281-4f8e-8bdf-2fda22261010", 
+      "entity_id": "faf91ee3-3281-4f8e-8bdf-2fda22261010"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-WB-A819.xml", 
+  "md5sum": "e019ae8e0a1b54b705802b41304c2fba", 
+  "file_id": "da5e7ccb-1966-498c-80dd-0e150e388d55", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-WB-A819.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21148
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A689", 
+      "entity_type": "case", 
+      "case_id": "f49438a7-c5e5-47e7-bef4-5e6881a0732a", 
+      "entity_id": "f49438a7-c5e5-47e7-bef4-5e6881a0732a"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A689.xml", 
+  "md5sum": "b99f1a6e065d758b547bb5a35c4d4bb8", 
+  "file_id": "dd08b58d-490a-4ff7-acdd-84467b5fe62c", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A689.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21106
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-RW-A68A", 
+      "entity_type": "case", 
+      "case_id": "fc0e7281-6e0e-4057-b064-7d8b3060d134", 
+      "entity_id": "fc0e7281-6e0e-4057-b064-7d8b3060d134"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-RW-A68A.xml", 
+  "md5sum": "857d35902dc173a67ff86ddc257532e1", 
+  "file_id": "c6e795f8-6718-41d2-b184-fd01d72f5483", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-RW-A68A.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21107
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-SP-A6QJ", 
+      "entity_type": "case", 
+      "case_id": "fc5d4277-68a3-41c7-b0c6-d6922984ae9f", 
+      "entity_id": "fc5d4277-68a3-41c7-b0c6-d6922984ae9f"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-SP-A6QJ.xml", 
+  "md5sum": "5b6c1737dc285c23eb2a01bda3c31c48", 
+  "file_id": "ce26d50c-5e92-42ff-9793-568d8366dca1", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-SP-A6QJ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21291
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-W2-A7HA", 
+      "entity_type": "case", 
+      "case_id": "fdca4077-a00c-42fc-81cb-fac96834e753", 
+      "entity_id": "fdca4077-a00c-42fc-81cb-fac96834e753"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-W2-A7HA.xml", 
+  "md5sum": "8fdee1d788bc968719239b236b91a126", 
+  "file_id": "c3cd65f9-a444-4d10-860b-7ecb6e5788cf", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-W2-A7HA.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 21126
+},{
+  "data_format": "BCR XML", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-TT-A6YJ", 
+      "entity_type": "case", 
+      "case_id": "ffbef57b-3627-4d6d-8857-a90e83911480", 
+      "entity_id": "ffbef57b-3627-4d6d-8857-a90e83911480"
+    }
+  ], 
+  "file_name": "nationwidechildrens.org_clinical.TCGA-TT-A6YJ.xml", 
+  "md5sum": "42ec9dba90120b52305a859010620006", 
+  "file_id": "5e4c7a0f-a47f-4cf7-aabf-ed184a51d560", 
+  "data_type": "Clinical Supplement", 
+  "submitter_id": "nationwidechildrens.org_clinical.TCGA-TT-A6YJ.xml", 
+  "data_category": "Clinical", 
+  "state": "released", 
+  "file_size": 20955
+}]

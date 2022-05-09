@@ -1,0 +1,8 @@
+id	filename	md5	size	state
+0287f41f-1384-4ac8-a9f2-2e82ce2b11c7	nationwidechildrens.org_clinical_drug_kich.txt	1fb41e5e5593710d1af15986b3130073	6921	validated
+0a94945c-186f-4afe-963e-5bad0551fc14	nationwidechildrens.org_clinical_radiation_kich.txt	e90a5ef71c7a76098a9cf07f8e06b6a8	1358	validated
+0f3071e7-1df1-498e-ad94-5be71b529d84	nationwidechildrens.org_clinical_nte_kich.txt	a066dbbbde2b60baa85509ca53e0910c	1916	validated
+2d041399-6315-4b3f-a3f8-dd6088c452f1	nationwidechildrens.org_clinical_patient_kich.txt	ad07a5a7b569c541f656f42a8abafdd9	65033	validated
+83b282bb-a9f4-48ed-aa23-beff2c8d0290	nationwidechildrens.org_clinical_follow_up_v4.4_kich.txt	9973a24a7712882bf757e5db1e1eca4f	39031	validated
+b963fd6a-7422-4f63-bce9-e569e8e5de4c	nationwidechildrens.org_clinical_omf_v4.0_kich.txt	f4e3bc1e56ee27460cc3a90d3cb8efc3	9891	validated
+dd60685b-7b29-4ab8-9ffc-52627446e6e7	nationwidechildrens.org_clinical_follow_up_v4.4_nte_kich.txt	bbafdff5aea6d7785127999b6ab15fd6	3449	validated

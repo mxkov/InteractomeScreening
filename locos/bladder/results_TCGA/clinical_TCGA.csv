@@ -1,0 +1,404 @@
+case_submitter_id,project,histological_type,vital_status,days_to_death,days_to_last_follow_up,days_fwup,days_nte,days_os,days_pfs,event_os,event_pfs
+TCGA-2F-A9KO,TCGA-BLCA,Transitional cell carcinoma,Dead,734,678,678,651,734,651,1,1
+TCGA-2F-A9KP,TCGA-BLCA,Transitional cell carcinoma,Dead,364,NA,NA,343,364,343,1,1
+TCGA-2F-A9KQ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2886,2886,NA,2886,2886,0,0
+TCGA-2F-A9KR,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,3183,3148,3148,3086,3183,3086,1,1
+TCGA-2F-A9KT,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2352,2352,NA,2352,2352,0,0
+TCGA-2F-A9KW,TCGA-BLCA,Transitional cell carcinoma,Dead,254,147,147,85,254,85,1,1
+TCGA-4Z-AA7M,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,495,495,NA,495,495,0,0
+TCGA-4Z-AA7N,TCGA-BLCA,Transitional cell carcinoma,Dead,1367,655,655,NA,1367,1367,1,1
+TCGA-4Z-AA7O,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,512,512,NA,512,512,0,0
+TCGA-4Z-AA7Q,TCGA-BLCA,Transitional cell carcinoma,Dead,510,NA,NA,NA,510,510,1,1
+TCGA-4Z-AA7R,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,522,493,493,353,522,353,1,1
+TCGA-4Z-AA7S,TCGA-BLCA,Transitional cell carcinoma,Dead,1064,NA,NA,NA,1064,1064,1,1
+TCGA-4Z-AA7W,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,840,840,760,840,760,0,1
+TCGA-4Z-AA7Y,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,1522,1522,NA,1522,1522,0,0
+TCGA-4Z-AA80,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,19,NA,NA,NA,19,19,1,1
+TCGA-4Z-AA81,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,1270,710,710,NA,1270,1270,1,1
+TCGA-4Z-AA82,TCGA-BLCA,Transitional cell carcinoma,Dead,1556,1538,1538,1150,1556,1150,1,1
+TCGA-4Z-AA83,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,2024,2024,NA,2024,2024,0,0
+TCGA-4Z-AA84,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,460,460,NA,460,460,0,0
+TCGA-4Z-AA86,TCGA-BLCA,Transitional cell carcinoma,Dead,311,270,270,136,311,136,1,1
+TCGA-4Z-AA87,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1454,1454,221,1454,221,0,1
+TCGA-4Z-AA89,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,1029,1029,648,1029,648,0,1
+TCGA-5N-A9KI,TCGA-BLCA,Transitional cell carcinoma,Dead,76,NA,NA,NA,76,76,1,1
+TCGA-5N-A9KM,TCGA-BLCA,Transitional cell carcinoma,Dead,530,NA,NA,276,530,276,1,1
+TCGA-BL-A0C8,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1219,1219,630,1219,630,0,1
+TCGA-BL-A13I,TCGA-BLCA,Transitional cell carcinoma,Dead,223,NA,NA,216,223,216,1,1
+TCGA-BL-A13J,TCGA-BLCA,Transitional cell carcinoma,Dead,81,NA,NA,NA,81,81,1,1
+TCGA-BL-A3JM,TCGA-BLCA,Transitional cell carcinoma,Dead,205,NA,NA,111,205,111,1,1
+TCGA-BL-A5ZZ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,377,377,242,377,242,0,1
+TCGA-BT-A0S7,TCGA-BLCA,Transitional cell carcinoma,Dead,200,NA,NA,NA,200,200,1,1
+TCGA-BT-A0YX,TCGA-BLCA,Transitional cell carcinoma,Dead,400,363,363,326,400,326,1,1
+TCGA-BT-A20J,TCGA-BLCA,Transitional cell carcinoma,Dead,579,NA,NA,254,579,254,1,1
+TCGA-BT-A20N,TCGA-BLCA,Transitional cell carcinoma,Dead,795,NA,NA,NA,795,795,1,1
+TCGA-BT-A20O,TCGA-BLCA,Transitional cell carcinoma,Dead,370,NA,NA,315,370,315,1,1
+TCGA-BT-A20P,TCGA-BLCA,Transitional cell carcinoma,Dead,544,NA,NA,NA,544,544,1,1
+TCGA-BT-A20Q,TCGA-BLCA,Transitional cell carcinoma,Dead,593,NA,NA,NA,593,593,1,1
+TCGA-BT-A20R,TCGA-BLCA,Transitional cell carcinoma,Dead,154,NA,NA,NA,154,154,1,1
+TCGA-BT-A20T,TCGA-BLCA,Transitional cell carcinoma,Dead,453,NA,NA,314,453,314,1,1
+TCGA-BT-A20U,TCGA-BLCA,Transitional cell carcinoma,Dead,455,NA,NA,NA,455,455,1,1
+TCGA-BT-A20V,TCGA-BLCA,Transitional cell carcinoma,Dead,154,NA,NA,NA,154,154,1,1
+TCGA-BT-A20W,TCGA-BLCA,Transitional cell carcinoma,Dead,254,NA,NA,NA,254,254,1,1
+TCGA-BT-A20X,TCGA-BLCA,Transitional cell carcinoma,Dead,251,NA,NA,NA,251,251,1,1
+TCGA-BT-A2LA,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,522,522,NA,522,522,0,0
+TCGA-BT-A2LB,TCGA-BLCA,Transitional cell carcinoma,Dead,492,170,170,NA,492,492,1,1
+TCGA-BT-A2LD,TCGA-BLCA,Transitional cell carcinoma,Dead,623,111,111,555,623,555,1,1
+TCGA-BT-A3PH,TCGA-BLCA,Transitional cell carcinoma,Dead,142,NA,NA,NA,142,142,1,1
+TCGA-BT-A3PJ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,789,789,NA,789,789,0,0
+TCGA-BT-A3PK,TCGA-BLCA,Transitional cell carcinoma,Dead,303,63,63,NA,303,303,1,1
+TCGA-BT-A42C,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,873,873,NA,873,873,0,0
+TCGA-BT-A42E,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,1108,1108,NA,1108,1108,0,0
+TCGA-BT-A42F,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,864,864,NA,864,864,0,0
+TCGA-C4-A0EZ,TCGA-BLCA,Transitional cell carcinoma,Dead,273,NA,NA,NA,273,273,1,1
+TCGA-C4-A0F0,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,59,59,NA,59,59,0,0
+TCGA-C4-A0F1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,89,89,NA,89,89,0,0
+TCGA-C4-A0F6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,700,700,NA,700,700,0,0
+TCGA-C4-A0F7,TCGA-BLCA,Transitional cell carcinoma,Dead,62,NA,NA,NA,62,62,1,1
+TCGA-CF-A1HR,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,389,389,294,389,294,0,1
+TCGA-CF-A27C,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,425,425,NA,425,425,0,0
+TCGA-CF-A3MF,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,383,383,NA,383,383,0,0
+TCGA-CF-A3MG,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,369,369,NA,369,369,0,0
+TCGA-CF-A3MH,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,398,398,NA,398,398,0,0
+TCGA-CF-A3MI,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,370,370,NA,370,370,0,0
+TCGA-CF-A47S,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,333,333,NA,333,333,0,0
+TCGA-CF-A47T,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,385,205,205,139,385,139,1,1
+TCGA-CF-A47V,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,379,379,NA,379,379,0,0
+TCGA-CF-A47W,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,368,368,NA,368,368,0,0
+TCGA-CF-A47X,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,384,384,NA,384,384,0,0
+TCGA-CF-A47Y,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,373,373,NA,373,373,0,0
+TCGA-CF-A5U8,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,399,399,NA,399,399,0,0
+TCGA-CF-A5UA,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,365,365,NA,365,365,0,0
+TCGA-CF-A7I0,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,368,368,NA,368,368,0,0
+TCGA-CF-A8HX,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,345,345,NA,345,345,0,0
+TCGA-CF-A8HY,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,345,345,NA,345,345,0,0
+TCGA-CF-A9FF,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,361,361,NA,361,361,0,0
+TCGA-CF-A9FH,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,-64,-64,NA,-64,-64,0,0
+TCGA-CF-A9FL,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,565,84,84,322,565,322,1,1
+TCGA-CF-A9FM,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,398,398,NA,398,398,0,0
+TCGA-CU-A0YN,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,393,NA,NA,NA,393,393,1,1
+TCGA-CU-A0YO,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,149,NA,NA,118,149,118,1,1
+TCGA-CU-A0YR,TCGA-BLCA,Transitional cell carcinoma,Dead,460,219,219,219,460,219,1,1
+TCGA-CU-A3KJ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,562,562,166,562,166,0,1
+TCGA-CU-A3QU,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,158,158,NA,158,158,0,0
+TCGA-CU-A3YL,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,906,906,370,906,370,0,1
+TCGA-CU-A5W6,TCGA-BLCA,Transitional cell carcinoma,Dead,56,NA,NA,NA,56,56,1,1
+TCGA-CU-A72E,TCGA-BLCA,Transitional cell carcinoma,Dead,413,284,284,256,413,256,1,1
+TCGA-DK-A1A3,TCGA-BLCA,Transitional cell carcinoma,Dead,665,77,77,NA,665,665,1,1
+TCGA-DK-A1A5,TCGA-BLCA,Transitional cell carcinoma,Dead,65,NA,NA,NA,65,65,1,1
+TCGA-DK-A1A6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2020,2020,NA,2020,2020,0,0
+TCGA-DK-A1A7,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,560,560,112,560,112,0,1
+TCGA-DK-A1AA,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,578,578,NA,578,578,0,0
+TCGA-DK-A1AB,TCGA-BLCA,Transitional cell carcinoma,Dead,508,271,271,364,508,364,1,1
+TCGA-DK-A1AC,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,3981,3981,NA,3981,3981,0,0
+TCGA-DK-A1AD,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,3420,3420,NA,3420,3420,0,0
+TCGA-DK-A1AE,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,491,491,211,491,211,0,1
+TCGA-DK-A1AF,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,536,536,283,536,283,0,1
+TCGA-DK-A1AG,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,475,475,NA,475,475,0,0
+TCGA-DK-A2HX,TCGA-BLCA,Transitional cell carcinoma,Dead,1420,55,55,NA,1420,1420,1,1
+TCGA-DK-A2I1,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,546,546,NA,546,546,0,0
+TCGA-DK-A2I2,TCGA-BLCA,Transitional cell carcinoma,Dead,237,NA,NA,163,237,163,1,1
+TCGA-DK-A2I4,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,3835,3835,NA,3835,3835,0,0
+TCGA-DK-A2I6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2656,2656,NA,2656,2656,0,0
+TCGA-DK-A3IK,TCGA-BLCA,Transitional cell carcinoma,Dead,146,67,67,NA,146,146,1,1
+TCGA-DK-A3IL,TCGA-BLCA,Transitional cell carcinoma,Dead,413,121,121,NA,413,413,1,1
+TCGA-DK-A3IM,TCGA-BLCA,Transitional cell carcinoma,Dead,248,238,238,201,248,201,1,1
+TCGA-DK-A3IN,TCGA-BLCA,Transitional cell carcinoma,Dead,250,NA,NA,NA,250,250,1,1
+TCGA-DK-A3IQ,TCGA-BLCA,Transitional cell carcinoma,Dead,539,319,319,250,539,250,1,1
+TCGA-DK-A3IS,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1529,1529,NA,1529,1529,0,0
+TCGA-DK-A3IT,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,648,648,NA,648,648,0,0
+TCGA-DK-A3IU,TCGA-BLCA,Transitional cell carcinoma,Dead,706,609,609,462,706,462,1,1
+TCGA-DK-A3IV,TCGA-BLCA,Transitional cell carcinoma,Dead,294,NA,NA,212,294,212,1,1
+TCGA-DK-A3WW,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,633,633,NA,633,633,0,0
+TCGA-DK-A3WX,TCGA-BLCA,Transitional cell carcinoma,Dead,321,NA,NA,167,321,167,1,1
+TCGA-DK-A3WY,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,4967,4967,NA,4967,4967,0,0
+TCGA-DK-A3X1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2009,2009,NA,2009,2009,0,0
+TCGA-DK-A3X2,TCGA-BLCA,Transitional cell carcinoma,Dead,547,NA,NA,533,547,533,1,1
+TCGA-DK-A6AV,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1952,1952,NA,1952,1952,0,0
+TCGA-DK-A6B0,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2330,2330,NA,2330,2330,0,0
+TCGA-DK-A6B1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2049,2049,NA,2049,2049,0,0
+TCGA-DK-A6B2,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,477,477,268,477,268,0,1
+TCGA-DK-A6B5,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1542,1542,NA,1542,1542,0,0
+TCGA-DK-A6B6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1115,1115,NA,1115,1115,0,0
+TCGA-DK-AA6L,TCGA-BLCA,Transitional cell carcinoma,Dead,1163,NA,NA,920,1163,920,1,1
+TCGA-DK-AA6M,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1582,1582,NA,1582,1582,0,0
+TCGA-DK-AA6P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,457,457,16,457,16,0,1
+TCGA-DK-AA6Q,TCGA-BLCA,Transitional cell carcinoma,Dead,413,NA,NA,285,413,285,1,1
+TCGA-DK-AA6R,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,5041,5041,4907,5041,4907,0,1
+TCGA-DK-AA6S,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,5050,5050,539,5050,539,0,1
+TCGA-DK-AA6T,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,572,572,NA,572,572,0,0
+TCGA-DK-AA6U,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,578,578,NA,578,578,0,0
+TCGA-DK-AA6W,TCGA-BLCA,Transitional cell carcinoma,Dead,415,263,263,379,415,379,1,1
+TCGA-DK-AA6X,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,467,467,NA,467,467,0,0
+TCGA-DK-AA71,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,415,415,NA,415,415,0,0
+TCGA-DK-AA74,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1708,1708,NA,1708,1708,0,0
+TCGA-DK-AA75,TCGA-BLCA,Transitional cell carcinoma,Dead,340,NA,NA,328,340,328,1,1
+TCGA-DK-AA76,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,366,366,NA,366,366,0,0
+TCGA-DK-AA77,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,618,618,467,618,467,0,1
+TCGA-E5-A2PC,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1326,1326,NA,1326,1326,0,0
+TCGA-E5-A4TZ,TCGA-BLCA,Transitional cell carcinoma,Dead,467,NA,NA,435,467,435,1,1
+TCGA-E5-A4U1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1181,1181,705,1181,705,0,1
+TCGA-E7-A3X6,TCGA-BLCA,Transitional cell carcinoma,Dead,904,750,750,369,904,369,1,1
+TCGA-E7-A3Y1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,163,163,NA,163,163,0,0
+TCGA-E7-A4IJ,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,674,408,408,620,674,620,1,1
+TCGA-E7-A4XJ,TCGA-BLCA,Transitional cell carcinoma,Dead,68,16,16,NA,68,68,1,1
+TCGA-E7-A519,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,508,508,NA,508,508,0,0
+TCGA-E7-A541,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,778,529,529,NA,778,778,1,1
+TCGA-E7-A5KE,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,17,17,NA,17,17,0,0
+TCGA-E7-A5KF,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,20,20,NA,20,20,0,0
+TCGA-E7-A677,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,820,820,NA,820,820,0,0
+TCGA-E7-A678,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,798,798,NA,798,798,0,0
+TCGA-E7-A6MD,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,129,129,NA,129,129,0,0
+TCGA-E7-A6ME,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,731,731,NA,731,731,0,0
+TCGA-E7-A6MF,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,750,750,NA,750,750,0,0
+TCGA-E7-A7DU,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,28,28,NA,28,28,0,0
+TCGA-E7-A7DV,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,37,37,NA,37,37,0,0
+TCGA-E7-A7PW,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,416,416,174,416,174,0,1
+TCGA-E7-A7XN,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,428,428,190,428,190,0,1
+TCGA-E7-A85H,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,394,394,NA,394,394,0,0
+TCGA-E7-A8O7,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,466,466,NA,466,466,0,0
+TCGA-E7-A8O8,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,13,13,NA,13,13,0,0
+TCGA-E7-A97P,TCGA-BLCA,Transitional cell carcinoma,Dead,437,13,13,NA,437,437,1,1
+TCGA-FD-A3B3,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,974,392,392,NA,974,974,1,1
+TCGA-FD-A3B4,TCGA-BLCA,Transitional cell carcinoma,Dead,510,477,477,359,510,359,1,1
+TCGA-FD-A3B5,TCGA-BLCA,Transitional cell carcinoma,Dead,272,NA,NA,NA,272,272,1,1
+TCGA-FD-A3B6,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,1005,209,209,NA,1005,1005,1,1
+TCGA-FD-A3B7,TCGA-BLCA,Transitional cell carcinoma,Dead,122,NA,NA,110,122,110,1,1
+TCGA-FD-A3B8,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,384,384,NA,384,384,0,0
+TCGA-FD-A3N5,TCGA-BLCA,Transitional cell carcinoma,Dead,685,363,363,346,685,346,1,1
+TCGA-FD-A3N6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,851,851,NA,851,851,0,0
+TCGA-FD-A3NA,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1845,1845,1338,1845,1338,0,1
+TCGA-FD-A3SJ,TCGA-BLCA,Transitional cell carcinoma,Dead,739,NA,NA,281,739,281,1,1
+TCGA-FD-A3SL,TCGA-BLCA,Transitional cell carcinoma,Dead,712,683,683,260,712,260,1,1
+TCGA-FD-A3SM,TCGA-BLCA,Transitional cell carcinoma,Dead,547,186,186,144,547,144,1,1
+TCGA-FD-A3SN,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,887,887,110,887,110,0,1
+TCGA-FD-A3SO,TCGA-BLCA,Transitional cell carcinoma,Dead,168,NA,NA,143,168,143,1,1
+TCGA-FD-A3SP,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,783,783,NA,783,783,0,0
+TCGA-FD-A3SQ,TCGA-BLCA,Transitional cell carcinoma,Dead,1423,NA,NA,991,1423,991,1,1
+TCGA-FD-A3SR,TCGA-BLCA,Transitional cell carcinoma,Dead,602,NA,NA,372,602,372,1,1
+TCGA-FD-A3SS,TCGA-BLCA,Transitional cell carcinoma,Dead,391,60,60,220,391,220,1,1
+TCGA-FD-A43N,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,699,699,NA,699,699,0,0
+TCGA-FD-A43P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,832,832,NA,832,832,0,0
+TCGA-FD-A43S,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,455,455,NA,455,455,0,0
+TCGA-FD-A43U,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,636,636,497,636,497,0,1
+TCGA-FD-A43X,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,110,110,NA,110,110,0,0
+TCGA-FD-A43Y,TCGA-BLCA,Transitional cell carcinoma,Dead,474,369,369,NA,474,474,1,1
+TCGA-FD-A5BR,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,813,813,NA,813,813,0,0
+TCGA-FD-A5BS,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1639,1639,NA,1639,1639,0,0
+TCGA-FD-A5BT,TCGA-BLCA,Transitional cell carcinoma,Dead,328,NA,NA,NA,328,328,1,1
+TCGA-FD-A5BU,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,588,588,NA,588,588,0,0
+TCGA-FD-A5BV,TCGA-BLCA,Transitional cell carcinoma,Dead,163,NA,NA,134,163,134,1,1
+TCGA-FD-A5BX,TCGA-BLCA,Transitional cell carcinoma,Dead,173,NA,NA,99,173,99,1,1
+TCGA-FD-A5BY,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,251,251,NA,251,251,0,0
+TCGA-FD-A5BZ,TCGA-BLCA,Transitional cell carcinoma,Dead,835,NA,NA,533,835,533,1,1
+TCGA-FD-A5C0,TCGA-BLCA,Transitional cell carcinoma,Dead,550,407,407,27,550,27,1,1
+TCGA-FD-A5C1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1792,1792,NA,1792,1792,0,0
+TCGA-FD-A62N,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,82,82,NA,82,82,0,0
+TCGA-FD-A62O,TCGA-BLCA,Transitional cell carcinoma,Dead,216,147,147,NA,216,216,1,1
+TCGA-FD-A62P,TCGA-BLCA,Transitional cell carcinoma,Dead,191,NA,NA,NA,191,191,1,1
+TCGA-FD-A62S,TCGA-BLCA,Transitional cell carcinoma,Dead,406,368,368,306,406,306,1,1
+TCGA-FD-A6TA,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,1912,1912,NA,1912,1912,0,0
+TCGA-FD-A6TB,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,572,572,NA,572,572,0,0
+TCGA-FD-A6TC,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,187,187,NA,187,187,0,0
+TCGA-FD-A6TD,TCGA-BLCA,Transitional cell carcinoma,Dead,386,204,204,NA,386,386,1,1
+TCGA-FD-A6TE,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,376,376,321,376,321,0,1
+TCGA-FD-A6TF,TCGA-BLCA,Transitional cell carcinoma,Dead,69,63,63,NA,69,69,1,1
+TCGA-FD-A6TG,TCGA-BLCA,Transitional cell carcinoma,Dead,93,81,81,NA,93,93,1,1
+TCGA-FD-A6TH,TCGA-BLCA,Transitional cell carcinoma,Dead,131,67,67,126,131,126,1,1
+TCGA-FD-A6TI,TCGA-BLCA,Transitional cell carcinoma,Dead,294,122,122,NA,294,294,1,1
+TCGA-FD-A6TK,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,330,330,NA,330,330,0,0
+TCGA-FJ-A3Z7,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,945,945,NA,945,945,0,0
+TCGA-FJ-A3Z9,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,385,217,217,NA,385,385,1,1
+TCGA-FJ-A3ZE,TCGA-BLCA,Transitional cell carcinoma,Dead,324,106,106,152,324,152,1,1
+TCGA-FJ-A3ZF,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,524,524,NA,524,524,0,0
+TCGA-FJ-A871,TCGA-BLCA,Transitional cell carcinoma,Dead,272,NA,NA,106,272,106,1,1
+TCGA-FT-A3EE,TCGA-BLCA,Transitional cell carcinoma,Dead,99,NA,NA,NA,99,99,1,1
+TCGA-FT-A61P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,337,337,NA,337,337,0,0
+TCGA-G2-A2EC,TCGA-BLCA,Transitional cell carcinoma,Dead,696,679,679,679,696,679,1,1
+TCGA-G2-A2EF,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1884,1884,NA,1884,1884,0,0
+TCGA-G2-A2EJ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1460,1460,910,1460,910,0,1
+TCGA-G2-A2EK,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,485,485,485,485,485,0,1
+TCGA-G2-A2EL,TCGA-BLCA,Transitional cell carcinoma,Dead,819,NA,NA,105,819,105,1,1
+TCGA-G2-A2EO,TCGA-BLCA,Transitional cell carcinoma,Dead,1804,1072,1072,NA,1804,1804,1,1
+TCGA-G2-A2ES,TCGA-BLCA,Transitional cell carcinoma,Dead,1004,525,525,897,1004,897,1,1
+TCGA-G2-A3IB,TCGA-BLCA,Transitional cell carcinoma,Dead,220,214,214,NA,220,220,1,1
+TCGA-G2-A3IE,TCGA-BLCA,Transitional cell carcinoma,Dead,612,NA,NA,NA,612,612,1,1
+TCGA-G2-A3VY,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,536,536,NA,536,536,0,0
+TCGA-G2-AA3B,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2008,2008,NA,2008,2008,0,0
+TCGA-G2-AA3C,TCGA-BLCA,Transitional cell carcinoma,Dead,211,NA,NA,NA,211,211,1,1
+TCGA-G2-AA3D,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2139,2139,NA,2139,2139,0,0
+TCGA-G2-AA3F,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,893,893,NA,893,893,0,0
+TCGA-GC-A3BM,TCGA-BLCA,Transitional cell carcinoma,Dead,651,88,88,NA,651,651,1,1
+TCGA-GC-A3I6,TCGA-BLCA,Transitional cell carcinoma,Dead,630,68,68,546,630,546,1,1
+TCGA-GC-A3OO,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,481,481,NA,481,481,0,0
+TCGA-GC-A3RB,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,582,582,NA,582,582,0,0
+TCGA-GC-A3RC,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,484,484,NA,484,484,0,0
+TCGA-GC-A3RD,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,428,428,NA,428,428,0,0
+TCGA-GC-A3WC,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,540,540,NA,540,540,0,0
+TCGA-GC-A3YS,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,758,758,NA,758,758,0,0
+TCGA-GC-A4ZW,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,15,15,NA,15,15,0,0
+TCGA-GC-A6I1,TCGA-BLCA,Transitional cell carcinoma,Dead,0,0,0,NA,0,0,1,1
+TCGA-GC-A6I3,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,0,0,NA,0,0,0,0
+TCGA-GD-A2C5,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,812,812,214,812,214,0,1
+TCGA-GD-A3OP,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,64,64,NA,64,64,0,0
+TCGA-GD-A3OQ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,95,95,NA,95,95,0,0
+TCGA-GD-A3OS,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,638,638,223,638,223,0,1
+TCGA-GD-A6C6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,67,67,NA,67,67,0,0
+TCGA-GD-A76B,TCGA-BLCA,Transitional cell carcinoma,Dead,NA,224,224,NA,224,NA,1,1
+TCGA-GU-A42P,TCGA-BLCA,Transitional cell carcinoma,Dead,332,195,195,NA,332,332,1,1
+TCGA-GU-A42Q,TCGA-BLCA,Transitional cell carcinoma,Dead,344,231,231,NA,344,344,1,1
+TCGA-GU-A42R,TCGA-BLCA,Transitional cell carcinoma,Dead,577,344,344,91,577,91,1,1
+TCGA-GU-A762,TCGA-BLCA,Transitional cell carcinoma,Dead,232,62,62,NA,232,232,1,1
+TCGA-GU-A763,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,997,997,303,997,303,0,1
+TCGA-GU-A764,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,610,610,NA,610,610,0,0
+TCGA-GU-A766,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,480,480,NA,480,480,0,0
+TCGA-GU-A767,TCGA-BLCA,Transitional cell carcinoma,Dead,144,NA,NA,NA,144,144,1,1
+TCGA-GU-AATO,TCGA-BLCA,Transitional cell carcinoma,Dead,324,NA,NA,NA,324,324,1,1
+TCGA-GU-AATP,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1003,1003,596,1003,596,0,1
+TCGA-GU-AATQ,TCGA-BLCA,Transitional cell carcinoma,Dead,213,NA,NA,NA,213,213,1,1
+TCGA-GV-A3JV,TCGA-BLCA,Transitional cell carcinoma,Dead,434,134,134,134,434,134,1,1
+TCGA-GV-A3JW,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,649,649,271,649,271,0,1
+TCGA-GV-A3JX,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,581,581,NA,581,581,0,0
+TCGA-GV-A3JZ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,603,603,NA,603,603,0,0
+TCGA-GV-A3QF,TCGA-BLCA,Transitional cell carcinoma,Dead,617,232,232,NA,617,617,1,1
+TCGA-GV-A3QG,TCGA-BLCA,Transitional cell carcinoma,Dead,NA,NA,NA,84,NA,84,1,1
+TCGA-GV-A3QH,TCGA-BLCA,Transitional cell carcinoma,Dead,258,237,237,125,258,125,1,1
+TCGA-GV-A3QI,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1110,1110,768,1110,768,0,1
+TCGA-GV-A3QK,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,832,832,NA,832,832,0,0
+TCGA-GV-A40E,TCGA-BLCA,Transitional cell carcinoma,Dead,261,195,195,219,261,219,1,1
+TCGA-GV-A40G,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,580,580,NA,580,580,0,0
+TCGA-GV-A6ZA,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,691,691,NA,691,691,0,0
+TCGA-H4-A2HO,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,46,46,NA,46,46,0,0
+TCGA-H4-A2HQ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,590,590,318,590,318,0,1
+TCGA-HQ-A2OE,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1174,1174,NA,1174,1174,0,0
+TCGA-HQ-A5ND,TCGA-BLCA,Transitional cell carcinoma,Dead,274,NA,NA,84,274,84,1,1
+TCGA-HQ-A5NE,TCGA-BLCA,Transitional cell carcinoma,Dead,370,250,250,211,370,211,1,1
+TCGA-K4-A3WS,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,761,761,NA,761,761,0,0
+TCGA-K4-A3WU,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,105,105,NA,105,105,0,0
+TCGA-K4-A3WV,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,646,646,NA,646,646,0,0
+TCGA-K4-A4AB,TCGA-BLCA,Transitional cell carcinoma,Not Reported,NA,84,84,NA,84,NA,0,0
+TCGA-K4-A4AC,TCGA-BLCA,Transitional cell carcinoma,Dead,278,197,197,170,278,170,1,1
+TCGA-K4-A54R,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,842,842,NA,842,842,0,0
+TCGA-K4-A5RH,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,276,276,196,276,196,0,1
+TCGA-K4-A5RI,TCGA-BLCA,Transitional cell carcinoma,Dead,356,239,239,236,356,236,1,1
+TCGA-K4-A5RJ,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,539,539,NA,539,539,0,0
+TCGA-K4-A6FZ,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,55,55,NA,55,55,0,0
+TCGA-K4-A6MB,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,469,469,NA,469,469,0,0
+TCGA-K4-A83P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,495,495,70,495,70,0,1
+TCGA-K4-AAQO,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,359,359,NA,359,359,0,0
+TCGA-KQ-A41N,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1604,1604,NA,1604,1604,0,0
+TCGA-KQ-A41O,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1538,1538,NA,1538,1538,0,0
+TCGA-KQ-A41P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1094,1094,178,1094,178,0,1
+TCGA-KQ-A41Q,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,361,361,361,361,361,0,1
+TCGA-KQ-A41R,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1350,1350,NA,1350,1350,0,0
+TCGA-KQ-A41S,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,35,35,NA,35,35,0,0
+TCGA-LC-A66R,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,466,466,NA,466,466,0,0
+TCGA-LT-A5Z6,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,474,474,NA,474,474,0,0
+TCGA-LT-A8JT,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,641,641,NA,641,641,0,0
+TCGA-MV-A51V,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,410,410,NA,410,410,0,0
+TCGA-PQ-A6FI,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,372,372,NA,372,372,0,0
+TCGA-PQ-A6FN,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,507,507,NA,507,507,0,0
+TCGA-R3-A69X,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,433,433,NA,433,433,0,0
+TCGA-S5-A6DX,TCGA-BLCA,Transitional cell carcinoma,Dead,56,NA,NA,NA,56,56,1,1
+TCGA-S5-AA26,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,503,503,NA,503,503,0,0
+TCGA-SY-A9G0,TCGA-BLCA,Transitional cell carcinoma,Dead,1008,378,378,NA,1008,1008,1,1
+TCGA-SY-A9G5,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1186,1186,NA,1186,1186,0,0
+TCGA-UY-A78K,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,536,NA,NA,NA,536,536,1,1
+TCGA-UY-A78L,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,1127,1127,355,1127,355,0,1
+TCGA-UY-A78M,TCGA-BLCA,Transitional cell carcinoma,Dead,690,NA,NA,NA,690,690,1,1
+TCGA-UY-A78N,TCGA-BLCA,Transitional cell carcinoma,Dead,2641,NA,NA,2472,2641,2472,1,1
+TCGA-UY-A78O,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2312,2312,NA,2312,2312,0,0
+TCGA-UY-A78P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2380,2380,NA,2380,2380,0,0
+TCGA-UY-A8OB,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2109,2109,NA,2109,2109,0,0
+TCGA-UY-A8OC,TCGA-BLCA,Transitional cell carcinoma,Dead,0,NA,NA,0,0,0,1,1
+TCGA-UY-A8OD,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,3432,3432,NA,3432,3432,0,0
+TCGA-UY-A9PA,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1072,1072,NA,1072,1072,0,0
+TCGA-UY-A9PB,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,899,899,NA,899,899,0,0
+TCGA-UY-A9PD,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,542,542,NA,542,542,0,0
+TCGA-UY-A9PE,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,189,189,473,189,473,0,1
+TCGA-UY-A9PF,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,117,117,NA,117,117,0,0
+TCGA-UY-A9PH,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1561,1561,NA,1561,1561,0,0
+TCGA-XF-A8HB,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,1370,1370,NA,1370,1370,0,0
+TCGA-XF-A8HC,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,200,NA,NA,NA,200,200,1,1
+TCGA-XF-A8HD,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2964,2964,NA,2964,2964,0,0
+TCGA-XF-A8HE,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,3817,3817,NA,3817,3817,0,0
+TCGA-XF-A8HF,TCGA-BLCA,Transitional cell carcinoma,Dead,2954,1709,1709,NA,2954,2954,1,1
+TCGA-XF-A8HG,TCGA-BLCA,Transitional cell carcinoma,Dead,467,NA,NA,398,467,398,1,1
+TCGA-XF-A8HH,TCGA-BLCA,Transitional cell carcinoma,Dead,57,NA,NA,NA,57,57,1,1
+TCGA-XF-A8HI,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,544,NA,NA,468,544,468,1,1
+TCGA-XF-A9SH,TCGA-BLCA,Transitional cell carcinoma,Dead,1971,NA,NA,547,1971,547,1,1
+TCGA-XF-A9SI,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,2423,2423,NA,2423,2423,0,0
+TCGA-XF-A9SJ,TCGA-BLCA,Transitional cell carcinoma,Dead,98,NA,NA,NA,98,98,1,1
+TCGA-XF-A9SK,TCGA-BLCA,Transitional cell carcinoma,Dead,486,NA,NA,382,486,382,1,1
+TCGA-XF-A9SL,TCGA-BLCA,Transitional cell carcinoma,Dead,2020,NA,NA,NA,2020,2020,1,1
+TCGA-XF-A9SM,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1048,1048,NA,1048,1048,0,0
+TCGA-XF-A9SP,TCGA-BLCA,Transitional cell carcinoma,Dead,454,NA,NA,310,454,310,1,1
+TCGA-XF-A9ST,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,128,NA,NA,NA,128,128,1,1
+TCGA-XF-A9SU,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,182,NA,NA,103,182,103,1,1
+TCGA-XF-A9SV,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,388,NA,NA,237,388,237,1,1
+TCGA-XF-A9SW,TCGA-BLCA,Transitional cell carcinoma,Dead,362,NA,NA,NA,362,362,1,1
+TCGA-XF-A9SX,TCGA-BLCA,Transitional cell carcinoma,Dead,719,NA,NA,475,719,475,1,1
+TCGA-XF-A9SY,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,640,640,168,640,168,0,1
+TCGA-XF-A9SZ,TCGA-BLCA,Transitional cell carcinoma,Dead,859,NA,NA,854,859,854,1,1
+TCGA-XF-A9T0,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,799,799,NA,799,799,0,0
+TCGA-XF-A9T2,TCGA-BLCA,Transitional cell carcinoma,Dead,575,NA,NA,NA,575,575,1,1
+TCGA-XF-A9T3,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,68,68,NA,68,68,0,0
+TCGA-XF-A9T4,TCGA-BLCA,Transitional cell carcinoma,Dead,495,NA,NA,182,495,182,1,1
+TCGA-XF-A9T5,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2027,2027,664,2027,664,0,1
+TCGA-XF-A9T6,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,64,64,NA,64,64,0,0
+TCGA-XF-A9T8,TCGA-BLCA,Transitional cell carcinoma,Dead,418,NA,NA,NA,418,418,1,1
+TCGA-XF-AAME,TCGA-BLCA,Transitional cell carcinoma,Dead,2828,NA,NA,1651,2828,1651,1,1
+TCGA-XF-AAMG,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,3364,3364,NA,3364,3364,0,0
+TCGA-XF-AAMH,TCGA-BLCA,Transitional cell carcinoma,Dead,344,NA,NA,313,344,313,1,1
+TCGA-XF-AAMJ,TCGA-BLCA,Transitional cell carcinoma,Dead,1670,NA,NA,NA,1670,1670,1,1
+TCGA-XF-AAML,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,232,NA,NA,NA,232,232,1,1
+TCGA-XF-AAMQ,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,2177,2177,NA,2177,2177,0,0
+TCGA-XF-AAMR,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2790,2790,NA,2790,2790,0,0
+TCGA-XF-AAMT,TCGA-BLCA,Transitional cell carcinoma,Dead,90,NA,NA,NA,90,90,1,1
+TCGA-XF-AAMW,TCGA-BLCA,Transitional cell carcinoma,Dead,253,NA,NA,NA,253,253,1,1
+TCGA-XF-AAMX,TCGA-BLCA,Transitional cell carcinoma,Dead,206,NA,NA,NA,206,206,1,1
+TCGA-XF-AAMY,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,3011,3011,637,3011,637,0,1
+TCGA-XF-AAMZ,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,1348,NA,NA,1344,1348,1344,1,1
+TCGA-XF-AAN0,TCGA-BLCA,Transitional cell carcinoma,Dead,1718,NA,NA,603,1718,603,1,1
+TCGA-XF-AAN1,TCGA-BLCA,Papillary transitional cell carcinoma,Dead,941,NA,NA,650,941,650,1,1
+TCGA-XF-AAN2,TCGA-BLCA,Transitional cell carcinoma,Dead,1869,NA,NA,NA,1869,1869,1,1
+TCGA-XF-AAN3,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2625,2625,NA,2625,2625,0,0
+TCGA-XF-AAN4,TCGA-BLCA,Transitional cell carcinoma,Dead,823,NA,NA,NA,823,823,1,1
+TCGA-XF-AAN5,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2293,2293,NA,2293,2293,0,0
+TCGA-XF-AAN7,TCGA-BLCA,Transitional cell carcinoma,Dead,565,NA,NA,321,565,321,1,1
+TCGA-XF-AAN8,TCGA-BLCA,Transitional cell carcinoma,Dead,118,NA,NA,NA,118,118,1,1
+TCGA-YC-A89H,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,573,573,NA,573,573,0,0
+TCGA-YC-A8S6,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,293,293,NA,293,293,0,0
+TCGA-YC-A9TC,TCGA-BLCA,Transitional cell carcinoma,Dead,20,NA,NA,NA,20,20,1,1
+TCGA-YF-AA3L,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,364,364,NA,364,364,0,0
+TCGA-YF-AA3M,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,415,415,381,415,381,0,1
+TCGA-ZF-A9R0,TCGA-BLCA,Transitional cell carcinoma,Dead,680,567,567,559,680,559,1,1
+TCGA-ZF-A9R1,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,773,773,758,773,758,0,1
+TCGA-ZF-A9R2,TCGA-BLCA,Papillary transitional cell carcinoma,Alive,NA,642,642,NA,642,642,0,0
+TCGA-ZF-A9R3,TCGA-BLCA,Transitional cell carcinoma,Dead,949,734,734,917,949,917,1,1
+TCGA-ZF-A9R4,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,921,921,NA,921,921,0,0
+TCGA-ZF-A9R5,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1090,1090,NA,1090,1090,0,0
+TCGA-ZF-A9R7,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,665,665,NA,665,665,0,0
+TCGA-ZF-A9R9,TCGA-BLCA,Transitional cell carcinoma,Dead,864,NA,NA,629,864,629,1,1
+TCGA-ZF-A9RC,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2868,2868,NA,2868,2868,0,0
+TCGA-ZF-A9RD,TCGA-BLCA,Transitional cell carcinoma,Dead,408,NA,NA,NA,408,408,1,1
+TCGA-ZF-A9RE,TCGA-BLCA,Transitional cell carcinoma,Dead,106,NA,NA,NA,106,106,1,1
+TCGA-ZF-A9RF,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1949,1949,1565,1949,1565,0,1
+TCGA-ZF-A9RL,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2703,2703,1064,2703,1064,0,1
+TCGA-ZF-A9RM,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1455,1455,NA,1455,1455,0,0
+TCGA-ZF-A9RN,TCGA-BLCA,Transitional cell carcinoma,Dead,615,NA,NA,516,615,516,1,1
+TCGA-ZF-AA4R,TCGA-BLCA,Transitional cell carcinoma,Dead,1036,NA,NA,750,1036,750,1,1
+TCGA-ZF-AA4T,TCGA-BLCA,Transitional cell carcinoma,Dead,599,NA,NA,511,599,511,1,1
+TCGA-ZF-AA4U,TCGA-BLCA,Transitional cell carcinoma,Dead,262,NA,NA,199,262,199,1,1
+TCGA-ZF-AA4V,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1806,1806,NA,1806,1806,0,0
+TCGA-ZF-AA4W,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1830,1830,1679,1830,1679,0,1
+TCGA-ZF-AA4X,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,2044,2044,1665,2044,1665,0,1
+TCGA-ZF-AA51,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1714,1714,NA,1714,1714,0,0
+TCGA-ZF-AA52,TCGA-BLCA,Transitional cell carcinoma,Dead,1077,NA,NA,NA,1077,1077,1,1
+TCGA-ZF-AA53,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1761,1761,NA,1761,1761,0,0
+TCGA-ZF-AA54,TCGA-BLCA,Transitional cell carcinoma,Dead,590,NA,NA,NA,590,590,1,1
+TCGA-ZF-AA56,TCGA-BLCA,Transitional cell carcinoma,Dead,259,NA,NA,248,259,248,1,1
+TCGA-ZF-AA58,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,1649,1649,NA,1649,1649,0,0
+TCGA-ZF-AA5H,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,897,897,177,897,177,0,1
+TCGA-ZF-AA5N,TCGA-BLCA,Transitional cell carcinoma,Dead,168,NA,NA,NA,168,168,1,1
+TCGA-ZF-AA5P,TCGA-BLCA,Transitional cell carcinoma,Alive,NA,372,372,NA,372,372,0,0

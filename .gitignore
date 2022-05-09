@@ -1,0 +1,57 @@
+# Simple files in the root dir
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+CURRENT.txt
+whatnow.txt
+README.html
+
+# Unshareable dirs
+01_SPRY1/
+gliomasessions/
+seminar/
+sources/
+tools/
+
+# Big data files
+data/**
+!data/TCGA-*/
+!data/TCGA-*/*/
+!data/TCGA-*/Biospecimen/*.tar.gz
+!data/TCGA-*/Clinical/*.tar.gz
+!data/TCGA-*/**/gdc_manifest*
+!data/TCGA-*/**/metadata*
+data/TCGA-TGCT/
+pathways/**
+!pathways/arr_hgnc.zip
+!pathways/databases/databases.zip
+
+# Big and irrelevant i/o files
+locos/**
+!locos/summary.csv
+!locos/*/
+!locos/*/results_TCGA/
+!locos/*/results_TCGA/clinical_TCGA.csv
+!locos/*/results_TCGA/gene_id_mapping*
+!locos/*/results_TCGA/results_surv*
+!locos/*/results_TCGA/tradpws/results_surv*
+!locos/*/scripts/
+!locos/*/scripts/get-args.R
+!locos/*/scripts/manual.R
+locos/gliomas/
+locos/testis/
+
+# Trashed and irrelevant code bits
+scripts_common/**/trash/
+scripts_common/**/pre2903/
+scripts_common/runs/current*
+scripts_common/GO/
+
+# Report files
+report/**
+!report/HRboxes/
+!report/HRboxes/**
+!report/*.png
+
+
