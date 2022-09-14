@@ -8,6 +8,8 @@ library('data.table')
 HRwilcox <- function(round.to = 4,
                      keep.loci = c('protein-coding gene', 'non-coding RNA'),
                      metric = c('mean', 'median')) {
+  # round.to: how many decimal digits to keep in the output
+  #
   surv.types <- c('os', 'pfs')
   locos.todo <- names(gs)    # gs is imported from locos-info.R
   res.dirs <- list()

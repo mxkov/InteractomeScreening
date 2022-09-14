@@ -1,0 +1,6 @@
+Biocarta 1.2
+HumanCyc 1.0
+KEGG 1.2
+NCI 1.2
+Qiagen 1.5
+Reactome 1.3

@@ -26,7 +26,7 @@ data/TCGA-TGCT/
 pathways/**
 !pathways/arr_hgnc.zip
 !pathways/databases/
-!pathways/databases/databases.zip
+!pathways/databases/versions.txt
 
 # Big and irrelevant i/o files
 locos/**
@@ -48,6 +48,7 @@ locos/testis/
 scripts_common/**/trash/
 scripts_common/**/pre2903/
 scripts_common/runs/current*
+scripts_common/runs/new-normal/
 scripts_common/GO/
 !scripts_common/tools/
 
@@ -55,6 +56,6 @@ scripts_common/GO/
 report/**
 !report/HRboxes/
 !report/HRboxes/**
-!report/*.png
+!report/*.tiff
 
 

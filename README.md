@@ -10,7 +10,8 @@ This repository contains the source code and raw results for the interactome scr
 The repository already contains the pre-calculated results of the analysis, both raw and summarized. To summarize and analyze the results, all you need to do is unpack ```pathways/arr_hgnc.zip```. In order to run the entire pipeline from scratch, however, you will need to do the following:
 
 - Download the TCGA data to ```data/``` using the manifest files from its subdirectories. All files listed in a manifest should be downloaded to the same directory where this manifest is located. Additionally, files from the .tar.gz archives from ```data/TCGA-*/Clinical/``` and ```data/TCGA-*/Biospecimen/``` should be extracted to these respective directories.
-- Extract the files from ```pathways/arr_hgnc.zip``` and ```pathways/databases/databases.zip``` to ```pathways/``` and ```pathways/databases/```, respectively.
+- Extract the files from ```pathways/arr_hgnc.zip``` to ```pathways/```.
+- Download classical pathway databases from [OncoboxPD](https://open.oncobox.com): start a session, then switch from ```Folders``` to ```Databases``` in the menu at the top of the page. Database names and versions used in this project are specified in ```pathways/databases/versions.txt```. Place the database directories under ```pathways/databases/```.
 
 <sup>Hopefully I haven't missed anything.</sup>
 
@@ -33,6 +34,11 @@ To proceed to analyzing the pre-calculated results, skip steps 1-2 (and possibly
 
 ### Known Issues
 - Normal tissue controls are not yet implemented for classical PALs, as I did not get to try them out yet.
+
+### How to Cite
+- When using classical pathways from [OncoboxPD](https://open.oncobox.com), please cite:
+
+  Marianna A. Zolotovskaia, Victor S. Tkachev, Anastasia A. Guryanova, Alexander M. Simonov, Mikhail M. Raevskiy, Victor V. Efimov, Ye Wang, Marina I. Sekacheva, Andrew V. Garazha, Nicolas M. Borisov, Denis V. Kuzmin, Maxim I. Sorokin, Anton A. Buzdin (2022). OncoboxPD: human 51 672 molecular pathways database with tools for activity calculating and visualization. *Computational and Structural Biotechnology Journal*, *20*, 2280-2291. ISSN 2001-0370, https://doi.org/10.1016/j.csbj.2022.05.006.
 
 ### Contacts
 Feel free to ask questions, report issues, give feedback, etc. to kovalenko.ma@phystech.edu.

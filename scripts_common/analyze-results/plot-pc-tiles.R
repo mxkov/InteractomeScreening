@@ -1,5 +1,6 @@
 ## Makes the tile plot with biomarker percentages
 ## (yes, 'pc' stands for 'percentage')
+## The function call is at the very bottom
 
 source('scripts_common/locos-info.R')
 
@@ -7,6 +8,7 @@ plotpcs <- function(plotfile,
                     size.scale = TRUE, round.to = 1,
                     keep.accur = TRUE, log.scale = TRUE) {
   ## The parameters:
+  # plotfile: path to the output file
   # size.scale: max % in each case will have a larger label
   # round.to: number of decimal points for labels, >=0
   # keep.accur: disables '<10^(-round.to)%' labels
@@ -127,7 +129,7 @@ plotpcs <- function(plotfile,
           axis.text.y = element_text(size = cs),
           legend.key.height = unit(1.0, 'cm'),
           legend.key.width = unit(0.8, 'cm'),
-          legend.text = element_text(size = 10.5),
+          legend.text = element_text(size = 11),
           legend.title = element_text(size = cs),
           strip.text.x = element_text(size = cs))
   if(size.scale) {
@@ -151,9 +153,9 @@ plotpcs <- function(plotfile,
   
   # Saving the plot
   ggsave(plotfile, plot = p,
-         width = 2500, height = 2000, units = 'px', dpi = 350)
+         width = 7.5, height = 6.0, units = 'in', dpi = 300)
   message('Plot saved: ', plotfile)
 }
 
 
-plotpcs(file.path('report', 'summary_pc_tiles.png'))
+plotpcs(file.path('report', 'summary_pc_tiles.tiff'))

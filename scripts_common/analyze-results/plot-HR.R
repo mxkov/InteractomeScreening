@@ -1,4 +1,7 @@
 ## Makes the violin plots with hazard ratio distributions
+#
+## The plot is built by plotHRs(); the function call is at the very bottom.
+## The arguments are described under the function name.
 
 source('scripts_common/analyze-results/analyzing-functions.R')
 source('scripts_common/locos-info.R')
@@ -37,10 +40,16 @@ makeNAnnot <- function(res, g, item.labs, survtypes, plot = c(1,2)) {
 plotHRs <- function(outdir, bigfig = TRUE, squished = FALSE,
                     keep.loci = c('protein-coding gene',
                                   'non-coding RNA')) {
+  ## Parameters:
+  # outdir: path to the directory where the images will be written
+  # bigfig: controls the ABC labels, in case we need to combine the plots
+  #         into a big figure (like in the report)
+  # squished: if TRUE, the images will have smaller height (like in the report)
+  # keep.loci: which gene types we're using
+  #
   library('data.table')
   library('ggplot2')
   library('ggpubr')
-  print(keep.loci)
   dir.create(outdir, recursive = T, showWarnings = F)
   
   surv.types <- c('os', 'pfs')
@@ -149,32 +158,13 @@ plotHRs <- function(outdir, bigfig = TRUE, squished = FALSE,
   }
   
   # Now plot
-  # one plot for lung (2x2), one for kidney (2x2),
-  # one for headneck and liver (2x2),
-  # and mb another one.
-  #
-  # do this:
-  # - bar plot for all summ.nonempty;
-  # - selected plots for:
-  # LUSC: pfs only, no cross
-  # PRAD: pfs only, + cross
-  # LIHC: os+pfs, both with cross
-  # KIRC: os+pfs, both with cross
-  # KIRP: os+pfs, pfs with cross
-  # HNSC: os, + cross
-  # no bars: BLCA os, HNSC pfs, LUAD os+pfs, LUSC pfs
-  # discard: COAD, UCEC, SKCM, STAD
-  
-  # Okay. show the full plot (os+pfs, +cross) for LIHC and KIRC, the best ones.
-  # Maybe also PRAD pfs, KIRP pfs, and HNSC os.
-  # THe rest -- in suppl with no crosses: KIRP os, LUSC pfs, ...
   
   # Declaring titles/labels, some other plot parameters
   gs.best <- c('KIRC', 'KIRP', 'LIHC', 'HNSC', 'PRAD')    # order matters!
   title <- c('HNSC' = 'Head and Neck Squamous Cell Carcinoma (Overall Survival)',
-             'LIHC' = 'Liver Hepatocellular Carcinoma',
-             'KIRC' = 'Kidney Renal Clear Cell Carcinoma',
-             'KIRP' = 'Kidney Renal Papillary Cell Carcinoma',
+             'LIHC' = 'Hepatocellular Carcinoma',
+             'KIRC' = 'Clear Cell Renal Cell Carcinoma',
+             'KIRP' = 'Papillary Renal Cell Carcinoma',
              'PRAD' = 'Prostate Adenocarcinoma (Progression-free Survival)')
   gs.best.survtypes <- list('LIHC' = c('OS', 'PFS'),
                             'KIRC' = c('OS', 'PFS'),
@@ -188,60 +178,45 @@ plotHRs <- function(outdir, bigfig = TRUE, squished = FALSE,
   item.label <- c('G' = 'Genes', 'PW' = 'Gene-centric\nPathways',
                   'TRAD' = 'Classical\nPathways')
   # Now, plotting
-  p1.all <- list()
-  p2.all <- list()
   p.all <- list()
   count <- 1
   for(g in gs.best) {
+    p <- list(l = ggplot(), r = ggplot())    # 'left', 'right'
     n.st <- length(gs.best.survtypes[[g]])
-    ## p1: all signif items, simple violins
+    ## p$l: all signif items, simple violins
     res1 <- subset(results.all, group == g)
     res1 <- subset(res1, surv.type %in% gs.best.survtypes[[g]])
-    p1 <- ggplot(res1, aes(x = item.type, y = hr, fill = item.type)) +
+    p$l <- ggplot(res1, aes(x = item.type, y = hr, fill = item.type)) +
       geom_violin() + geom_boxplot(width = 0.1, outlier.shape = NA) +
-      geom_hline(yintercept = 1, linetype = 'dashed') +
-      scale_fill_brewer(palette = 'Accent') +
-      xlab(NULL) + ylab(ylbl) +
-      scale_x_discrete(labels = item.label) +
-      theme(axis.text.x = element_text(size = cs),
-            axis.text.y = element_text(size = cs),
-            legend.position = 'none',
-            strip.text.y = element_text(size = ifelse(squished, cs-1, cs)))
+      scale_x_discrete(labels = item.label)
     if(n.st > 1) {
-      p1 <- p1 + facet_grid(surv.type ~ .,
-                            labeller = labeller(surv.type = survtype.labels))
+      p$l <- p$l + facet_grid(surv.type ~ .,
+                              labeller = labeller(surv.type = survtype.labels))
     }
     # text annotation
     n.annot1 <- makeNAnnot(res1, g, names(item.label),
                            gs.best.survtypes[[g]], plot = 1)
-    p1 <- p1 + geom_text(aes(x = item.type, y = y, label = n),
-                         n.annot1, size = 3.5)
-    # save the y limits to align p2 later
-    p1.ylims <- layer_scales(p1)$y$range$range
-    ## p2: signif gpw, box+cross
+    p$l <- p$l + geom_text(aes(x = item.type, y = y, label = n),
+                           n.annot1, size = 3.5)
+    # save the y limits to align p$r later
+    left.ylims <- layer_scales(p$l)$y$range$range
+    ## p$r: signif gpw, box+cross
     res2 <- subset(results.gpw, group == g)
     res2 <- subset(res2, surv.type %in% gs.best.survtypes[[g]])
-    p2 <- ggplot(res2, aes(x = item.type, y = hr, fill = item.type)) +
+    p$r <- ggplot(res2, aes(x = item.type, y = hr, fill = item.type)) +
       geom_violin() +
-      geom_hline(yintercept = 1, linetype = 'dashed') +
-      scale_fill_brewer(palette = 'Accent') +
-      xlab(NULL) + ylab(ylbl) +
-      scale_x_discrete(labels = item.label[1:2]) +
-      theme(axis.text.x = element_text(size = cs),
-            axis.text.y = element_text(size = cs),
-            legend.position = 'none',
-            strip.text.y = element_text(size = ifelse(squished, cs-1, cs)))
+      scale_x_discrete(labels = item.label[1:2])
     if(n.st > 1) {
-      p2 <- p2 + facet_grid(surv.type ~ .,
-                            labeller = labeller(surv.type = survtype.labels))
+      p$r <- p$r + facet_grid(surv.type ~ .,
+                              labeller = labeller(surv.type = survtype.labels))
     }
-    # align the y axis with p1
-    p2 <- p2 + ylim(p1.ylims[1], p1.ylims[2])
+    # align the y axis with p$l
+    p$r <- p$r + ylim(left.ylims[1], left.ylims[2])
     # text annotation
     n.annot2 <- makeNAnnot(res2, g, names(item.label)[1:2],
                            gs.best.survtypes[[g]], plot = 2)
-    p2 <- p2 + geom_text(aes(x = item.type, y = y, label = n),
-                         n.annot2, size = 3.5)
+    p$r <- p$r + geom_text(aes(x = item.type, y = y, label = n),
+                           n.annot2, size = 3.5)
     # points, jitter
     set.seed(42)
     for(st in gs.best.survtypes[[g]]) {
@@ -266,23 +241,36 @@ plotHRs <- function(outdir, bigfig = TRUE, squished = FALSE,
         hrs <- c(res2.st.g$hr[i], res2.st.pw$hr[i])
         df <- data.frame(item.type = c(1+jitt.g[i], 2+jitt.pw[i]),
                          hr = hrs, surv.type = st)
-        p2 <- p2 + geom_line(aes(x = as.numeric(item.type), y = hr), df,
-                             inherit.aes = FALSE, alpha = 0.3, color = 'black',
-                             lwd = 0.4)
-        p2 <- p2 + geom_point(aes(x = as.numeric(item.type), y = hr), df,
-                              inherit.aes = FALSE, size = 1.5, shape = 3,
-                              alpha = 0.5)
+        p$r <- p$r + geom_line(aes(x = as.numeric(item.type), y = hr), df,
+                               inherit.aes = FALSE, alpha = 0.3,
+                               color = 'black', lwd = 0.4)
+        p$r <- p$r + geom_point(aes(x = as.numeric(item.type), y = hr), df,
+                                inherit.aes = FALSE, size = 1.5, shape = 3,
+                                alpha = 0.5)
       }
     }
-    p1.all[[g]] <- p1
-    p2.all[[g]] <- p2
-    # Arrange p1 and p2 into one plot
-    p <- ggarrange(p1, p2 + rremove('ylab'),
+    #
+    # Add common elements to both plots
+    for(k in 1:length(p)) {
+      p[[k]] <- p[[k]] +
+        geom_hline(yintercept = 1, linetype = 'dashed') +
+        scale_fill_brewer(palette = 'Accent') +
+        xlab(NULL) + ylab(ylbl) +
+        theme_light() +
+        theme(axis.text.x = element_text(size = cs),
+              axis.text.y = element_text(size = cs),
+              axis.line = element_line(color = 'black', lineend = 'butt'),
+              axis.ticks = element_line(color = 'black'),
+              legend.position = 'none',
+              strip.text.y = element_text(size = ifelse(squished, cs-1, cs),
+                                          color = 'black'),
+              strip.background = element_rect(fill = 'gray'))
+    }
+    #
+    # Arrange p$l and p$r into one plot
+    p <- ggarrange(p$l, p$r + rremove('ylab'),
                    ncol = 2, nrow = 1, widths = c(3,2),
                    labels = LETTERS[count:(count+1)], legend = 'none')
-    # bigfig controls the ABC labels,
-    # in case we need to combine the plots into a big figure
-    # (like in the report)
     if(bigfig) {
       count <- count + 2
       if(g == 'KIRP') { count <- 1 }
@@ -293,17 +281,17 @@ plotHRs <- function(outdir, bigfig = TRUE, squished = FALSE,
     # Save
     p.all[[g]] <- p
     if(n.st == 1) {
-      w <- 2500
-      h <- 1200
-      h <- ifelse(squished, 900, 1200)
+      w <- 7.5
+      h <- 3.6
+      h <- ifelse(squished, 2.7, 3.6)
     } else if(n.st == 2) {
-      w <- 2500
-      h <- 2000
-      h <- ifelse(squished, 1500, 2000)
+      w <- 7.5
+      h <- 6.0
+      h <- ifelse(squished, 4.5, 6.0)
     }
-    plotfile <- file.path(outdir, paste0('hr_', g, '.png'))
-    png(filename = plotfile, width = w, height = h,
-        units = 'px', res = 350)
+    plotfile <- file.path(outdir, paste0('hr_', g, '.tiff'))
+    tiff(filename = plotfile, width = w, height = h,
+         units = 'in', res = 300)
     print(p)
     dev.off()
     message('Plot saved: ', plotfile)
@@ -311,4 +299,5 @@ plotHRs <- function(outdir, bigfig = TRUE, squished = FALSE,
 }
 
 plotHRs(file.path('report', 'HRboxes'), squished = F)
+
 

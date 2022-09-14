@@ -567,6 +567,12 @@ dataprepTCGA <- function(projects, data.root, results.dir,
                             header = F)[,1]
   PAL <- calcPAL(m3, ARR, missing.genes, use_normal = use.normal)
   if(is.null(PAL)) { return() }
+  #
+  # New addition: some clin.df entries only describe normal samples.
+  clin.df <- subset(clin.df,
+                    case_submitter_id %in% substr(colnames(PAL), 1, 12))
+  write.csv(clin.df, clin.outfile, quote = F, row.names = F)
+  #
   pal.file <- file.path(results.dir, paste0('PAL_', program, '.csv'))
   fwrite(cbind(data.table(V1 = rownames(PAL)), as.data.table(PAL)),
          file = pal.file, quote = F)

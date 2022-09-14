@@ -12,7 +12,7 @@ for(l in locos) {
   }
   source(arg.script)
   argums <- getArgs()
-  resdir <- file.path('locos', l, 'results_TCGA_test')
+  resdir <- file.path('locos', l, 'results_TCGA')
   doLoco(paste0('TCGA-',gs[[l]]), 'TCGA',
          'data', l, resdir,
          argums$bfil, argums$bfld, argums$dp,

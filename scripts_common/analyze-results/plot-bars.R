@@ -1,9 +1,18 @@
 ## Makes a bar plot summarizing the results
+## The actual function call is at the bottom
 
 source('scripts_common/locos-info.R')
 
 plotBars <- function(plotfile, plot.stable = FALSE,
                      lab.type = c('abbr', 'full')) {
+  ## Parameters:
+  # plotfile: path to the output file
+  # plot.stable: whether to plot the numbers of significant genes
+  #              paired with respective gene-centric pathways if the latter
+  #              are also significant
+  # lab.type: full for full x-axis tick labels (the cancer types),
+  #           abbr for abbreviated
+  #
   library('data.table')
   library('ggplot2')
   library('viridis')
@@ -58,23 +67,23 @@ plotBars <- function(plotfile, plot.stable = FALSE,
                    'trad.pws.n' = paste0('Signif. classical pathways\n(',
                                          max(summ$trad.pws.n.total), ' total)'))
   if(lab.type == 'abbr') {
-    ls <- 10    # label size
+    ls <- 11    # label size
     bar.labs <- c('BLCA' = 'Urothelial carc.',
                   'HNSC' = 'Head & Neck\nsq. c. carc.',
-                  'KIRC' = 'Kidney renal\nclear c. carc.',
-                  'KIRP' = 'Kidney renal\npapill. c. carc.',
-                  'LIHC' = 'Liver\nhepatocellular\ncarc.',
+                  'KIRC' = 'Clear cell\nrenal cell carc.',
+                  'KIRP' = 'Papillary\nrenal cell carc.',
+                  'LIHC' = 'Hepatocellular\ncarc.',
                   'LUAD' = 'Lung\nadenocarc.',
                   'LUSC' = 'Lung sq. c. carc.',
                   'PRAD' = 'Prostate\nadenocarc.',
                   'SARC' = 'Sarcomas')
   } else if(lab.type == 'full') {
-    ls <- 9.5
+    ls <- 10
     bar.labs <- c('BLCA' = 'Urothelial\ncarcinoma',
                   'HNSC' = 'Head & Neck\nsquamous cell\ncarcinoma',
-                  'KIRC' = 'Renal\nclear cell\ncarcnoma',
-                  'KIRP' = 'Renal\npapillary cell\ncarcinoma',
-                  'LIHC' = 'Hepato-\ncellular\ncarcinoma',
+                  'KIRC' = 'Clear cell\nrenal cell carcinoma',
+                  'KIRP' = 'Papillary renal\ncell carcinoma',
+                  'LIHC' = 'Hepatocellular\ncarcinoma',
                   'LUAD' = 'Lung\nadenocarcinoma',
                   'LUSC' = 'Lung squamous\ncell carcinoma',
                   'PRAD' = 'Prostate\nadenocarcinoma',
@@ -111,28 +120,26 @@ plotBars <- function(plotfile, plot.stable = FALSE,
     geom_bar(stat = 'identity', position = position_dodge()) +
     scale_fill_viridis(option = 'magma', discrete = T, begin = 0.1, end = 0.8) +
     geom_text(aes(label = LAB), angle = 90, hjust = -0.05, vjust = 0.45,
-              size = 2.5, position = position_dodge(0.7)) +
+              size = 2.7, position = position_dodge(0.7)) +
     facet_grid(surv.type ~ ., labeller = labeller(surv.type = survtype.labs)) +
     labs(fill = NULL) + xlab(NULL) + ylab('Count') +
     scale_x_discrete(labels = bar.labs) +
     scale_y_continuous(trans = 'log10', limits = c(1, 10^5.4)) +
+    theme_light() +
     theme(axis.text.x = element_text(angle = 40, hjust = 1, size = ls),
           axis.text.y = element_text(size = cs),
           axis.title.y = element_text(size = cs),
+          axis.line = element_line(color = 'black', lineend = 'butt'),
+          axis.ticks = element_line(color = 'black'),
           legend.position = 'top',
-          legend.text = element_text(size = 9.5),
-          strip.text.y = element_text(size = cs))
-  # Color scale options:
-  # With labels on bars (geom_text hjust > 0):
-  # scale_fill_manual(values = RColorBrewer::brewer.pal(9, 'Blues')[8:5])
-  # scale_fill_manual(values = RColorBrewer::brewer.pal(9, 'Greys')[7:4])
-  # With labels over bars (geom_text hjust < 0):
-  # scale_fill_viridis(option = 'magma', discrete = T, begin = 0.1, end = 0.8)
+          legend.text = element_text(size = 10),
+          strip.text.y = element_text(size = cs, color = 'black'),
+          strip.background = element_rect(fill = 'gray'))
   
   # Saving the plot
   ggsave(plotfile, plot = p,
-         width = 2500, height = 2200, units = 'px', dpi = 350)
+         width = 7.5, height = 6.6, units = 'in', dpi = 300)
   message('Plot saved: ', plotfile)
 }
 
-plotBars(file.path('report', 'summary_bars.png'), lab.type = 'full')
+plotBars(file.path('report', 'summary_bars.tiff'), lab.type = 'full')
